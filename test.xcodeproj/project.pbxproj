@@ -1,0 +1,830 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		77E868941C58E6EA005293C9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 77E868931C58E6E9005293C9 /* AppDelegate.m */; };
+		77E868971C58E6EA005293C9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 77E868961C58E6EA005293C9 /* main.m */; };
+		77E8689A1C58E6EA005293C9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 77E868991C58E6EA005293C9 /* ViewController.m */; };
+		77E8689C1C58E6EA005293C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77E8689B1C58E6EA005293C9 /* Assets.xcassets */; };
+		77E8689F1C58E6EA005293C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77E8689D1C58E6EA005293C9 /* Main.storyboard */; };
+		77E8690F1C58E79E005293C9 /* DHcell.m in Sources */ = {isa = PBXBuildFile; fileRef = 77E868C51C58E79D005293C9 /* DHcell.m */; };
+		77E869101C58E79E005293C9 /* DHxlsReaderIOS.m in Sources */ = {isa = PBXBuildFile; fileRef = 77E868C81C58E79D005293C9 /* DHxlsReaderIOS.m */; };
+		77E869111C58E79E005293C9 /* .cproject in Resources */ = {isa = PBXBuildFile; fileRef = 77E868CA1C58E79D005293C9 /* .cproject */; };
+		77E869121C58E79E005293C9 /* .cvsignore in Resources */ = {isa = PBXBuildFile; fileRef = 77E868CB1C58E79D005293C9 /* .cvsignore */; };
+		77E869131C58E79E005293C9 /* aclocal.m4 in Resources */ = {isa = PBXBuildFile; fileRef = 77E868CC1C58E79D005293C9 /* aclocal.m4 */; };
+		77E869141C58E79E005293C9 /* AUTHORS in Resources */ = {isa = PBXBuildFile; fileRef = 77E868CD1C58E79D005293C9 /* AUTHORS */; };
+		77E869151C58E79E005293C9 /* bootstrap in Resources */ = {isa = PBXBuildFile; fileRef = 77E868CE1C58E79D005293C9 /* bootstrap */; };
+		77E869161C58E79E005293C9 /* config.guess in Resources */ = {isa = PBXBuildFile; fileRef = 77E868CF1C58E79D005293C9 /* config.guess */; };
+		77E869171C58E79E005293C9 /* config.h.in in Resources */ = {isa = PBXBuildFile; fileRef = 77E868D01C58E79D005293C9 /* config.h.in */; };
+		77E869181C58E79E005293C9 /* config.sub in Resources */ = {isa = PBXBuildFile; fileRef = 77E868D11C58E79D005293C9 /* config.sub */; };
+		77E869191C58E79E005293C9 /* configure in Resources */ = {isa = PBXBuildFile; fileRef = 77E868D21C58E79D005293C9 /* configure */; };
+		77E8691A1C58E79E005293C9 /* configure.in in Resources */ = {isa = PBXBuildFile; fileRef = 77E868D31C58E79D005293C9 /* configure.in */; };
+		77E8691B1C58E79E005293C9 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77E868D51C58E79D005293C9 /* main.cpp */; };
+		77E8691C1C58E79E005293C9 /* Makefile in Sources */ = {isa = PBXBuildFile; fileRef = 77E868D61C58E79D005293C9 /* Makefile */; };
+		77E8691D1C58E79E005293C9 /* XlsReader.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77E868D71C58E79D005293C9 /* XlsReader.cpp */; };
+		77E8691E1C58E79E005293C9 /* depcomp in Resources */ = {isa = PBXBuildFile; fileRef = 77E868D91C58E79E005293C9 /* depcomp */; };
+		77E8691F1C58E79E005293C9 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 77E868DC1C58E79E005293C9 /* index.html */; };
+		77E869201C58E79E005293C9 /* stylesheet.css in Resources */ = {isa = PBXBuildFile; fileRef = 77E868DD1C58E79E005293C9 /* stylesheet.css */; };
+		77E869211C58E79E005293C9 /* .cvsignore in Resources */ = {isa = PBXBuildFile; fileRef = 77E868DF1C58E79E005293C9 /* .cvsignore */; };
+		77E869221C58E79E005293C9 /* .cvsignore in Resources */ = {isa = PBXBuildFile; fileRef = 77E868E11C58E79E005293C9 /* .cvsignore */; };
+		77E869231C58E79E005293C9 /* Makefile.am in Resources */ = {isa = PBXBuildFile; fileRef = 77E868E41C58E79E005293C9 /* Makefile.am */; };
+		77E869241C58E79E005293C9 /* Makefile.in in Resources */ = {isa = PBXBuildFile; fileRef = 77E868E51C58E79E005293C9 /* Makefile.in */; };
+		77E869251C58E79E005293C9 /* Makefile.am in Resources */ = {isa = PBXBuildFile; fileRef = 77E868EB1C58E79E005293C9 /* Makefile.am */; };
+		77E869261C58E79E005293C9 /* Makefile.in in Resources */ = {isa = PBXBuildFile; fileRef = 77E868EC1C58E79E005293C9 /* Makefile.in */; };
+		77E869271C58E79E005293C9 /* INSTALL in Resources */ = {isa = PBXBuildFile; fileRef = 77E868ED1C58E79E005293C9 /* INSTALL */; };
+		77E869281C58E79E005293C9 /* install-sh in Resources */ = {isa = PBXBuildFile; fileRef = 77E868EE1C58E79E005293C9 /* install-sh */; };
+		77E869291C58E79E005293C9 /* ltmain.sh in Resources */ = {isa = PBXBuildFile; fileRef = 77E868EF1C58E79E005293C9 /* ltmain.sh */; };
+		77E8692A1C58E79E005293C9 /* libtool.m4 in Resources */ = {isa = PBXBuildFile; fileRef = 77E868F11C58E79E005293C9 /* libtool.m4 */; };
+		77E8692B1C58E79E005293C9 /* ltoptions.m4 in Resources */ = {isa = PBXBuildFile; fileRef = 77E868F21C58E79E005293C9 /* ltoptions.m4 */; };
+		77E8692C1C58E79E005293C9 /* ltsugar.m4 in Resources */ = {isa = PBXBuildFile; fileRef = 77E868F31C58E79E005293C9 /* ltsugar.m4 */; };
+		77E8692D1C58E79E005293C9 /* ltversion.m4 in Resources */ = {isa = PBXBuildFile; fileRef = 77E868F41C58E79E005293C9 /* ltversion.m4 */; };
+		77E8692E1C58E79E005293C9 /* lt~obsolete.m4 in Resources */ = {isa = PBXBuildFile; fileRef = 77E868F51C58E79E005293C9 /* lt~obsolete.m4 */; };
+		77E8692F1C58E79E005293C9 /* Makefile.am in Resources */ = {isa = PBXBuildFile; fileRef = 77E868F61C58E79E005293C9 /* Makefile.am */; };
+		77E869301C58E79E005293C9 /* Makefile.in in Resources */ = {isa = PBXBuildFile; fileRef = 77E868F71C58E79E005293C9 /* Makefile.in */; };
+		77E869311C58E79E005293C9 /* missing in Resources */ = {isa = PBXBuildFile; fileRef = 77E868F81C58E79E005293C9 /* missing */; };
+		77E869321C58E79E005293C9 /* mkinstalldirs in Resources */ = {isa = PBXBuildFile; fileRef = 77E868F91C58E79E005293C9 /* mkinstalldirs */; };
+		77E869331C58E79E005293C9 /* .cvsignore in Resources */ = {isa = PBXBuildFile; fileRef = 77E868FB1C58E79E005293C9 /* .cvsignore */; };
+		77E869341C58E79E005293C9 /* getopt.c in Sources */ = {isa = PBXBuildFile; fileRef = 77E868FC1C58E79E005293C9 /* getopt.c */; };
+		77E869351C58E79E005293C9 /* Makefile.am in Resources */ = {isa = PBXBuildFile; fileRef = 77E868FD1C58E79E005293C9 /* Makefile.am */; };
+		77E869361C58E79E005293C9 /* Makefile.in in Resources */ = {isa = PBXBuildFile; fileRef = 77E868FE1C58E79E005293C9 /* Makefile.in */; };
+		77E869371C58E79E005293C9 /* ole.c in Sources */ = {isa = PBXBuildFile; fileRef = 77E868FF1C58E79E005293C9 /* ole.c */; };
+		77E869381C58E79E005293C9 /* xls.c in Sources */ = {isa = PBXBuildFile; fileRef = 77E869001C58E79E005293C9 /* xls.c */; };
+		77E869391C58E79E005293C9 /* xls2csv.c in Sources */ = {isa = PBXBuildFile; fileRef = 77E869011C58E79E005293C9 /* xls2csv.c */; };
+		77E8693A1C58E79E005293C9 /* xlstool.c in Sources */ = {isa = PBXBuildFile; fileRef = 77E869021C58E79E005293C9 /* xlstool.c */; };
+		77E8693B1C58E79E005293C9 /* stamp-h.in in Resources */ = {isa = PBXBuildFile; fileRef = 77E869031C58E79E005293C9 /* stamp-h.in */; };
+		77E8693C1C58E79E005293C9 /* .cvsignore in Resources */ = {isa = PBXBuildFile; fileRef = 77E869051C58E79E005293C9 /* .cvsignore */; };
+		77E8693E1C58E79E005293C9 /* Makefile.am in Resources */ = {isa = PBXBuildFile; fileRef = 77E869081C58E79E005293C9 /* Makefile.am */; };
+		77E8693F1C58E79E005293C9 /* Makefile.in in Resources */ = {isa = PBXBuildFile; fileRef = 77E869091C58E79E005293C9 /* Makefile.in */; };
+		77E869421C58E79E005293C9 /* TODO in Resources */ = {isa = PBXBuildFile; fileRef = 77E8690C1C58E79E005293C9 /* TODO */; };
+		77E869431C58E79E005293C9 /* test.xls in Resources */ = {isa = PBXBuildFile; fileRef = 77E8690D1C58E79E005293C9 /* test.xls */; };
+		77E869441C58E79E005293C9 /* test.xlsx in Resources */ = {isa = PBXBuildFile; fileRef = 77E8690E1C58E79E005293C9 /* test.xlsx */; };
+		77E86A111C592C52005293C9 /* libiconv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 77E86A101C592C52005293C9 /* libiconv.tbd */; };
+		77E86A131C5930E5005293C9 /* trans.xls in Resources */ = {isa = PBXBuildFile; fileRef = 77E86A121C5930E5005293C9 /* trans.xls */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		77E868A61C58E6EA005293C9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 77E868871C58E6E9005293C9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 77E8688E1C58E6E9005293C9;
+			remoteInfo = test;
+		};
+		77E868B11C58E6EA005293C9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 77E868871C58E6E9005293C9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 77E8688E1C58E6E9005293C9;
+			remoteInfo = test;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		77E8688F1C58E6E9005293C9 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		77E868921C58E6E9005293C9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		77E868931C58E6E9005293C9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		77E868961C58E6EA005293C9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		77E868981C58E6EA005293C9 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		77E868991C58E6EA005293C9 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		77E8689B1C58E6EA005293C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		77E8689E1C58E6EA005293C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		77E868A01C58E6EA005293C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77E868A51C58E6EA005293C9 /* testTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		77E868B01C58E6EA005293C9 /* testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		77E868C31C58E79D005293C9 /* DHcell-Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "DHcell-Private.h"; sourceTree = "<group>"; };
+		77E868C41C58E79D005293C9 /* DHcell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DHcell.h; sourceTree = "<group>"; };
+		77E868C51C58E79D005293C9 /* DHcell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHcell.m; sourceTree = "<group>"; };
+		77E868C61C58E79D005293C9 /* DHxlsReaderIOS-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "DHxlsReaderIOS-Prefix.pch"; sourceTree = "<group>"; };
+		77E868C71C58E79D005293C9 /* DHxlsReaderIOS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DHxlsReaderIOS.h; sourceTree = "<group>"; };
+		77E868C81C58E79D005293C9 /* DHxlsReaderIOS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHxlsReaderIOS.m; sourceTree = "<group>"; };
+		77E868CA1C58E79D005293C9 /* .cproject */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = .cproject; sourceTree = "<group>"; };
+		77E868CB1C58E79D005293C9 /* .cvsignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .cvsignore; sourceTree = "<group>"; };
+		77E868CC1C58E79D005293C9 /* aclocal.m4 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = aclocal.m4; sourceTree = "<group>"; };
+		77E868CD1C58E79D005293C9 /* AUTHORS */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AUTHORS; sourceTree = "<group>"; };
+		77E868CE1C58E79D005293C9 /* bootstrap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = bootstrap; sourceTree = "<group>"; };
+		77E868CF1C58E79D005293C9 /* config.guess */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = config.guess; sourceTree = "<group>"; };
+		77E868D01C58E79D005293C9 /* config.h.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = config.h.in; sourceTree = "<group>"; };
+		77E868D11C58E79D005293C9 /* config.sub */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = config.sub; sourceTree = "<group>"; };
+		77E868D21C58E79D005293C9 /* configure */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = configure; sourceTree = "<group>"; };
+		77E868D31C58E79D005293C9 /* configure.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = configure.in; sourceTree = "<group>"; };
+		77E868D51C58E79D005293C9 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		77E868D61C58E79D005293C9 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		77E868D71C58E79D005293C9 /* XlsReader.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = XlsReader.cpp; sourceTree = "<group>"; };
+		77E868D81C58E79D005293C9 /* XlsReader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XlsReader.h; sourceTree = "<group>"; };
+		77E868D91C58E79E005293C9 /* depcomp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = depcomp; sourceTree = "<group>"; };
+		77E868DC1C58E79E005293C9 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		77E868DD1C58E79E005293C9 /* stylesheet.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = stylesheet.css; sourceTree = "<group>"; };
+		77E868DF1C58E79E005293C9 /* .cvsignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .cvsignore; sourceTree = "<group>"; };
+		77E868E11C58E79E005293C9 /* .cvsignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .cvsignore; sourceTree = "<group>"; };
+		77E868E21C58E79E005293C9 /* brdb.c.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = brdb.c.h; sourceTree = "<group>"; };
+		77E868E31C58E79E005293C9 /* brdb.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = brdb.h; sourceTree = "<group>"; };
+		77E868E41C58E79E005293C9 /* Makefile.am */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.am; sourceTree = "<group>"; };
+		77E868E51C58E79E005293C9 /* Makefile.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.in; sourceTree = "<group>"; };
+		77E868E61C58E79E005293C9 /* ole.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ole.h; sourceTree = "<group>"; };
+		77E868E71C58E79E005293C9 /* xls.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xls.h; sourceTree = "<group>"; };
+		77E868E81C58E79E005293C9 /* xlsstruct.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xlsstruct.h; sourceTree = "<group>"; };
+		77E868E91C58E79E005293C9 /* xlstool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xlstool.h; sourceTree = "<group>"; };
+		77E868EA1C58E79E005293C9 /* xlstypes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xlstypes.h; sourceTree = "<group>"; };
+		77E868EB1C58E79E005293C9 /* Makefile.am */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.am; sourceTree = "<group>"; };
+		77E868EC1C58E79E005293C9 /* Makefile.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.in; sourceTree = "<group>"; };
+		77E868ED1C58E79E005293C9 /* INSTALL */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = INSTALL; sourceTree = "<group>"; };
+		77E868EE1C58E79E005293C9 /* install-sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "install-sh"; sourceTree = "<group>"; };
+		77E868EF1C58E79E005293C9 /* ltmain.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = ltmain.sh; sourceTree = "<group>"; };
+		77E868F11C58E79E005293C9 /* libtool.m4 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = libtool.m4; sourceTree = "<group>"; };
+		77E868F21C58E79E005293C9 /* ltoptions.m4 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ltoptions.m4; sourceTree = "<group>"; };
+		77E868F31C58E79E005293C9 /* ltsugar.m4 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ltsugar.m4; sourceTree = "<group>"; };
+		77E868F41C58E79E005293C9 /* ltversion.m4 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ltversion.m4; sourceTree = "<group>"; };
+		77E868F51C58E79E005293C9 /* lt~obsolete.m4 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "lt~obsolete.m4"; sourceTree = "<group>"; };
+		77E868F61C58E79E005293C9 /* Makefile.am */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.am; sourceTree = "<group>"; };
+		77E868F71C58E79E005293C9 /* Makefile.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.in; sourceTree = "<group>"; };
+		77E868F81C58E79E005293C9 /* missing */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = missing; sourceTree = "<group>"; };
+		77E868F91C58E79E005293C9 /* mkinstalldirs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = mkinstalldirs; sourceTree = "<group>"; };
+		77E868FB1C58E79E005293C9 /* .cvsignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .cvsignore; sourceTree = "<group>"; };
+		77E868FC1C58E79E005293C9 /* getopt.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = getopt.c; sourceTree = "<group>"; };
+		77E868FD1C58E79E005293C9 /* Makefile.am */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.am; sourceTree = "<group>"; };
+		77E868FE1C58E79E005293C9 /* Makefile.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.in; sourceTree = "<group>"; };
+		77E868FF1C58E79E005293C9 /* ole.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ole.c; sourceTree = "<group>"; };
+		77E869001C58E79E005293C9 /* xls.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = xls.c; sourceTree = "<group>"; };
+		77E869011C58E79E005293C9 /* xls2csv.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = xls2csv.c; sourceTree = "<group>"; };
+		77E869021C58E79E005293C9 /* xlstool.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = xlstool.c; sourceTree = "<group>"; };
+		77E869031C58E79E005293C9 /* stamp-h.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "stamp-h.in"; sourceTree = "<group>"; };
+		77E869051C58E79E005293C9 /* .cvsignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .cvsignore; sourceTree = "<group>"; };
+		77E869071C58E79E005293C9 /* test2.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = test2.xls; sourceTree = "<group>"; };
+		77E869081C58E79E005293C9 /* Makefile.am */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.am; sourceTree = "<group>"; };
+		77E869091C58E79E005293C9 /* Makefile.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.in; sourceTree = "<group>"; };
+		77E8690A1C58E79E005293C9 /* test.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = test.c; sourceTree = "<group>"; };
+		77E8690B1C58E79E005293C9 /* test2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = test2.c; sourceTree = "<group>"; };
+		77E8690C1C58E79E005293C9 /* TODO */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TODO; sourceTree = "<group>"; };
+		77E8690D1C58E79E005293C9 /* test.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.xls; sourceTree = "<group>"; };
+		77E8690E1C58E79E005293C9 /* test.xlsx */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.xlsx; sourceTree = "<group>"; };
+		77E869451C58E860005293C9 /* config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = config.h; sourceTree = "<group>"; };
+		77E869461C58E910005293C9 /* prefix.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = prefix.h; sourceTree = "<group>"; };
+		77E86A101C592C52005293C9 /* libiconv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libiconv.tbd; path = usr/lib/libiconv.tbd; sourceTree = SDKROOT; };
+		77E86A121C5930E5005293C9 /* trans.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = trans.xls; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		77E8688C1C58E6E9005293C9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				77E86A111C592C52005293C9 /* libiconv.tbd in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77E868A21C58E6EA005293C9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77E868AD1C58E6EA005293C9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		77E868861C58E6E9005293C9 = {
+			isa = PBXGroup;
+			children = (
+				77E86A101C592C52005293C9 /* libiconv.tbd */,
+				77E869451C58E860005293C9 /* config.h */,
+				77E868C21C58E79D005293C9 /* DHxlsReaderIOS */,
+				77E868C91C58E79D005293C9 /* libxls */,
+				77E8690D1C58E79E005293C9 /* test.xls */,
+				77E8690E1C58E79E005293C9 /* test.xlsx */,
+				77E86A121C5930E5005293C9 /* trans.xls */,
+				77E868911C58E6E9005293C9 /* test */,
+				77E868901C58E6E9005293C9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		77E868901C58E6E9005293C9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				77E8688F1C58E6E9005293C9 /* test.app */,
+				77E868A51C58E6EA005293C9 /* testTests.xctest */,
+				77E868B01C58E6EA005293C9 /* testUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		77E868911C58E6E9005293C9 /* test */ = {
+			isa = PBXGroup;
+			children = (
+				77E868921C58E6E9005293C9 /* AppDelegate.h */,
+				77E868931C58E6E9005293C9 /* AppDelegate.m */,
+				77E868981C58E6EA005293C9 /* ViewController.h */,
+				77E868991C58E6EA005293C9 /* ViewController.m */,
+				77E8689B1C58E6EA005293C9 /* Assets.xcassets */,
+				77E8689D1C58E6EA005293C9 /* Main.storyboard */,
+				77E868A01C58E6EA005293C9 /* Info.plist */,
+				77E868951C58E6EA005293C9 /* Supporting Files */,
+			);
+			path = test;
+			sourceTree = "<group>";
+		};
+		77E868951C58E6EA005293C9 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				77E868961C58E6EA005293C9 /* main.m */,
+				77E869461C58E910005293C9 /* prefix.h */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		77E868C21C58E79D005293C9 /* DHxlsReaderIOS */ = {
+			isa = PBXGroup;
+			children = (
+				77E868C31C58E79D005293C9 /* DHcell-Private.h */,
+				77E868C41C58E79D005293C9 /* DHcell.h */,
+				77E868C51C58E79D005293C9 /* DHcell.m */,
+				77E868C61C58E79D005293C9 /* DHxlsReaderIOS-Prefix.pch */,
+				77E868C71C58E79D005293C9 /* DHxlsReaderIOS.h */,
+				77E868C81C58E79D005293C9 /* DHxlsReaderIOS.m */,
+			);
+			path = DHxlsReaderIOS;
+			sourceTree = "<group>";
+		};
+		77E868C91C58E79D005293C9 /* libxls */ = {
+			isa = PBXGroup;
+			children = (
+				77E868CA1C58E79D005293C9 /* .cproject */,
+				77E868CB1C58E79D005293C9 /* .cvsignore */,
+				77E868CC1C58E79D005293C9 /* aclocal.m4 */,
+				77E868CD1C58E79D005293C9 /* AUTHORS */,
+				77E868CE1C58E79D005293C9 /* bootstrap */,
+				77E868CF1C58E79D005293C9 /* config.guess */,
+				77E868D01C58E79D005293C9 /* config.h.in */,
+				77E868D11C58E79D005293C9 /* config.sub */,
+				77E868D21C58E79D005293C9 /* configure */,
+				77E868D31C58E79D005293C9 /* configure.in */,
+				77E868D41C58E79D005293C9 /* cplusplus */,
+				77E868D91C58E79E005293C9 /* depcomp */,
+				77E868DA1C58E79E005293C9 /* doc */,
+				77E868DE1C58E79E005293C9 /* include */,
+				77E868ED1C58E79E005293C9 /* INSTALL */,
+				77E868EE1C58E79E005293C9 /* install-sh */,
+				77E868EF1C58E79E005293C9 /* ltmain.sh */,
+				77E868F01C58E79E005293C9 /* m4 */,
+				77E868F61C58E79E005293C9 /* Makefile.am */,
+				77E868F71C58E79E005293C9 /* Makefile.in */,
+				77E868F81C58E79E005293C9 /* missing */,
+				77E868F91C58E79E005293C9 /* mkinstalldirs */,
+				77E868FA1C58E79E005293C9 /* src */,
+				77E869031C58E79E005293C9 /* stamp-h.in */,
+				77E869041C58E79E005293C9 /* test */,
+				77E8690C1C58E79E005293C9 /* TODO */,
+			);
+			path = libxls;
+			sourceTree = "<group>";
+		};
+		77E868D41C58E79D005293C9 /* cplusplus */ = {
+			isa = PBXGroup;
+			children = (
+				77E868D51C58E79D005293C9 /* main.cpp */,
+				77E868D61C58E79D005293C9 /* Makefile */,
+				77E868D71C58E79D005293C9 /* XlsReader.cpp */,
+				77E868D81C58E79D005293C9 /* XlsReader.h */,
+			);
+			path = cplusplus;
+			sourceTree = "<group>";
+		};
+		77E868DA1C58E79E005293C9 /* doc */ = {
+			isa = PBXGroup;
+			children = (
+				77E868DB1C58E79E005293C9 /* homepage */,
+			);
+			path = doc;
+			sourceTree = "<group>";
+		};
+		77E868DB1C58E79E005293C9 /* homepage */ = {
+			isa = PBXGroup;
+			children = (
+				77E868DC1C58E79E005293C9 /* index.html */,
+				77E868DD1C58E79E005293C9 /* stylesheet.css */,
+			);
+			path = homepage;
+			sourceTree = "<group>";
+		};
+		77E868DE1C58E79E005293C9 /* include */ = {
+			isa = PBXGroup;
+			children = (
+				77E868DF1C58E79E005293C9 /* .cvsignore */,
+				77E868E01C58E79E005293C9 /* libxls */,
+				77E868EB1C58E79E005293C9 /* Makefile.am */,
+				77E868EC1C58E79E005293C9 /* Makefile.in */,
+			);
+			path = include;
+			sourceTree = "<group>";
+		};
+		77E868E01C58E79E005293C9 /* libxls */ = {
+			isa = PBXGroup;
+			children = (
+				77E868E11C58E79E005293C9 /* .cvsignore */,
+				77E868E21C58E79E005293C9 /* brdb.c.h */,
+				77E868E31C58E79E005293C9 /* brdb.h */,
+				77E868E41C58E79E005293C9 /* Makefile.am */,
+				77E868E51C58E79E005293C9 /* Makefile.in */,
+				77E868E61C58E79E005293C9 /* ole.h */,
+				77E868E71C58E79E005293C9 /* xls.h */,
+				77E868E81C58E79E005293C9 /* xlsstruct.h */,
+				77E868E91C58E79E005293C9 /* xlstool.h */,
+				77E868EA1C58E79E005293C9 /* xlstypes.h */,
+			);
+			path = libxls;
+			sourceTree = "<group>";
+		};
+		77E868F01C58E79E005293C9 /* m4 */ = {
+			isa = PBXGroup;
+			children = (
+				77E868F11C58E79E005293C9 /* libtool.m4 */,
+				77E868F21C58E79E005293C9 /* ltoptions.m4 */,
+				77E868F31C58E79E005293C9 /* ltsugar.m4 */,
+				77E868F41C58E79E005293C9 /* ltversion.m4 */,
+				77E868F51C58E79E005293C9 /* lt~obsolete.m4 */,
+			);
+			path = m4;
+			sourceTree = "<group>";
+		};
+		77E868FA1C58E79E005293C9 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				77E868FB1C58E79E005293C9 /* .cvsignore */,
+				77E868FC1C58E79E005293C9 /* getopt.c */,
+				77E868FD1C58E79E005293C9 /* Makefile.am */,
+				77E868FE1C58E79E005293C9 /* Makefile.in */,
+				77E868FF1C58E79E005293C9 /* ole.c */,
+				77E869001C58E79E005293C9 /* xls.c */,
+				77E869011C58E79E005293C9 /* xls2csv.c */,
+				77E869021C58E79E005293C9 /* xlstool.c */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		77E869041C58E79E005293C9 /* test */ = {
+			isa = PBXGroup;
+			children = (
+				77E869051C58E79E005293C9 /* .cvsignore */,
+				77E869061C58E79E005293C9 /* files */,
+				77E869081C58E79E005293C9 /* Makefile.am */,
+				77E869091C58E79E005293C9 /* Makefile.in */,
+				77E8690A1C58E79E005293C9 /* test.c */,
+				77E8690B1C58E79E005293C9 /* test2.c */,
+			);
+			path = test;
+			sourceTree = "<group>";
+		};
+		77E869061C58E79E005293C9 /* files */ = {
+			isa = PBXGroup;
+			children = (
+				77E869071C58E79E005293C9 /* test2.xls */,
+			);
+			path = files;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		77E8688E1C58E6E9005293C9 /* test */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 77E868B91C58E6EA005293C9 /* Build configuration list for PBXNativeTarget "test" */;
+			buildPhases = (
+				77E8688B1C58E6E9005293C9 /* Sources */,
+				77E8688C1C58E6E9005293C9 /* Frameworks */,
+				77E8688D1C58E6E9005293C9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = test;
+			productName = test;
+			productReference = 77E8688F1C58E6E9005293C9 /* test.app */;
+			productType = "com.apple.product-type.application";
+		};
+		77E868A41C58E6EA005293C9 /* testTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 77E868BC1C58E6EA005293C9 /* Build configuration list for PBXNativeTarget "testTests" */;
+			buildPhases = (
+				77E868A11C58E6EA005293C9 /* Sources */,
+				77E868A21C58E6EA005293C9 /* Frameworks */,
+				77E868A31C58E6EA005293C9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				77E868A71C58E6EA005293C9 /* PBXTargetDependency */,
+			);
+			name = testTests;
+			productName = testTests;
+			productReference = 77E868A51C58E6EA005293C9 /* testTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		77E868AF1C58E6EA005293C9 /* testUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 77E868BF1C58E6EA005293C9 /* Build configuration list for PBXNativeTarget "testUITests" */;
+			buildPhases = (
+				77E868AC1C58E6EA005293C9 /* Sources */,
+				77E868AD1C58E6EA005293C9 /* Frameworks */,
+				77E868AE1C58E6EA005293C9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				77E868B21C58E6EA005293C9 /* PBXTargetDependency */,
+			);
+			name = testUITests;
+			productName = testUITests;
+			productReference = 77E868B01C58E6EA005293C9 /* testUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		77E868871C58E6E9005293C9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = cloudayc;
+				TargetAttributes = {
+					77E8688E1C58E6E9005293C9 = {
+						CreatedOnToolsVersion = 7.2;
+					};
+					77E868A41C58E6EA005293C9 = {
+						CreatedOnToolsVersion = 7.2;
+						TestTargetID = 77E8688E1C58E6E9005293C9;
+					};
+					77E868AF1C58E6EA005293C9 = {
+						CreatedOnToolsVersion = 7.2;
+						TestTargetID = 77E8688E1C58E6E9005293C9;
+					};
+				};
+			};
+			buildConfigurationList = 77E8688A1C58E6E9005293C9 /* Build configuration list for PBXProject "test" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 77E868861C58E6E9005293C9;
+			productRefGroup = 77E868901C58E6E9005293C9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				77E8688E1C58E6E9005293C9 /* test */,
+				77E868A41C58E6EA005293C9 /* testTests */,
+				77E868AF1C58E6EA005293C9 /* testUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		77E8688D1C58E6E9005293C9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				77E869121C58E79E005293C9 /* .cvsignore in Resources */,
+				77E869311C58E79E005293C9 /* missing in Resources */,
+				77E869151C58E79E005293C9 /* bootstrap in Resources */,
+				77E869131C58E79E005293C9 /* aclocal.m4 in Resources */,
+				77E869261C58E79E005293C9 /* Makefile.in in Resources */,
+				77E869301C58E79E005293C9 /* Makefile.in in Resources */,
+				77E869111C58E79E005293C9 /* .cproject in Resources */,
+				77E8692D1C58E79E005293C9 /* ltversion.m4 in Resources */,
+				77E869181C58E79E005293C9 /* config.sub in Resources */,
+				77E869191C58E79E005293C9 /* configure in Resources */,
+				77E869291C58E79E005293C9 /* ltmain.sh in Resources */,
+				77E8693F1C58E79E005293C9 /* Makefile.in in Resources */,
+				77E8691E1C58E79E005293C9 /* depcomp in Resources */,
+				77E869441C58E79E005293C9 /* test.xlsx in Resources */,
+				77E8691F1C58E79E005293C9 /* index.html in Resources */,
+				77E869241C58E79E005293C9 /* Makefile.in in Resources */,
+				77E869331C58E79E005293C9 /* .cvsignore in Resources */,
+				77E869271C58E79E005293C9 /* INSTALL in Resources */,
+				77E869421C58E79E005293C9 /* TODO in Resources */,
+				77E8693C1C58E79E005293C9 /* .cvsignore in Resources */,
+				77E869431C58E79E005293C9 /* test.xls in Resources */,
+				77E869211C58E79E005293C9 /* .cvsignore in Resources */,
+				77E869281C58E79E005293C9 /* install-sh in Resources */,
+				77E869361C58E79E005293C9 /* Makefile.in in Resources */,
+				77E8692E1C58E79E005293C9 /* lt~obsolete.m4 in Resources */,
+				77E869141C58E79E005293C9 /* AUTHORS in Resources */,
+				77E869171C58E79E005293C9 /* config.h.in in Resources */,
+				77E8692C1C58E79E005293C9 /* ltsugar.m4 in Resources */,
+				77E869351C58E79E005293C9 /* Makefile.am in Resources */,
+				77E8692A1C58E79E005293C9 /* libtool.m4 in Resources */,
+				77E8689C1C58E6EA005293C9 /* Assets.xcassets in Resources */,
+				77E869201C58E79E005293C9 /* stylesheet.css in Resources */,
+				77E8692B1C58E79E005293C9 /* ltoptions.m4 in Resources */,
+				77E8689F1C58E6EA005293C9 /* Main.storyboard in Resources */,
+				77E869321C58E79E005293C9 /* mkinstalldirs in Resources */,
+				77E869221C58E79E005293C9 /* .cvsignore in Resources */,
+				77E869231C58E79E005293C9 /* Makefile.am in Resources */,
+				77E869251C58E79E005293C9 /* Makefile.am in Resources */,
+				77E86A131C5930E5005293C9 /* trans.xls in Resources */,
+				77E8692F1C58E79E005293C9 /* Makefile.am in Resources */,
+				77E869161C58E79E005293C9 /* config.guess in Resources */,
+				77E8693E1C58E79E005293C9 /* Makefile.am in Resources */,
+				77E8691A1C58E79E005293C9 /* configure.in in Resources */,
+				77E8693B1C58E79E005293C9 /* stamp-h.in in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77E868A31C58E6EA005293C9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77E868AE1C58E6EA005293C9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		77E8688B1C58E6E9005293C9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				77E8693A1C58E79E005293C9 /* xlstool.c in Sources */,
+				77E869381C58E79E005293C9 /* xls.c in Sources */,
+				77E869371C58E79E005293C9 /* ole.c in Sources */,
+				77E8691D1C58E79E005293C9 /* XlsReader.cpp in Sources */,
+				77E869341C58E79E005293C9 /* getopt.c in Sources */,
+				77E8689A1C58E6EA005293C9 /* ViewController.m in Sources */,
+				77E868971C58E6EA005293C9 /* main.m in Sources */,
+				77E8691B1C58E79E005293C9 /* main.cpp in Sources */,
+				77E868941C58E6EA005293C9 /* AppDelegate.m in Sources */,
+				77E869101C58E79E005293C9 /* DHxlsReaderIOS.m in Sources */,
+				77E8691C1C58E79E005293C9 /* Makefile in Sources */,
+				77E8690F1C58E79E005293C9 /* DHcell.m in Sources */,
+				77E869391C58E79E005293C9 /* xls2csv.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77E868A11C58E6EA005293C9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77E868AC1C58E6EA005293C9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		77E868A71C58E6EA005293C9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 77E8688E1C58E6E9005293C9 /* test */;
+			targetProxy = 77E868A61C58E6EA005293C9 /* PBXContainerItemProxy */;
+		};
+		77E868B21C58E6EA005293C9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 77E8688E1C58E6E9005293C9 /* test */;
+			targetProxy = 77E868B11C58E6EA005293C9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		77E8689D1C58E6EA005293C9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				77E8689E1C58E6EA005293C9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		77E868B71C58E6EA005293C9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		77E868B81C58E6EA005293C9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		77E868BA1C58E6EA005293C9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PREFIX_HEADER = "";
+				HEADER_SEARCH_PATHS = (
+					./libxls,
+					./libxls/include,
+					./libxls/include/libxls,
+				);
+				INFOPLIST_FILE = test/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cloudayc.test;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		77E868BB1C58E6EA005293C9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PREFIX_HEADER = "";
+				HEADER_SEARCH_PATHS = (
+					./libxls,
+					./libxls/include,
+					./libxls/include/libxls,
+				);
+				INFOPLIST_FILE = test/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cloudayc.test;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		77E868BD1C58E6EA005293C9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = testTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cloudayc.testTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/test.app/Contents/MacOS/test";
+			};
+			name = Debug;
+		};
+		77E868BE1C58E6EA005293C9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = testTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cloudayc.testTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/test.app/Contents/MacOS/test";
+			};
+			name = Release;
+		};
+		77E868C01C58E6EA005293C9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = testUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cloudayc.testUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = test;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		77E868C11C58E6EA005293C9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = testUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cloudayc.testUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = test;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		77E8688A1C58E6E9005293C9 /* Build configuration list for PBXProject "test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77E868B71C58E6EA005293C9 /* Debug */,
+				77E868B81C58E6EA005293C9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		77E868B91C58E6EA005293C9 /* Build configuration list for PBXNativeTarget "test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77E868BA1C58E6EA005293C9 /* Debug */,
+				77E868BB1C58E6EA005293C9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		77E868BC1C58E6EA005293C9 /* Build configuration list for PBXNativeTarget "testTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77E868BD1C58E6EA005293C9 /* Debug */,
+				77E868BE1C58E6EA005293C9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		77E868BF1C58E6EA005293C9 /* Build configuration list for PBXNativeTarget "testUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77E868C01C58E6EA005293C9 /* Debug */,
+				77E868C11C58E6EA005293C9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 77E868871C58E6E9005293C9 /* Project object */;
+}
