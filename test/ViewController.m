@@ -27,9 +27,48 @@ extern int xls_debug;
     
     // xls_debug = 1; // good way to see everything in the Excel file
     
+    
     DHxlsReader *reader = [DHxlsReader xlsReaderFromFile:path];
     assert(reader);
     
+//    [reader startIterator:0];
+//    DHcell *cell = [reader nextCell];
+//    while (cell) {
+//        NSLog(@"%@", cell);
+//        cell = [reader nextCell];
+//    }
+    
+    NSInteger sheetCount = [reader numberOfSheets];
+    for (int i = 0; i < sheetCount; ++i) {
+        NSLog(@"sheet name: %@", [reader sheetNameAtIndex:i]);
+        
+        NSUInteger rowBegin = 2;
+//        NSInteger recordCount = 11;
+        NSUInteger colBegin = 4;
+        NSInteger colCount = 4;
+        
+        NSUInteger row = rowBegin;
+        while (true) {
+            DHcell *cell = [reader cellInWorkSheetIndex:i row:row col:colBegin];
+            
+            if (cell.str == NULL) {
+                row = rowBegin;
+                
+                printf("\ncount: %lu\n", row);
+                printf("---------------------------\n\n");
+                break;
+            }
+            printf("%lu ", row);
+            
+            for (NSUInteger col = colBegin; col <= colCount; ++col) {
+                DHcell *cell = [reader cellInWorkSheetIndex:i row:row col:col];
+                printf("%s ", [cell.str UTF8String]);
+            }
+            printf("\n ");
+            
+            row++;
+        }
+    }
     NSString *text = @"";
     
     text = [text stringByAppendingFormat:@"AppName: %@\n", reader.appName];
