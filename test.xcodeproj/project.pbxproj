@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		775386271C5A54CA00F4F28F /* TranslateCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 775386261C5A54CA00F4F28F /* TranslateCenter.m */; };
 		77E868941C58E6EA005293C9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 77E868931C58E6E9005293C9 /* AppDelegate.m */; };
 		77E868971C58E6EA005293C9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 77E868961C58E6EA005293C9 /* main.m */; };
 		77E8689A1C58E6EA005293C9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 77E868991C58E6EA005293C9 /* ViewController.m */; };
@@ -85,6 +86,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		775386251C5A54CA00F4F28F /* TranslateCenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TranslateCenter.h; sourceTree = "<group>"; };
+		775386261C5A54CA00F4F28F /* TranslateCenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TranslateCenter.m; sourceTree = "<group>"; };
 		77E8688F1C58E6E9005293C9 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77E868921C58E6E9005293C9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		77E868931C58E6E9005293C9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -226,6 +229,8 @@
 				77E868931C58E6E9005293C9 /* AppDelegate.m */,
 				77E868981C58E6EA005293C9 /* ViewController.h */,
 				77E868991C58E6EA005293C9 /* ViewController.m */,
+				775386251C5A54CA00F4F28F /* TranslateCenter.h */,
+				775386261C5A54CA00F4F28F /* TranslateCenter.m */,
 				77E8689B1C58E6EA005293C9 /* Assets.xcassets */,
 				77E8689D1C58E6EA005293C9 /* Main.storyboard */,
 				77E868A01C58E6EA005293C9 /* Info.plist */,
@@ -565,6 +570,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				77E8693A1C58E79E005293C9 /* xlstool.c in Sources */,
+				775386271C5A54CA00F4F28F /* TranslateCenter.m in Sources */,
 				77E869381C58E79E005293C9 /* xls.c in Sources */,
 				77E869371C58E79E005293C9 /* ole.c in Sources */,
 				77E8691D1C58E79E005293C9 /* XlsReader.cpp in Sources */,
@@ -807,6 +813,7 @@
 				77E868BB1C58E6EA005293C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		77E868BC1C58E6EA005293C9 /* Build configuration list for PBXNativeTarget "testTests" */ = {
 			isa = XCConfigurationList;
@@ -815,6 +822,7 @@
 				77E868BE1C58E6EA005293C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		77E868BF1C58E6EA005293C9 /* Build configuration list for PBXNativeTarget "testUITests" */ = {
 			isa = XCConfigurationList;
@@ -823,6 +831,7 @@
 				77E868C11C58E6EA005293C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

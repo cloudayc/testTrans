@@ -9,6 +9,7 @@
 #import "ViewController.h"
 
 #import "DHxlsReaderIOS.h"
+#import "TranslateCenter.h"
 
 extern int xls_debug;
 
@@ -31,18 +32,13 @@ extern int xls_debug;
     DHxlsReader *reader = [DHxlsReader xlsReaderFromFile:path];
     assert(reader);
     
-//    [reader startIterator:0];
-//    DHcell *cell = [reader nextCell];
-//    while (cell) {
-//        NSLog(@"%@", cell);
-//        cell = [reader nextCell];
-//    }
+    TranslateCenter *tc = [TranslateCenter sharedInstance];
     
     NSInteger sheetCount = [reader numberOfSheets];
     for (int i = 0; i < sheetCount; ++i) {
         NSLog(@"sheet name: %@", [reader sheetNameAtIndex:i]);
         
-        NSUInteger rowBegin = 2;
+        NSUInteger rowBegin = 3;
 //        NSInteger recordCount = 11;
         NSUInteger colBegin = 4;
         NSInteger colCount = 4;
@@ -63,6 +59,12 @@ extern int xls_debug;
             for (NSUInteger col = colBegin; col <= colCount; ++col) {
                 DHcell *cell = [reader cellInWorkSheetIndex:i row:row col:col];
                 printf("%s ", [cell.str UTF8String]);
+                
+                [tc translateString:cell.str to:0 completion:^(NSString *resultString, NSError *error) {
+                    if (!error) {
+                        NSLog(@"origin:%@ \n trans:%@", cell.str, resultString);
+                    }
+                }];
             }
             printf("\n ");
             
