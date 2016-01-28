@@ -34,8 +34,10 @@ extern int xls_debug;
     
     TranslateCenter *tc = [TranslateCenter sharedInstance];
     
-    NSInteger sheetCount = [reader numberOfSheets];
-    for (int i = 0; i < sheetCount; ++i) {
+    NSUInteger total = 0;
+    
+    NSInteger sheetCount = 1;//[reader numberOfSheets];
+    for (int i = sheetCount; i <= sheetCount; ++i) {
         NSLog(@"sheet name: %@", [reader sheetNameAtIndex:i]);
         
         NSUInteger rowBegin = 3;
@@ -48,66 +50,36 @@ extern int xls_debug;
             DHcell *cell = [reader cellInWorkSheetIndex:i row:row col:colBegin];
             
             if (cell.str == NULL) {
-                row = rowBegin;
+                
+                total += row;
                 
                 printf("\ncount: %lu\n", row);
                 printf("---------------------------\n\n");
+                
+                row = rowBegin;
                 break;
             }
-            printf("%lu ", row);
+//            printf("%lu ", row);
             
             for (NSUInteger col = colBegin; col <= colCount; ++col) {
                 DHcell *cell = [reader cellInWorkSheetIndex:i row:row col:col];
-                printf("%s ", [cell.str UTF8String]);
-                
-                [tc translateString:cell.str to:0 completion:^(NSString *resultString, NSError *error) {
+                printf("%s\n", [cell.str UTF8String]);
+                NSDictionary *dict;
+                [tc translateString:cell.str to:0 completion:^(NSString *originString, NSString *resultString, NSError *error) {
                     if (!error) {
-                        NSLog(@"origin:%@ \n trans:%@", cell.str, resultString);
+//                        printf("--原文:%s-- \n ==译文:%s==\n", [originString UTF8String], [resultString UTF8String]);
+                        printf("%s\n", [resultString UTF8String]);
+                        [resultString writeToFile:@"/Users/cloudayc/Documents/data.txt" atomically:YES encoding:NSUTF8StringEncoding error:nil];
                     }
                 }];
+
             }
             printf("\n ");
-            
+//            sleep(1);
             row++;
         }
     }
-    NSString *text = @"";
     
-    text = [text stringByAppendingFormat:@"AppName: %@\n", reader.appName];
-    text = [text stringByAppendingFormat:@"Author: %@\n", reader.author];
-    text = [text stringByAppendingFormat:@"Category: %@\n", reader.category];
-    text = [text stringByAppendingFormat:@"Comment: %@\n", reader.comment];
-    text = [text stringByAppendingFormat:@"Company: %@\n", reader.company];
-    text = [text stringByAppendingFormat:@"Keywords: %@\n", reader.keywords];
-    text = [text stringByAppendingFormat:@"LastAuthor: %@\n", reader.lastAuthor];
-    text = [text stringByAppendingFormat:@"Manager: %@\n", reader.manager];
-    text = [text stringByAppendingFormat:@"Subject: %@\n", reader.subject];
-    text = [text stringByAppendingFormat:@"Title: %@\n", reader.title];
-    
-    
-    text = [text stringByAppendingFormat:@"\n\nNumber of Sheets: %u\n", reader.numberOfSheets];
-    
-#if 0
-    [reader startIterator:0];
-    
-    while(YES) {
-        DHcell *cell = [reader nextCell];
-        if(cell.type == cellBlank) break;
-        
-        text = [text stringByAppendingFormat:@"\n%@\n", [cell dump]];
-    }
-#else
-    int row = 2;
-    while(YES) {
-        DHcell *cell = [reader cellInWorkSheetIndex:0 row:row col:2];
-        if(cell.type == cellBlank) break;
-        DHcell *cell1 = [reader cellInWorkSheetIndex:0 row:row col:3];
-        NSLog(@"\nCell:%@\nCell1:%@\n", [cell dump], [cell1 dump]);
-        row++;
-        
-        //text = [text stringByAppendingFormat:@"\n%@\n", [cell dump]];
-        //text = [text stringByAppendingFormat:@"\n%@\n", [cell1 dump]];
-    }
-#endif
+    NSLog(@"total:%lu", total);
 }
 @end

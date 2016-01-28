@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-typedef void (^TranslateCompletion)(NSString *resultString, NSError *error);
+typedef void (^TranslateCompletion)(NSString *originString, NSString *resultString, NSError *error);
 @interface TranslateCenter : NSObject
 
 + (instancetype)sharedInstance;
