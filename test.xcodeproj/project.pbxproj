@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		637605CA1C5B048D00063586 /* TransData.m in Sources */ = {isa = PBXBuildFile; fileRef = 637605C91C5B048D00063586 /* TransData.m */; };
 		775386271C5A54CA00F4F28F /* TranslateCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 775386261C5A54CA00F4F28F /* TranslateCenter.m */; };
 		77E868941C58E6EA005293C9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 77E868931C58E6E9005293C9 /* AppDelegate.m */; };
 		77E868971C58E6EA005293C9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 77E868961C58E6EA005293C9 /* main.m */; };
@@ -86,6 +87,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		637605C81C5B048D00063586 /* TransData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TransData.h; sourceTree = "<group>"; };
+		637605C91C5B048D00063586 /* TransData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TransData.m; sourceTree = "<group>"; };
 		775386251C5A54CA00F4F28F /* TranslateCenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TranslateCenter.h; sourceTree = "<group>"; };
 		775386261C5A54CA00F4F28F /* TranslateCenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TranslateCenter.m; sourceTree = "<group>"; };
 		77E8688F1C58E6E9005293C9 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -231,6 +234,8 @@
 				77E868991C58E6EA005293C9 /* ViewController.m */,
 				775386251C5A54CA00F4F28F /* TranslateCenter.h */,
 				775386261C5A54CA00F4F28F /* TranslateCenter.m */,
+				637605C81C5B048D00063586 /* TransData.h */,
+				637605C91C5B048D00063586 /* TransData.m */,
 				77E8689B1C58E6EA005293C9 /* Assets.xcassets */,
 				77E8689D1C58E6EA005293C9 /* Main.storyboard */,
 				77E868A01C58E6EA005293C9 /* Info.plist */,
@@ -575,6 +580,7 @@
 				77E869371C58E79E005293C9 /* ole.c in Sources */,
 				77E8691D1C58E79E005293C9 /* XlsReader.cpp in Sources */,
 				77E869341C58E79E005293C9 /* getopt.c in Sources */,
+				637605CA1C5B048D00063586 /* TransData.m in Sources */,
 				77E8689A1C58E6EA005293C9 /* ViewController.m in Sources */,
 				77E868971C58E6EA005293C9 /* main.m in Sources */,
 				77E8691B1C58E79E005293C9 /* main.cpp in Sources */,

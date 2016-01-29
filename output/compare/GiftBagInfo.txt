@@ -1,0 +1,58 @@
+3原文:	大杀器-AK47，携强援包+手雷包+金币包+钻石包，超值特惠，仅此一次！
+3译文:	Big bombshell - AK47, with strong support package grenades diamond package gold package, value preference, for once!
+4原文:	虐杀僵尸套装，暴击增加包+伤害增加包+医疗包+手雷包+金币包|新手限时特惠，速来领取！
+4译文:	Cruelty zombie suits, increase crit damage increased packages in medical kits grenades | novice limited-time special gold package, slow to pick up!
+5原文:	现在获得立享赠送医疗包+手雷包+2000金币，超值特惠，仅此一次，仅需68元！
+5译文:	Now get enjoy free medical kits Grenade packs 2000 gold COINS, value preference, for once, only 68 yuan!
+6原文:	钻石特惠，290钻石，赠送450钻石，再赠送148钻石|超值特惠，速来领取！
+6译文:	Diamond preferential, 290 diamonds and 450 diamonds, giving another 148 diamond | special preferential, slow to pick up!
+7原文:	虐杀僵尸套装，医疗包+手雷包+金币包超值特惠，仅需99钻石，速来领取！
+7译文:	Cruelty zombie suits, medical kits grenades value preferential gold package, only 99 diamonds, slow to pick up!
+8原文:	虐杀僵尸利器——AK47，赠送满弹夹！赠送2000金币，仅需80钻石，特惠来袭！
+8译文:	Cruelty zombie weapon - AK47, giving full cartridge! Give 2000 gold, only 80 diamond, incoming preferential!
+9原文:	虐杀僵尸利器——M1散弹，赠送满弹夹！赠送2000金币，仅需195钻石，特惠来袭！
+9译文:	Cruelty zombie weapon - M1 shotgun, giving full cartridge! Give 2000 gold, only 195 diamond, incoming preferential!
+10原文:	虐杀僵尸利器——火神，赠送满弹夹！赠送2000金币，仅需230钻石，特惠来袭！
+10译文:	Cruelty zombie weapon - vulcan, giving full cartridge! Give 2000 gold, only 230 diamond, incoming preferential!
+11原文:	虐杀僵尸利器——追杀者，赠送满弹夹！赠送2000金币，仅需350钻石，特惠来袭！
+11译文:	Cruelty zombie weapon - killing, giving full cartridge! Give 2000 gold, only 350 diamond, incoming preferential!
+12原文:	虐杀僵尸利器——要你命3000，赠送满弹夹！赠送2000金币，仅需380钻石，特惠来袭！
+12译文:	Cruelty zombie weapon - kill you 3000, giving full cartridge! Give 2000 gold, only 380 diamond, incoming preferential!
+13原文:	虐杀僵尸利器——能量炮，赠送满弹夹！赠送2000金币，仅需540钻石，特惠来袭！
+13译文:	Cruelty zombie weapon - energy cannon, giving full cartridge! Give 2000 gold, only 540 diamond, incoming preferential!
+14原文:	虐杀僵尸利器——激光炮，赠送满弹夹！赠送2000金币，仅需560钻石，特惠来袭！
+14译文:	Cruelty zombie weapon - laser cannons, giving full cartridge! Give 2000 gold, only 560 diamond, incoming preferential!
+15原文:	虐杀僵尸利器——僵尸虐杀者，赠送满弹夹！赠送2000金币，仅需580钻石，特惠来袭！
+15译文:	Cruelty zombie weapon - zombie torture-murderers, giving full cartridge! Give 2000 gold, only 580 diamond, incoming preferential!
+16原文:	升级大礼包，一键升满当前武器|子弹无限！赠送2000金币。
+16译文:	Upgrade package, a key l | full current weapon bullet infinite! Give 2000 gold.
+17原文:	升级大礼包，一键升满当前武器|威力无限！赠送2000金币。
+17译文:	Upgrade package, a key l | full current weapon infinite power! Give 2000 gold.
+18原文:	升级大礼包，一键升满手雷|伤害无限！赠送2000金币。
+18译文:	Upgrade package, a key up with grenades | damage is infinite! Give 2000 gold.
+19原文:	升级大礼包，一键升满医疗包|满血效果！赠送2000金币。
+19译文:	Upgrade package, a key up full medical bag | full blood effect! Give 2000 gold.
+20原文:	升级大礼包，一键升满防弹衣|强力护甲保护！赠送2000金币。
+20译文:	Upgrade package, a key up full body armor | strong LiHu armor protection! Give 2000 gold.
+21原文:	超值强化套装，“超凡”“传说”强化石+金币包，仅需480钻石，速来领取！
+21译文:	Value to strengthen the suit, "extraordinary" and "legend" strong fossil gold package, only 480 diamonds, slow to pick up!
+22原文:	升级大礼包，一键升满当前僚机|威力无限！赠送2000金币。
+22译文:	Upgrade package, a key up full current wingman | infinite power! Give 2000 gold.
+23原文:	升级大礼包，一键升满当前皮肤|威力无限！赠送2000金币。
+23译文:	Upgrade package, a key with the current skin | infinite power! Give 2000 gold.
+24原文:	现在购买立刻获得5星摇霸+5星左轮+5星火之刃，超值特惠，仅此一次，仅需68元！
+24译文:	Get right now to buy 5 star shook the five stars on the left the spark of blade, value preference, for once, only 68 yuan!
+25原文:	当前武器升1级，伤害增加。
+25译文:	The current level, weapon damage increased.
+26原文:	当前武器升1级，伤害增加。
+26译文:	The current level, weapon damage increased.
+27原文:	手雷升1级，伤害增加。
+27译文:	Grenade level, damage increased.
+28原文:	医疗包升1级，补血效果增加。
+28译文:	Medical package level, blood tonic effect increased.
+29原文:	防弹衣升1级，护甲增加。
+29译文:	Body armor level, armor increase.
+30原文:	当前僚机升1级，伤害增加。
+30译文:	Current wingman level, damage increased.
+31原文:	当前皮肤升1级，伤害增加。
+31译文:	The current level, skin damage increased.

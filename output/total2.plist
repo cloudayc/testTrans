@@ -1,0 +1,5545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CrossInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>都市近郊  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>Urban suburban mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>都市高墙  关卡目标：坚持40秒钟不死亡</string>
+			<key>translate</key>
+			<string>City wall gate goal: stick to 40 seconds don't die</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>都市街道  关卡目标：消灭45个僵尸</string>
+			<key>translate</key>
+			<string>Urban street mission objectives: 45 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>都市中心  关卡目标：找到3个指定宝物</string>
+			<key>translate</key>
+			<string>City center mission objectives: find three designated treasures</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>都市快速通道  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>Urban rapid channel Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>丛林边缘  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>Jungle edge mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>丛林深处  关卡目标：消灭45个僵尸</string>
+			<key>translate</key>
+			<string>Deep in the jungle Mission objectives: 45 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>灌木地带  关卡目标：90秒到达指定地点</string>
+			<key>translate</key>
+			<string>jungle Mission objectives: 90 seconds to arrive at the designated place</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>黄金海岸  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>Gold coast mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>迷失丛林深处  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>Lost in the depths of the jungle Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>西部街道  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>West street mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>仓库外墙  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>The warehouse wall Mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>仓库内部  关卡目标：找到3个指定宝物</string>
+			<key>translate</key>
+			<string>Mission objectives within the warehouse: find three designated treasures</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>仓库中心  关卡目标：消灭30个僵尸</string>
+			<key>translate</key>
+			<string>Warehouse center Mission objectives: 30 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>仓库外围广场  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>Warehouse outside the square Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>车站广场  关卡目标：消灭35个僵尸</string>
+			<key>translate</key>
+			<string>The square Mission objectives: 35 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>断裂轨道  关卡目标：消灭60个僵尸</string>
+			<key>translate</key>
+			<string>Fracture of orbital mission objectives: 60 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>列车沿线  关卡目标：消灭3个通缉僵尸</string>
+			<key>translate</key>
+			<string>Train along the mission objectives: kill 3 wanted by zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>破旧站台  关卡目标：消灭70个僵尸</string>
+			<key>translate</key>
+			<string>Old platform Mission objectives: 70 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>车站周边荒野  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>The station surrounding wilderness Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>工厂大门  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>The factory gates Mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>24</integer>
+			<key>origin</key>
+			<string>蒸汽泵站  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>40 steam pump station mission objectives: kill zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>25</integer>
+			<key>origin</key>
+			<string>破旧厂房  关卡目标：坚持50秒钟不死亡</string>
+			<key>translate</key>
+			<string>Old factory Mission objectives: insist on not death 50 seconds</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>26</integer>
+			<key>origin</key>
+			<string>工厂高墙  关卡目标：消灭50个僵尸</string>
+			<key>translate</key>
+			<string>Factory walls mission objectives: kill 50 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>27</integer>
+			<key>origin</key>
+			<string>化学燃料货柜  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>Chemical fuel container Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>28</integer>
+			<key>origin</key>
+			<string>森林外围  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>Forest peripheral mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>29</integer>
+			<key>origin</key>
+			<string>森林深处  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>The depths of the forest Mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>30</integer>
+			<key>origin</key>
+			<string>林中古冢  关卡目标：100秒到达指定地点</string>
+			<key>translate</key>
+			<string>Forest tumulus checkpoint target: 100 seconds to arrive at the designated place</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>31</integer>
+			<key>origin</key>
+			<string>森林枯树  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>The forest trees Mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>32</integer>
+			<key>origin</key>
+			<string>森林丧尸据点  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>Forest zombie stronghold Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>33</integer>
+			<key>origin</key>
+			<string>城市边缘  关卡目标：消灭80个僵尸</string>
+			<key>translate</key>
+			<string>The edge of the city level goal: to destroy 80 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>34</integer>
+			<key>origin</key>
+			<string>倒塌大楼  关卡目标：消灭85个僵尸</string>
+			<key>translate</key>
+			<string>The collapsed building Mission objectives: 85 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>35</integer>
+			<key>origin</key>
+			<string>城市断桥  关卡目标：找到4个指定宝物</string>
+			<key>translate</key>
+			<string>Broken bridge city mission objectives: find four treasures specified</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>36</integer>
+			<key>origin</key>
+			<string>中心广场  关卡目标：消灭85个僵尸</string>
+			<key>translate</key>
+			<string>The central plaza, Mission objectives: 85 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>37</integer>
+			<key>origin</key>
+			<string>死亡城市中心  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>Death city center Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>38</integer>
+			<key>origin</key>
+			<string>地堡入口  关卡目标：消灭70个僵尸</string>
+			<key>translate</key>
+			<string>The bunker entrance Mission objectives: 70 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>39</integer>
+			<key>origin</key>
+			<string>大储物间  关卡目标：消灭60个僵尸</string>
+			<key>translate</key>
+			<string>Big store between content mission objectives: elimination of 60 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>40</integer>
+			<key>origin</key>
+			<string>地堡中心  关卡目标：消灭4个通缉僵尸</string>
+			<key>translate</key>
+			<string>Bunker center mission objectives: eliminate four wanted zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>41</integer>
+			<key>origin</key>
+			<string>病毒科室  关卡目标：消灭80个僵尸</string>
+			<key>translate</key>
+			<string>Virus department Mission objectives: 80 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>42</integer>
+			<key>origin</key>
+			<string>实验室控制台  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>Laboratory console Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>43</integer>
+			<key>origin</key>
+			<string>密林之战  关卡目标：消灭70个僵尸</string>
+			<key>translate</key>
+			<string>The battle of the forest Mission objectives: 70 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>44</integer>
+			<key>origin</key>
+			<string>血肉密林  关卡目标：消灭60个僵尸</string>
+			<key>translate</key>
+			<string>Flesh thick forest Mission objectives: 60 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>45</integer>
+			<key>origin</key>
+			<string>危机四伏  关卡目标：100秒到达指定地点</string>
+			<key>translate</key>
+			<string>crisis Mission objectives: 100 seconds to arrive at the designated place</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>46</integer>
+			<key>origin</key>
+			<string>血腥之木  关卡目标：消灭80个僵尸</string>
+			<key>translate</key>
+			<string>Bloody wood Mission objectives: 80 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>47</integer>
+			<key>origin</key>
+			<string>屠宰场  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>The slaughterhouse Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>48</integer>
+			<key>origin</key>
+			<string>机关重重  关卡目标：消灭70个僵尸</string>
+			<key>translate</key>
+			<string>In mission objectives: 70 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>49</integer>
+			<key>origin</key>
+			<string>火焰废墟  关卡目标：消灭60个僵尸</string>
+			<key>translate</key>
+			<string>The ruins of the flame Mission objectives: 60 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>50</integer>
+			<key>origin</key>
+			<string>毒气之城  关卡目标：坚持50秒钟不死亡</string>
+			<key>translate</key>
+			<string>The city of gas Mission objectives: insist on not death 50 seconds</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>51</integer>
+			<key>origin</key>
+			<string>实验体  关卡目标：消灭80个僵尸</string>
+			<key>translate</key>
+			<string>Experimental mission objectives: 80 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>52</integer>
+			<key>origin</key>
+			<string>科学怪人  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>frankenstein Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>53</integer>
+			<key>origin</key>
+			<string>VIP专属BOSS（普通难度）</string>
+			<key>translate</key>
+			<string>VIP exclusive BOSS (normal difficulty)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>54</integer>
+			<key>origin</key>
+			<string>VIP专属BOSS（地狱难度）</string>
+			<key>translate</key>
+			<string>VIP exclusive BOSS (hell difficulty)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>55</integer>
+			<key>origin</key>
+			<string>都市近郊  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>Urban suburban mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>56</integer>
+			<key>origin</key>
+			<string>都市高墙  关卡目标：坚持40秒钟不死亡</string>
+			<key>translate</key>
+			<string>City wall gate goal: stick to 40 seconds don't die</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>57</integer>
+			<key>origin</key>
+			<string>都市街道  关卡目标：消灭45个僵尸</string>
+			<key>translate</key>
+			<string>Urban street mission objectives: 45 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>58</integer>
+			<key>origin</key>
+			<string>都市中心  关卡目标：找到3个指定宝物</string>
+			<key>translate</key>
+			<string>City center mission objectives: find three designated treasures</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>59</integer>
+			<key>origin</key>
+			<string>都市快速通道  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>Urban rapid channel Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>60</integer>
+			<key>origin</key>
+			<string>丛林边缘  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>Jungle edge mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>61</integer>
+			<key>origin</key>
+			<string>丛林深处  关卡目标：消灭45个僵尸</string>
+			<key>translate</key>
+			<string>Deep in the jungle Mission objectives: 45 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>62</integer>
+			<key>origin</key>
+			<string>灌木地带  关卡目标：90秒到达指定地点</string>
+			<key>translate</key>
+			<string>jungle Mission objectives: 90 seconds to arrive at the designated place</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>63</integer>
+			<key>origin</key>
+			<string>黄金海岸  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>Gold coast mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>64</integer>
+			<key>origin</key>
+			<string>迷失丛林深处  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>Lost in the depths of the jungle Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>65</integer>
+			<key>origin</key>
+			<string>西部街道  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>West street mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>66</integer>
+			<key>origin</key>
+			<string>仓库外墙  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>The warehouse wall Mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>67</integer>
+			<key>origin</key>
+			<string>仓库内部  关卡目标：找到3个指定宝物</string>
+			<key>translate</key>
+			<string>Mission objectives within the warehouse: find three designated treasures</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>68</integer>
+			<key>origin</key>
+			<string>仓库中心  关卡目标：消灭30个僵尸</string>
+			<key>translate</key>
+			<string>Warehouse center Mission objectives: 30 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>69</integer>
+			<key>origin</key>
+			<string>仓库外围广场  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>Warehouse outside the square Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>70</integer>
+			<key>origin</key>
+			<string>车站广场  关卡目标：消灭35个僵尸</string>
+			<key>translate</key>
+			<string>The square Mission objectives: 35 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>71</integer>
+			<key>origin</key>
+			<string>断裂轨道  关卡目标：消灭60个僵尸</string>
+			<key>translate</key>
+			<string>Fracture of orbital mission objectives: 60 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>72</integer>
+			<key>origin</key>
+			<string>列车沿线  关卡目标：消灭3个通缉僵尸</string>
+			<key>translate</key>
+			<string>Train along the mission objectives: kill 3 wanted by zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>73</integer>
+			<key>origin</key>
+			<string>破旧站台  关卡目标：消灭70个僵尸</string>
+			<key>translate</key>
+			<string>Old platform Mission objectives: 70 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>74</integer>
+			<key>origin</key>
+			<string>车站周边荒野  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>The station surrounding wilderness Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>75</integer>
+			<key>origin</key>
+			<string>工厂大门  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>The factory gates Mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>76</integer>
+			<key>origin</key>
+			<string>蒸汽泵站  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>40 steam pump station mission objectives: kill zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>77</integer>
+			<key>origin</key>
+			<string>破旧厂房  关卡目标：坚持50秒钟不死亡</string>
+			<key>translate</key>
+			<string>Old factory Mission objectives: insist on not death 50 seconds</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>78</integer>
+			<key>origin</key>
+			<string>工厂高墙  关卡目标：消灭50个僵尸</string>
+			<key>translate</key>
+			<string>Factory walls mission objectives: kill 50 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>79</integer>
+			<key>origin</key>
+			<string>化学燃料货柜  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>Chemical fuel container Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>80</integer>
+			<key>origin</key>
+			<string>森林外围  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>Forest peripheral mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>81</integer>
+			<key>origin</key>
+			<string>森林深处  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>The depths of the forest Mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>82</integer>
+			<key>origin</key>
+			<string>林中古冢  关卡目标：100秒到达指定地点</string>
+			<key>translate</key>
+			<string>Forest tumulus checkpoint target: 100 seconds to arrive at the designated place</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>83</integer>
+			<key>origin</key>
+			<string>森林枯树  关卡目标：消灭40个僵尸</string>
+			<key>translate</key>
+			<string>The forest trees Mission objectives: 40 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>84</integer>
+			<key>origin</key>
+			<string>森林丧尸据点  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>Forest zombie stronghold Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>85</integer>
+			<key>origin</key>
+			<string>城市边缘  关卡目标：消灭80个僵尸</string>
+			<key>translate</key>
+			<string>The edge of the city level goal: to destroy 80 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>86</integer>
+			<key>origin</key>
+			<string>倒塌大楼  关卡目标：消灭85个僵尸</string>
+			<key>translate</key>
+			<string>The collapsed building Mission objectives: 85 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>87</integer>
+			<key>origin</key>
+			<string>城市断桥  关卡目标：找到4个指定宝物</string>
+			<key>translate</key>
+			<string>Broken bridge city mission objectives: find four treasures specified</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>88</integer>
+			<key>origin</key>
+			<string>中心广场  关卡目标：消灭85个僵尸</string>
+			<key>translate</key>
+			<string>The central plaza, Mission objectives: 85 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>89</integer>
+			<key>origin</key>
+			<string>死亡城市中心  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>Death city center Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>90</integer>
+			<key>origin</key>
+			<string>地堡入口  关卡目标：消灭70个僵尸</string>
+			<key>translate</key>
+			<string>The bunker entrance Mission objectives: 70 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>91</integer>
+			<key>origin</key>
+			<string>大储物间  关卡目标：消灭60个僵尸</string>
+			<key>translate</key>
+			<string>Big store between content mission objectives: elimination of 60 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>92</integer>
+			<key>origin</key>
+			<string>地堡中心  关卡目标：消灭4个通缉僵尸</string>
+			<key>translate</key>
+			<string>Bunker center mission objectives: eliminate four wanted zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>93</integer>
+			<key>origin</key>
+			<string>病毒科室  关卡目标：消灭80个僵尸</string>
+			<key>translate</key>
+			<string>Virus department Mission objectives: 80 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>94</integer>
+			<key>origin</key>
+			<string>实验室控制台  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>Laboratory console Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>95</integer>
+			<key>origin</key>
+			<string>密林之战  关卡目标：消灭70个僵尸</string>
+			<key>translate</key>
+			<string>The battle of the forest Mission objectives: 70 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>96</integer>
+			<key>origin</key>
+			<string>血肉密林  关卡目标：消灭60个僵尸</string>
+			<key>translate</key>
+			<string>Flesh thick forest Mission objectives: 60 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>97</integer>
+			<key>origin</key>
+			<string>危机四伏  关卡目标：100秒到达指定地点</string>
+			<key>translate</key>
+			<string>crisis Mission objectives: 100 seconds to arrive at the designated place</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>98</integer>
+			<key>origin</key>
+			<string>血腥之木  关卡目标：消灭80个僵尸</string>
+			<key>translate</key>
+			<string>Bloody wood Mission objectives: 80 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>99</integer>
+			<key>origin</key>
+			<string>屠宰场  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>The slaughterhouse Mission objectives: eliminate the BOSS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>100</integer>
+			<key>origin</key>
+			<string>机关重重  关卡目标：消灭70个僵尸</string>
+			<key>translate</key>
+			<string>In mission objectives: 70 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>101</integer>
+			<key>origin</key>
+			<string>火焰废墟  关卡目标：消灭60个僵尸</string>
+			<key>translate</key>
+			<string>The ruins of the flame Mission objectives: 60 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>102</integer>
+			<key>origin</key>
+			<string>毒气之城  关卡目标：坚持50秒钟不死亡</string>
+			<key>translate</key>
+			<string>The city of gas Mission objectives: insist on not death 50 seconds</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>103</integer>
+			<key>origin</key>
+			<string>实验体  关卡目标：消灭80个僵尸</string>
+			<key>translate</key>
+			<string>Experimental mission objectives: 80 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>104</integer>
+			<key>origin</key>
+			<string>科学怪人  关卡目标：消灭BOSS</string>
+			<key>translate</key>
+			<string>frankenstein Mission objectives: eliminate the BOSS</string>
+		</dict>
+	</array>
+	<key>GiftBagInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>大杀器-AK47，携强援包+手雷包+金币包+钻石包，超值特惠，仅此一次！</string>
+			<key>translate</key>
+			<string>Big bombshell - AK47, with strong support package grenades diamond package gold package, value preference, for once!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>虐杀僵尸套装，暴击增加包+伤害增加包+医疗包+手雷包+金币包|新手限时特惠，速来领取！</string>
+			<key>translate</key>
+			<string>Cruelty zombie suits, increase crit damage increased packages in medical kits grenades | novice limited-time special gold package, slow to pick up!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>现在获得立享赠送医疗包+手雷包+2000金币，超值特惠，仅此一次，仅需68元！</string>
+			<key>translate</key>
+			<string>Now get enjoy free medical kits Grenade packs 2000 gold COINS, value preference, for once, only 68 yuan!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>钻石特惠，290钻石，赠送450钻石，再赠送148钻石|超值特惠，速来领取！</string>
+			<key>translate</key>
+			<string>Diamond preferential, 290 diamonds and 450 diamonds, giving another 148 diamond | special preferential, slow to pick up!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>虐杀僵尸套装，医疗包+手雷包+金币包超值特惠，仅需99钻石，速来领取！</string>
+			<key>translate</key>
+			<string>Cruelty zombie suits, medical kits grenades value preferential gold package, only 99 diamonds, slow to pick up!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>虐杀僵尸利器——AK47，赠送满弹夹！赠送2000金币，仅需80钻石，特惠来袭！</string>
+			<key>translate</key>
+			<string>Cruelty zombie weapon - AK47, giving full cartridge! Give 2000 gold, only 80 diamond, incoming preferential!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>虐杀僵尸利器——M1散弹，赠送满弹夹！赠送2000金币，仅需195钻石，特惠来袭！</string>
+			<key>translate</key>
+			<string>Cruelty zombie weapon - M1 shotgun, giving full cartridge! Give 2000 gold, only 195 diamond, incoming preferential!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>虐杀僵尸利器——火神，赠送满弹夹！赠送2000金币，仅需230钻石，特惠来袭！</string>
+			<key>translate</key>
+			<string>Cruelty zombie weapon - vulcan, giving full cartridge! Give 2000 gold, only 230 diamond, incoming preferential!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>虐杀僵尸利器——追杀者，赠送满弹夹！赠送2000金币，仅需350钻石，特惠来袭！</string>
+			<key>translate</key>
+			<string>Cruelty zombie weapon - killing, giving full cartridge! Give 2000 gold, only 350 diamond, incoming preferential!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>虐杀僵尸利器——要你命3000，赠送满弹夹！赠送2000金币，仅需380钻石，特惠来袭！</string>
+			<key>translate</key>
+			<string>Cruelty zombie weapon - kill you 3000, giving full cartridge! Give 2000 gold, only 380 diamond, incoming preferential!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>虐杀僵尸利器——能量炮，赠送满弹夹！赠送2000金币，仅需540钻石，特惠来袭！</string>
+			<key>translate</key>
+			<string>Cruelty zombie weapon - energy cannon, giving full cartridge! Give 2000 gold, only 540 diamond, incoming preferential!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>虐杀僵尸利器——激光炮，赠送满弹夹！赠送2000金币，仅需560钻石，特惠来袭！</string>
+			<key>translate</key>
+			<string>Cruelty zombie weapon - laser cannons, giving full cartridge! Give 2000 gold, only 560 diamond, incoming preferential!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>虐杀僵尸利器——僵尸虐杀者，赠送满弹夹！赠送2000金币，仅需580钻石，特惠来袭！</string>
+			<key>translate</key>
+			<string>Cruelty zombie weapon - zombie torture-murderers, giving full cartridge! Give 2000 gold, only 580 diamond, incoming preferential!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>升级大礼包，一键升满当前武器|子弹无限！赠送2000金币。</string>
+			<key>translate</key>
+			<string>Upgrade package, a key l | full current weapon bullet infinite! Give 2000 gold.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>升级大礼包，一键升满当前武器|威力无限！赠送2000金币。</string>
+			<key>translate</key>
+			<string>Upgrade package, a key l | full current weapon infinite power! Give 2000 gold.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>升级大礼包，一键升满手雷|伤害无限！赠送2000金币。</string>
+			<key>translate</key>
+			<string>Upgrade package, a key up with grenades | damage is infinite! Give 2000 gold.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>升级大礼包，一键升满医疗包|满血效果！赠送2000金币。</string>
+			<key>translate</key>
+			<string>Upgrade package, a key up full medical bag | full blood effect! Give 2000 gold.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>升级大礼包，一键升满防弹衣|强力护甲保护！赠送2000金币。</string>
+			<key>translate</key>
+			<string>Upgrade package, a key up full body armor | strong LiHu armor protection! Give 2000 gold.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>超值强化套装，“超凡”“传说”强化石+金币包，仅需480钻石，速来领取！</string>
+			<key>translate</key>
+			<string>Value to strengthen the suit, "extraordinary" and "legend" strong fossil gold package, only 480 diamonds, slow to pick up!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>升级大礼包，一键升满当前僚机|威力无限！赠送2000金币。</string>
+			<key>translate</key>
+			<string>Upgrade package, a key up full current wingman | infinite power! Give 2000 gold.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>升级大礼包，一键升满当前皮肤|威力无限！赠送2000金币。</string>
+			<key>translate</key>
+			<string>Upgrade package, a key with the current skin | infinite power! Give 2000 gold.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>24</integer>
+			<key>origin</key>
+			<string>现在购买立刻获得5星摇霸+5星左轮+5星火之刃，超值特惠，仅此一次，仅需68元！</string>
+			<key>translate</key>
+			<string>Get right now to buy 5 star shook the five stars on the left the spark of blade, value preference, for once, only 68 yuan!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>25</integer>
+			<key>origin</key>
+			<string>当前武器升1级，伤害增加。</string>
+			<key>translate</key>
+			<string>The current level, weapon damage increased.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>26</integer>
+			<key>origin</key>
+			<string>当前武器升1级，伤害增加。</string>
+			<key>translate</key>
+			<string>The current level, weapon damage increased.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>27</integer>
+			<key>origin</key>
+			<string>手雷升1级，伤害增加。</string>
+			<key>translate</key>
+			<string>Grenade level, damage increased.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>28</integer>
+			<key>origin</key>
+			<string>医疗包升1级，补血效果增加。</string>
+			<key>translate</key>
+			<string>Medical package level, blood tonic effect increased.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>29</integer>
+			<key>origin</key>
+			<string>防弹衣升1级，护甲增加。</string>
+			<key>translate</key>
+			<string>Body armor level, armor increase.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>30</integer>
+			<key>origin</key>
+			<string>当前僚机升1级，伤害增加。</string>
+			<key>translate</key>
+			<string>Current wingman level, damage increased.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>31</integer>
+			<key>origin</key>
+			<string>当前皮肤升1级，伤害增加。</string>
+			<key>translate</key>
+			<string>The current level, skin damage increased.</string>
+		</dict>
+	</array>
+	<key>GoodsInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>金币</string>
+			<key>translate</key>
+			<string>Gold COINS</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>钻石</string>
+			<key>translate</key>
+			<string>diamond</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>手雷</string>
+			<key>translate</key>
+			<string>Hand grenades</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>医疗包</string>
+			<key>translate</key>
+			<string>Medical kits</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>空中支援</string>
+			<key>translate</key>
+			<string>Air support</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>僚机碎片</string>
+			<key>translate</key>
+			<string>Wingman fragments</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>南瓜灯</string>
+			<key>translate</key>
+			<string>pumpkin</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>僵尸肉块</string>
+			<key>translate</key>
+			<string>The zombie meat</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>僵尸肉馅月饼</string>
+			<key>translate</key>
+			<string>The zombie meat moon cakes</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>USP</string>
+			<key>translate</key>
+			<string>独特销售主张</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>左轮</string>
+			<key>translate</key>
+			<string>revolver</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>黄金沙鹰</string>
+			<key>translate</key>
+			<string>The yellow sands eagle</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>双持MP5</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>毁灭者</string>
+			<key>translate</key>
+			<string>The destroyer</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>M4A1</string>
+			<key>translate</key>
+			<string>M4A1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>AK47</string>
+			<key>translate</key>
+			<string>ak - 47</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>M1散弹</string>
+			<key>translate</key>
+			<string>M1 shotgun</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>火神</string>
+			<key>translate</key>
+			<string>vulcan</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>摇霸</string>
+			<key>translate</key>
+			<string>Shake bully</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>追杀者</string>
+			<key>translate</key>
+			<string>After the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>要你命3000</string>
+			<key>translate</key>
+			<string>Kill you 3000</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>24</integer>
+			<key>origin</key>
+			<string>能量炮</string>
+			<key>translate</key>
+			<string>Energy cannon</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>25</integer>
+			<key>origin</key>
+			<string>激光炮</string>
+			<key>translate</key>
+			<string>The laser gun</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>26</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者</string>
+			<key>translate</key>
+			<string>The zombie torture-murderers</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>27</integer>
+			<key>origin</key>
+			<string>超神虐杀者</string>
+			<key>translate</key>
+			<string>Torture-murderers super god</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>28</integer>
+			<key>origin</key>
+			<string>钢之刃</string>
+			<key>translate</key>
+			<string>The blade of steel</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>29</integer>
+			<key>origin</key>
+			<string>冰之刃</string>
+			<key>translate</key>
+			<string>The blade of ice</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>30</integer>
+			<key>origin</key>
+			<string>火之刃</string>
+			<key>translate</key>
+			<string>The blade of the fire</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>31</integer>
+			<key>origin</key>
+			<string>影之刃</string>
+			<key>translate</key>
+			<string>The blade of the shadow</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>32</integer>
+			<key>origin</key>
+			<string>魂之刃</string>
+			<key>translate</key>
+			<string>The blade of the soul</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>33</integer>
+			<key>origin</key>
+			<string>审判</string>
+			<key>translate</key>
+			<string>The trial</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>34</integer>
+			<key>origin</key>
+			<string>审判</string>
+			<key>translate</key>
+			<string>The trial</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>35</integer>
+			<key>origin</key>
+			<string>审判</string>
+			<key>translate</key>
+			<string>The trial</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>36</integer>
+			<key>origin</key>
+			<string>审判</string>
+			<key>translate</key>
+			<string>The trial</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>37</integer>
+			<key>origin</key>
+			<string>审判</string>
+			<key>translate</key>
+			<string>The trial</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>38</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>39</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>40</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>41</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>42</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>43</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>44</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>45</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>46</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>47</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>48</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>49</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>50</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>51</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>52</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>53</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>54</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>55</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>56</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>57</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>58</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>59</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>60</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>61</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>62</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>63</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>64</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>65</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>66</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>67</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>68</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>69</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>70</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>71</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>72</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>73</integer>
+			<key>origin</key>
+			<string>强化石碎片</string>
+			<key>translate</key>
+			<string>Strong fossil fragments</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>74</integer>
+			<key>origin</key>
+			<string>普通强化石</string>
+			<key>translate</key>
+			<string>Normal fossil</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>75</integer>
+			<key>origin</key>
+			<string>优良强化石</string>
+			<key>translate</key>
+			<string>Good strong fossil</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>76</integer>
+			<key>origin</key>
+			<string>精品强化石</string>
+			<key>translate</key>
+			<string>High-quality goods strong fossil</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>77</integer>
+			<key>origin</key>
+			<string>超凡强化石</string>
+			<key>translate</key>
+			<string>Strong extraordinary fossil</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>78</integer>
+			<key>origin</key>
+			<string>传说强化石</string>
+			<key>translate</key>
+			<string>Legend has it that strong fossil</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>79</integer>
+			<key>origin</key>
+			<string>僵尸猎人精魂</string>
+			<key>translate</key>
+			<string>The zombie hunter spirit</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>80</integer>
+			<key>origin</key>
+			<string>突击队长精魂</string>
+			<key>translate</key>
+			<string>Commando captain spirit</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>81</integer>
+			<key>origin</key>
+			<string>钢铁巨人精魂</string>
+			<key>translate</key>
+			<string>Iron giant spirit</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>82</integer>
+			<key>origin</key>
+			<string>USP部件1</string>
+			<key>translate</key>
+			<string>USP part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>83</integer>
+			<key>origin</key>
+			<string>USP部件2</string>
+			<key>translate</key>
+			<string>USP part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>84</integer>
+			<key>origin</key>
+			<string>USP部件3</string>
+			<key>translate</key>
+			<string>USP part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>85</integer>
+			<key>origin</key>
+			<string>USP部件4</string>
+			<key>translate</key>
+			<string>USP unit 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>86</integer>
+			<key>origin</key>
+			<string>左轮部件1</string>
+			<key>translate</key>
+			<string>Left part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>87</integer>
+			<key>origin</key>
+			<string>左轮部件2</string>
+			<key>translate</key>
+			<string>Left part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>88</integer>
+			<key>origin</key>
+			<string>左轮部件3</string>
+			<key>translate</key>
+			<string>Left part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>89</integer>
+			<key>origin</key>
+			<string>左轮部件4</string>
+			<key>translate</key>
+			<string>Left part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>90</integer>
+			<key>origin</key>
+			<string>黄金沙鹰部件1</string>
+			<key>translate</key>
+			<string>1 yellow sands eagle parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>91</integer>
+			<key>origin</key>
+			<string>黄金沙鹰部件2</string>
+			<key>translate</key>
+			<string>2 yellow sands eagle parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>92</integer>
+			<key>origin</key>
+			<string>黄金沙鹰部件3</string>
+			<key>translate</key>
+			<string>3 yellow sands eagle parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>93</integer>
+			<key>origin</key>
+			<string>黄金沙鹰部件4</string>
+			<key>translate</key>
+			<string>4 yellow sands eagle parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>94</integer>
+			<key>origin</key>
+			<string>双持MP5部件1</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5 part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>95</integer>
+			<key>origin</key>
+			<string>双持MP5部件2</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5 part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>96</integer>
+			<key>origin</key>
+			<string>双持MP5部件3</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5 part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>97</integer>
+			<key>origin</key>
+			<string>双持MP5部件4</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5 part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>98</integer>
+			<key>origin</key>
+			<string>毁灭者部件1</string>
+			<key>translate</key>
+			<string>The destroyer part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>99</integer>
+			<key>origin</key>
+			<string>毁灭者部件2</string>
+			<key>translate</key>
+			<string>The destroyer part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>100</integer>
+			<key>origin</key>
+			<string>毁灭者部件3</string>
+			<key>translate</key>
+			<string>The destroyer part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>101</integer>
+			<key>origin</key>
+			<string>毁灭者部件4</string>
+			<key>translate</key>
+			<string>The destroyer part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>102</integer>
+			<key>origin</key>
+			<string>M4A1部件1</string>
+			<key>translate</key>
+			<string>M4A1 part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>103</integer>
+			<key>origin</key>
+			<string>M4A1部件2</string>
+			<key>translate</key>
+			<string>M4A1 part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>104</integer>
+			<key>origin</key>
+			<string>M4A1部件3</string>
+			<key>translate</key>
+			<string>M4A1 part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>105</integer>
+			<key>origin</key>
+			<string>M4A1部件4</string>
+			<key>translate</key>
+			<string>M4A1 part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>106</integer>
+			<key>origin</key>
+			<string>AK47部件1</string>
+			<key>translate</key>
+			<string>AK47 part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>107</integer>
+			<key>origin</key>
+			<string>AK47部件2</string>
+			<key>translate</key>
+			<string>AK47 part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>108</integer>
+			<key>origin</key>
+			<string>AK47部件3</string>
+			<key>translate</key>
+			<string>AK47 part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>109</integer>
+			<key>origin</key>
+			<string>AK47部件4</string>
+			<key>translate</key>
+			<string>AK47 part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>110</integer>
+			<key>origin</key>
+			<string>M1散弹部件1</string>
+			<key>translate</key>
+			<string>M1 shotgun part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>111</integer>
+			<key>origin</key>
+			<string>M1散弹部件2</string>
+			<key>translate</key>
+			<string>M1 shotgun part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>112</integer>
+			<key>origin</key>
+			<string>M1散弹部件3</string>
+			<key>translate</key>
+			<string>3 M1 shotgun components</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>113</integer>
+			<key>origin</key>
+			<string>M1散弹部件4</string>
+			<key>translate</key>
+			<string>M1 shotgun part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>114</integer>
+			<key>origin</key>
+			<string>火神部件1</string>
+			<key>translate</key>
+			<string>Vulcan part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>115</integer>
+			<key>origin</key>
+			<string>火神部件2</string>
+			<key>translate</key>
+			<string>Vulcan part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>116</integer>
+			<key>origin</key>
+			<string>火神部件3</string>
+			<key>translate</key>
+			<string>Vulcan part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>117</integer>
+			<key>origin</key>
+			<string>火神部件4</string>
+			<key>translate</key>
+			<string>Vulcan part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>118</integer>
+			<key>origin</key>
+			<string>摇霸部件1</string>
+			<key>translate</key>
+			<string>Shake the components on the 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>119</integer>
+			<key>origin</key>
+			<string>摇霸部件2</string>
+			<key>translate</key>
+			<string>Shake the parts on the 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>120</integer>
+			<key>origin</key>
+			<string>摇霸部件3</string>
+			<key>translate</key>
+			<string>Shake the components on the 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>121</integer>
+			<key>origin</key>
+			<string>摇霸部件4</string>
+			<key>translate</key>
+			<string>Shake the components on the 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>122</integer>
+			<key>origin</key>
+			<string>追杀者部件1</string>
+			<key>translate</key>
+			<string>After the part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>123</integer>
+			<key>origin</key>
+			<string>追杀者部件2</string>
+			<key>translate</key>
+			<string>After part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>124</integer>
+			<key>origin</key>
+			<string>追杀者部件3</string>
+			<key>translate</key>
+			<string>After the part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>125</integer>
+			<key>origin</key>
+			<string>追杀者部件4</string>
+			<key>translate</key>
+			<string>After part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>126</integer>
+			<key>origin</key>
+			<string>要你命3000部件1</string>
+			<key>translate</key>
+			<string>3000 parts 1 to your life</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>127</integer>
+			<key>origin</key>
+			<string>要你命3000部件2</string>
+			<key>translate</key>
+			<string>3000 parts 2 to your life</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>128</integer>
+			<key>origin</key>
+			<string>要你命3000部件3</string>
+			<key>translate</key>
+			<string>3000 parts 3 to your life</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>129</integer>
+			<key>origin</key>
+			<string>要你命3000部件4</string>
+			<key>translate</key>
+			<string>3000 part 4 to your life</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>130</integer>
+			<key>origin</key>
+			<string>能量炮部件1</string>
+			<key>translate</key>
+			<string>Energy gun parts 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>131</integer>
+			<key>origin</key>
+			<string>能量炮部件2</string>
+			<key>translate</key>
+			<string>2 energy gun parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>132</integer>
+			<key>origin</key>
+			<string>能量炮部件3</string>
+			<key>translate</key>
+			<string>Energy gun parts 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>133</integer>
+			<key>origin</key>
+			<string>能量炮部件4</string>
+			<key>translate</key>
+			<string>Energy gun parts 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>134</integer>
+			<key>origin</key>
+			<string>激光炮部件1</string>
+			<key>translate</key>
+			<string>The laser gun part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>135</integer>
+			<key>origin</key>
+			<string>激光炮部件2</string>
+			<key>translate</key>
+			<string>The laser gun part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>136</integer>
+			<key>origin</key>
+			<string>激光炮部件3</string>
+			<key>translate</key>
+			<string>The laser gun parts 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>137</integer>
+			<key>origin</key>
+			<string>激光炮部件4</string>
+			<key>translate</key>
+			<string>Laser cannons part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>138</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者部件1</string>
+			<key>translate</key>
+			<string>1 the zombie torture-murderers parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>139</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者部件2</string>
+			<key>translate</key>
+			<string>The zombie torture-murderers part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>140</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者部件3</string>
+			<key>translate</key>
+			<string>3 the zombie torture-murderers parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>141</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者部件4</string>
+			<key>translate</key>
+			<string>4 the zombie torture-murderers parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>142</integer>
+			<key>origin</key>
+			<string>超神虐杀者部件1</string>
+			<key>translate</key>
+			<string>Super god torture-murderers part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>143</integer>
+			<key>origin</key>
+			<string>超神虐杀者部件2</string>
+			<key>translate</key>
+			<string>Super god torture-murderers part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>144</integer>
+			<key>origin</key>
+			<string>超神虐杀者部件3</string>
+			<key>translate</key>
+			<string>Super god torture-murderers part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>145</integer>
+			<key>origin</key>
+			<string>超神虐杀者部件4</string>
+			<key>translate</key>
+			<string>Super god torture-murderers part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>146</integer>
+			<key>origin</key>
+			<string>钢之刃部件1</string>
+			<key>translate</key>
+			<string>The blade of steel parts 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>147</integer>
+			<key>origin</key>
+			<string>钢之刃部件2</string>
+			<key>translate</key>
+			<string>The blade of steel parts 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>148</integer>
+			<key>origin</key>
+			<string>钢之刃部件3</string>
+			<key>translate</key>
+			<string>The blade of steel parts 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>149</integer>
+			<key>origin</key>
+			<string>钢之刃部件4</string>
+			<key>translate</key>
+			<string>The blade of steel parts 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>150</integer>
+			<key>origin</key>
+			<string>冰之刃部件1</string>
+			<key>translate</key>
+			<string>The blade of ice part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>151</integer>
+			<key>origin</key>
+			<string>冰之刃部件2</string>
+			<key>translate</key>
+			<string>The blade of ice part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>152</integer>
+			<key>origin</key>
+			<string>冰之刃部件3</string>
+			<key>translate</key>
+			<string>The blade of ice part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>153</integer>
+			<key>origin</key>
+			<string>冰之刃部件4</string>
+			<key>translate</key>
+			<string>The blade of ice part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>154</integer>
+			<key>origin</key>
+			<string>火之刃部件1</string>
+			<key>translate</key>
+			<string>The blade of fire unit 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>155</integer>
+			<key>origin</key>
+			<string>火之刃部件2</string>
+			<key>translate</key>
+			<string>The blade of fire unit 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>156</integer>
+			<key>origin</key>
+			<string>火之刃部件3</string>
+			<key>translate</key>
+			<string>The blade of fire unit 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>157</integer>
+			<key>origin</key>
+			<string>火之刃部件4</string>
+			<key>translate</key>
+			<string>The blade of fire unit 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>158</integer>
+			<key>origin</key>
+			<string>影之刃部件1</string>
+			<key>translate</key>
+			<string>The blade of the shadow part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>159</integer>
+			<key>origin</key>
+			<string>影之刃部件2</string>
+			<key>translate</key>
+			<string>The blade of the shadow part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>160</integer>
+			<key>origin</key>
+			<string>影之刃部件3</string>
+			<key>translate</key>
+			<string>The blade of the shadow part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>161</integer>
+			<key>origin</key>
+			<string>影之刃部件4</string>
+			<key>translate</key>
+			<string>The blade of the shadow part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>162</integer>
+			<key>origin</key>
+			<string>魂之刃部件1</string>
+			<key>translate</key>
+			<string>The soul of the blade part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>163</integer>
+			<key>origin</key>
+			<string>魂之刃部件2</string>
+			<key>translate</key>
+			<string>The soul of the blade part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>164</integer>
+			<key>origin</key>
+			<string>魂之刃部件3</string>
+			<key>translate</key>
+			<string>The soul of the blade part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>165</integer>
+			<key>origin</key>
+			<string>魂之刃部件4</string>
+			<key>translate</key>
+			<string>The soul of the blade part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>166</integer>
+			<key>origin</key>
+			<string>USP弹夹</string>
+			<key>translate</key>
+			<string>USP cartridge</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>167</integer>
+			<key>origin</key>
+			<string>左轮弹夹</string>
+			<key>translate</key>
+			<string>Revolver cartridge</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>168</integer>
+			<key>origin</key>
+			<string>黄金沙鹰弹夹</string>
+			<key>translate</key>
+			<string>Yellow sands eagle cartridge</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>169</integer>
+			<key>origin</key>
+			<string>双持MP5弹夹</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5 cartridge</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>170</integer>
+			<key>origin</key>
+			<string>毁灭者弹夹</string>
+			<key>translate</key>
+			<string>The destroyer cartridge</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>171</integer>
+			<key>origin</key>
+			<string>M4A1弹夹</string>
+			<key>translate</key>
+			<string>M4A1 cartridge</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>172</integer>
+			<key>origin</key>
+			<string>AK47弹夹</string>
+			<key>translate</key>
+			<string>AK47 cartridge</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>173</integer>
+			<key>origin</key>
+			<string>M1散弹弹夹</string>
+			<key>translate</key>
+			<string>M1 shotgun cartridge</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>174</integer>
+			<key>origin</key>
+			<string>火神弹夹</string>
+			<key>translate</key>
+			<string>Vulcan cartridge</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>175</integer>
+			<key>origin</key>
+			<string>摇霸弹夹</string>
+			<key>translate</key>
+			<string>Shake the cartridge on the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>176</integer>
+			<key>origin</key>
+			<string>追杀者弹夹</string>
+			<key>translate</key>
+			<string>After the cartridge</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>177</integer>
+			<key>origin</key>
+			<string>要你命3000弹夹</string>
+			<key>translate</key>
+			<string>3000 cartridge to your life</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>178</integer>
+			<key>origin</key>
+			<string>能量炮弹夹</string>
+			<key>translate</key>
+			<string>Energy shots clip</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>179</integer>
+			<key>origin</key>
+			<string>激光炮弹夹</string>
+			<key>translate</key>
+			<string>Laser cannon clip</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>180</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者弹夹</string>
+			<key>translate</key>
+			<string>The zombie torture-murderers cartridge</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>181</integer>
+			<key>origin</key>
+			<string>超神虐杀者弹夹</string>
+			<key>translate</key>
+			<string>Super god torture-murderers cartridge</string>
+		</dict>
+	</array>
+	<key>GunInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>左轮</string>
+			<key>translate</key>
+			<string>revolver</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>黄金沙鹰</string>
+			<key>translate</key>
+			<string>The yellow sands eagle</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>双持MP5</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>毁灭者</string>
+			<key>translate</key>
+			<string>The destroyer</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>M1散弹</string>
+			<key>translate</key>
+			<string>M1 shotgun</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>火神</string>
+			<key>translate</key>
+			<string>vulcan</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>V-吸血鬼</string>
+			<key>translate</key>
+			<string>V - the vampire</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>摇霸</string>
+			<key>translate</key>
+			<string>Shake bully</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>追杀者</string>
+			<key>translate</key>
+			<string>After the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>要你命3000</string>
+			<key>translate</key>
+			<string>Kill you 3000</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>能量炮</string>
+			<key>translate</key>
+			<string>Energy cannon</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>激光炮</string>
+			<key>translate</key>
+			<string>The laser gun</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者</string>
+			<key>translate</key>
+			<string>The zombie torture-murderers</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>超神虐杀者</string>
+			<key>translate</key>
+			<string>Torture-murderers super god</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>中</string>
+			<key>translate</key>
+			<string>In the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>中</string>
+			<key>translate</key>
+			<string>In the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>中</string>
+			<key>translate</key>
+			<string>In the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>极快</string>
+			<key>translate</key>
+			<string>Very fast</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>慢</string>
+			<key>translate</key>
+			<string>slow</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>快</string>
+			<key>translate</key>
+			<string>fast</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>极快</string>
+			<key>translate</key>
+			<string>Very fast</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>24</integer>
+			<key>origin</key>
+			<string>极慢</string>
+			<key>translate</key>
+			<string>Extremely slow</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>25</integer>
+			<key>origin</key>
+			<string>快</string>
+			<key>translate</key>
+			<string>fast</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>26</integer>
+			<key>origin</key>
+			<string>中</string>
+			<key>translate</key>
+			<string>In the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>27</integer>
+			<key>origin</key>
+			<string>极快</string>
+			<key>translate</key>
+			<string>Very fast</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>28</integer>
+			<key>origin</key>
+			<string>慢</string>
+			<key>translate</key>
+			<string>slow</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>29</integer>
+			<key>origin</key>
+			<string>极慢</string>
+			<key>translate</key>
+			<string>Extremely slow</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>30</integer>
+			<key>origin</key>
+			<string>极快</string>
+			<key>translate</key>
+			<string>Very fast</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>31</integer>
+			<key>origin</key>
+			<string>极慢</string>
+			<key>translate</key>
+			<string>Extremely slow</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>32</integer>
+			<key>origin</key>
+			<string>中</string>
+			<key>translate</key>
+			<string>In the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>33</integer>
+			<key>origin</key>
+			<string>中</string>
+			<key>translate</key>
+			<string>In the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>34</integer>
+			<key>origin</key>
+			<string>快</string>
+			<key>translate</key>
+			<string>fast</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>35</integer>
+			<key>origin</key>
+			<string>无限子弹</string>
+			<key>translate</key>
+			<string>The bullet infinite</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>36</integer>
+			<key>origin</key>
+			<string>穿透</string>
+			<key>translate</key>
+			<string>through</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>37</integer>
+			<key>origin</key>
+			<string>爆炸</string>
+			<key>translate</key>
+			<string>The explosion</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>38</integer>
+			<key>origin</key>
+			<string>连击</string>
+			<key>translate</key>
+			<string>combo</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>39</integer>
+			<key>origin</key>
+			<string>连击 穿透</string>
+			<key>translate</key>
+			<string>Combo to penetrate</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>40</integer>
+			<key>origin</key>
+			<string>速射</string>
+			<key>translate</key>
+			<string>Rapid fire</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>41</integer>
+			<key>origin</key>
+			<string>速射</string>
+			<key>translate</key>
+			<string>Rapid fire</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>42</integer>
+			<key>origin</key>
+			<string>散弹 暴击</string>
+			<key>translate</key>
+			<string>Shotgun crit</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>43</integer>
+			<key>origin</key>
+			<string>燃烧 穿透</string>
+			<key>translate</key>
+			<string>Burning through</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>44</integer>
+			<key>origin</key>
+			<string>噬魂</string>
+			<key>translate</key>
+			<string>Eats the soul</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>45</integer>
+			<key>origin</key>
+			<string>速射</string>
+			<key>translate</key>
+			<string>Rapid fire</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>46</integer>
+			<key>origin</key>
+			<string>追踪 散弹</string>
+			<key>translate</key>
+			<string>Track the shotgun</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>47</integer>
+			<key>origin</key>
+			<string>暴击 爆炸 冻结</string>
+			<key>translate</key>
+			<string>Crit blast freezing</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>48</integer>
+			<key>origin</key>
+			<string>速射</string>
+			<key>translate</key>
+			<string>Rapid fire</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>49</integer>
+			<key>origin</key>
+			<string>蓄力 穿透</string>
+			<key>translate</key>
+			<string>Xu li through</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>50</integer>
+			<key>origin</key>
+			<string>分裂 追踪 必杀</string>
+			<key>translate</key>
+			<string>Split track kill</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>51</integer>
+			<key>origin</key>
+			<string>分裂 追踪 必杀</string>
+			<key>translate</key>
+			<string>Split track kill</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>52</integer>
+			<key>origin</key>
+			<string>穿透 必杀</string>
+			<key>translate</key>
+			<string>Through the kill</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>53</integer>
+			<key>origin</key>
+			<string>CT专用手枪，新人上手必备武器。</string>
+			<key>translate</key>
+			<string>CT dedicated pistol, newcomer fit for weapons.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>54</integer>
+			<key>origin</key>
+			<string>传说中的银色左轮，能轻松击穿僵尸。</string>
+			<key>translate</key>
+			<string>The legendary silver revolver, can easily breakdown zombies.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>55</integer>
+			<key>origin</key>
+			<string>黄金沙鹰，至尊品质，身份象征。</string>
+			<key>translate</key>
+			<string>Yellow sands eagle, supreme quality, status symbol.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>56</integer>
+			<key>origin</key>
+			<string>德国制造双持MP5，拥有极高射速。</string>
+			<key>translate</key>
+			<string>Made in Germany dual wield't a MP5, has the extremely high speed.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>57</integer>
+			<key>origin</key>
+			<string>以闪电毁灭之力连发三枪并穿透敌人。</string>
+			<key>translate</key>
+			<string>By sending 3 guns and penetrate the enemy to destroy the power of lightning.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>58</integer>
+			<key>origin</key>
+			<string>柯尔特公司研制的M4步枪的子变体。</string>
+			<key>translate</key>
+			<string>Developed colt M4 rifle variants.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>59</integer>
+			<key>origin</key>
+			<string>没用过AK47的人生是不完整的。</string>
+			<key>translate</key>
+			<string>Used ak47s life is incomplete.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>60</integer>
+			<key>origin</key>
+			<string>一次七发的毁灭性武器，高概率暴击。</string>
+			<key>translate</key>
+			<string>A seven devastating weapons, high probability crit.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>61</integer>
+			<key>origin</key>
+			<string>以神之名把敌人烧的渣渣都不剩。</string>
+			<key>translate</key>
+			<string>In the name of god burn of the Tony left the enemy.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>62</integer>
+			<key>origin</key>
+			<string>吸血效果惊人，无尽杀戮必备。</string>
+			<key>translate</key>
+			<string>Vampire effect, endless killing necessary.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>63</integer>
+			<key>origin</key>
+			<string>摇出节奏摇出霸气，摇的僵尸哭爹喊娘。</string>
+			<key>translate</key>
+			<string>The domineering, wave the rhythm of the zombie cry dad shouted niang.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>64</integer>
+			<key>origin</key>
+			<string>发出三道自动追踪敌人的动感杀人波。</string>
+			<key>translate</key>
+			<string>Send three automatic tracking dynamic wave to kill the enemy.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>65</integer>
+			<key>origin</key>
+			<string>达文西精心推荐，把僵尸一发入魂。</string>
+			<key>translate</key>
+			<string>Leonardo carefully recommended, the zombie round into the soul.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>66</integer>
+			<key>origin</key>
+			<string>采用能量技术，连发威力强大的能量弹。</string>
+			<key>translate</key>
+			<string>By adopting the technology of energy, repeating powerful energy to play.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>67</integer>
+			<key>origin</key>
+			<string>按住攻击进行蓄力，发射粗又硬的激光。</string>
+			<key>translate</key>
+			<string>Hold the attack to xu li, laser emission thick and hard.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>68</integer>
+			<key>origin</key>
+			<string>一枪四弹，追踪必杀，狂虐僵尸。</string>
+			<key>translate</key>
+			<string>Four play a gun, tracking slay, far the zombies.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>69</integer>
+			<key>origin</key>
+			<string>虐杀者超神版，八心八弹，天下无敌。</string>
+			<key>translate</key>
+			<string>Torture-murderers super god edition, eight, eight heart world-beater.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>70</integer>
+			<key>origin</key>
+			<string>超神穿透散射，秒杀一切僵尸。</string>
+			<key>translate</key>
+			<string>Super god through scattering, seconds kill all zombies.</string>
+		</dict>
+	</array>
+	<key>LuckDrawInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>审判（普通）</string>
+			<key>translate</key>
+			<string>Trial (normal)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>审判（优良）</string>
+			<key>translate</key>
+			<string>Trial (good)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>审判（精品）</string>
+			<key>translate</key>
+			<string>Trial (fine)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>引力（普通）</string>
+			<key>translate</key>
+			<string>Gravity (normal)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>引力（优良）</string>
+			<key>translate</key>
+			<string>Gravity (good)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>引力（精品）</string>
+			<key>translate</key>
+			<string>Gravity (fine)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>诺亚（普通）</string>
+			<key>translate</key>
+			<string>Noah (normal)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>诺亚（优良）</string>
+			<key>translate</key>
+			<string>Noah (good)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>诺亚（精品）</string>
+			<key>translate</key>
+			<string>Noah (fine)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>涤罪（普通）</string>
+			<key>translate</key>
+			<string>Purgatory (normal)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>涤罪（优良）</string>
+			<key>translate</key>
+			<string>Purgatory (good)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>涤罪（精品）</string>
+			<key>translate</key>
+			<string>Purgatory (fine)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>迷你萨克|（普通）</string>
+			<key>translate</key>
+			<string>Mini Isaac | (normal)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>迷你萨克|（优良）</string>
+			<key>translate</key>
+			<string>Mini Isaac | (good)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>迷你萨克|（精品）</string>
+			<key>translate</key>
+			<string>Mini Isaac | (fine)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>星陨（普通）</string>
+			<key>translate</key>
+			<string>Stars meteorite (normal)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>星陨（优良）</string>
+			<key>translate</key>
+			<string>Stars meteorite (good)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>星陨（精品）</string>
+			<key>translate</key>
+			<string>Stars meteorite (fine)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>智能护卫|（普通）</string>
+			<key>translate</key>
+			<string>Smart guard | (normal)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>智能护卫|（优良）</string>
+			<key>translate</key>
+			<string>Smart guard | (good)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>智能护卫|（精品）</string>
+			<key>translate</key>
+			<string>Smart guard | (fine)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>24</integer>
+			<key>origin</key>
+			<string>破军（普通）</string>
+			<key>translate</key>
+			<string>Break the (common)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>25</integer>
+			<key>origin</key>
+			<string>破军（优良）</string>
+			<key>translate</key>
+			<string>Break the (good)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>26</integer>
+			<key>origin</key>
+			<string>破军（精品）</string>
+			<key>translate</key>
+			<string>Broken army (fine)</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>27</integer>
+			<key>origin</key>
+			<string>僚机碎片X5</string>
+			<key>translate</key>
+			<string>Pieces of wingman X5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>28</integer>
+			<key>origin</key>
+			<string>僚机碎片x8</string>
+			<key>translate</key>
+			<string>Wingman fragments by 8</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>29</integer>
+			<key>origin</key>
+			<string>僚机碎片x10</string>
+			<key>translate</key>
+			<string>Pieces of wingman x10</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>30</integer>
+			<key>origin</key>
+			<string>僚机碎片x20</string>
+			<key>translate</key>
+			<string>Pieces of wingman x20</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>31</integer>
+			<key>origin</key>
+			<string>僚机碎片x30</string>
+			<key>translate</key>
+			<string>Pieces of wingman x30</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>32</integer>
+			<key>origin</key>
+			<string>金币X500</string>
+			<key>translate</key>
+			<string>Gold X500</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>33</integer>
+			<key>origin</key>
+			<string>金币X800</string>
+			<key>translate</key>
+			<string>Gold X800</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>34</integer>
+			<key>origin</key>
+			<string>金币X1000</string>
+			<key>translate</key>
+			<string>Gold X1000</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>35</integer>
+			<key>origin</key>
+			<string>金币X2000</string>
+			<key>translate</key>
+			<string>Gold X2000</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>36</integer>
+			<key>origin</key>
+			<string>金币X5000</string>
+			<key>translate</key>
+			<string>Gold X5000</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>37</integer>
+			<key>origin</key>
+			<string>手雷X5</string>
+			<key>translate</key>
+			<string>Grenade X5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>38</integer>
+			<key>origin</key>
+			<string>手雷X8</string>
+			<key>translate</key>
+			<string>Grenade by 8</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>39</integer>
+			<key>origin</key>
+			<string>手雷X10</string>
+			<key>translate</key>
+			<string>Grenade X10</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>40</integer>
+			<key>origin</key>
+			<string>医疗包X2</string>
+			<key>translate</key>
+			<string>Medical kits X2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>41</integer>
+			<key>origin</key>
+			<string>医疗包X5</string>
+			<key>translate</key>
+			<string>Medical kits X5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>42</integer>
+			<key>origin</key>
+			<string>医疗包X8</string>
+			<key>translate</key>
+			<string>Medical kits by 8</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>43</integer>
+			<key>origin</key>
+			<string>优良强化石x5</string>
+			<key>translate</key>
+			<string>Good strong fossil x5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>44</integer>
+			<key>origin</key>
+			<string>优良强化石x10</string>
+			<key>translate</key>
+			<string>Good strong fossil x10</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>45</integer>
+			<key>origin</key>
+			<string>精品强化石x5</string>
+			<key>translate</key>
+			<string>High-quality goods strong fossil x5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>46</integer>
+			<key>origin</key>
+			<string>精品强化石x10</string>
+			<key>translate</key>
+			<string>Strong fossil x10</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>47</integer>
+			<key>origin</key>
+			<string>超凡强化石x5</string>
+			<key>translate</key>
+			<string>Strong extraordinary fossil x5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>48</integer>
+			<key>origin</key>
+			<string>超凡强化石x10</string>
+			<key>translate</key>
+			<string>Strong fossil x10</string>
+		</dict>
+	</array>
+	<key>PartInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>USP部件1</string>
+			<key>translate</key>
+			<string>USP part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>USP部件2</string>
+			<key>translate</key>
+			<string>USP part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>USP部件3</string>
+			<key>translate</key>
+			<string>USP part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>USP部件4</string>
+			<key>translate</key>
+			<string>USP unit 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>左轮部件1</string>
+			<key>translate</key>
+			<string>Left part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>左轮部件2</string>
+			<key>translate</key>
+			<string>Left part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>左轮部件3</string>
+			<key>translate</key>
+			<string>Left part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>左轮部件4</string>
+			<key>translate</key>
+			<string>Left part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>黄金沙鹰部件1</string>
+			<key>translate</key>
+			<string>1 yellow sands eagle parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>黄金沙鹰部件2</string>
+			<key>translate</key>
+			<string>2 yellow sands eagle parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>黄金沙鹰部件3</string>
+			<key>translate</key>
+			<string>3 yellow sands eagle parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>黄金沙鹰部件4</string>
+			<key>translate</key>
+			<string>4 yellow sands eagle parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>双持MP5部件1</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5 part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>双持MP5部件2</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5 part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>双持MP5部件3</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5 part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>双持MP5部件4</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5 part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>毁灭者部件1</string>
+			<key>translate</key>
+			<string>The destroyer part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>毁灭者部件2</string>
+			<key>translate</key>
+			<string>The destroyer part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>毁灭者部件3</string>
+			<key>translate</key>
+			<string>The destroyer part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>毁灭者部件4</string>
+			<key>translate</key>
+			<string>The destroyer part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>M4A1部件1</string>
+			<key>translate</key>
+			<string>M4A1 part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>24</integer>
+			<key>origin</key>
+			<string>M4A1部件2</string>
+			<key>translate</key>
+			<string>M4A1 part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>25</integer>
+			<key>origin</key>
+			<string>M4A1部件3</string>
+			<key>translate</key>
+			<string>M4A1 part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>26</integer>
+			<key>origin</key>
+			<string>M4A1部件4</string>
+			<key>translate</key>
+			<string>M4A1 part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>27</integer>
+			<key>origin</key>
+			<string>AK47部件1</string>
+			<key>translate</key>
+			<string>AK47 part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>28</integer>
+			<key>origin</key>
+			<string>AK47部件2</string>
+			<key>translate</key>
+			<string>AK47 part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>29</integer>
+			<key>origin</key>
+			<string>AK47部件3</string>
+			<key>translate</key>
+			<string>AK47 part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>30</integer>
+			<key>origin</key>
+			<string>AK47部件4</string>
+			<key>translate</key>
+			<string>AK47 part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>31</integer>
+			<key>origin</key>
+			<string>M1散弹部件1</string>
+			<key>translate</key>
+			<string>M1 shotgun part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>32</integer>
+			<key>origin</key>
+			<string>M1散弹部件2</string>
+			<key>translate</key>
+			<string>M1 shotgun part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>33</integer>
+			<key>origin</key>
+			<string>M1散弹部件3</string>
+			<key>translate</key>
+			<string>3 M1 shotgun components</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>34</integer>
+			<key>origin</key>
+			<string>M1散弹部件4</string>
+			<key>translate</key>
+			<string>M1 shotgun part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>35</integer>
+			<key>origin</key>
+			<string>火神部件1</string>
+			<key>translate</key>
+			<string>Vulcan part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>36</integer>
+			<key>origin</key>
+			<string>火神部件2</string>
+			<key>translate</key>
+			<string>Vulcan part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>37</integer>
+			<key>origin</key>
+			<string>火神部件3</string>
+			<key>translate</key>
+			<string>Vulcan part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>38</integer>
+			<key>origin</key>
+			<string>火神部件4</string>
+			<key>translate</key>
+			<string>Vulcan part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>39</integer>
+			<key>origin</key>
+			<string>摇霸部件1</string>
+			<key>translate</key>
+			<string>Shake the components on the 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>40</integer>
+			<key>origin</key>
+			<string>摇霸部件2</string>
+			<key>translate</key>
+			<string>Shake the parts on the 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>41</integer>
+			<key>origin</key>
+			<string>摇霸部件3</string>
+			<key>translate</key>
+			<string>Shake the components on the 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>42</integer>
+			<key>origin</key>
+			<string>摇霸部件4</string>
+			<key>translate</key>
+			<string>Shake the components on the 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>43</integer>
+			<key>origin</key>
+			<string>追杀者部件1</string>
+			<key>translate</key>
+			<string>After the part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>44</integer>
+			<key>origin</key>
+			<string>追杀者部件2</string>
+			<key>translate</key>
+			<string>After part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>45</integer>
+			<key>origin</key>
+			<string>追杀者部件3</string>
+			<key>translate</key>
+			<string>After the part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>46</integer>
+			<key>origin</key>
+			<string>追杀者部件4</string>
+			<key>translate</key>
+			<string>After part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>47</integer>
+			<key>origin</key>
+			<string>要你命3000部件1</string>
+			<key>translate</key>
+			<string>3000 parts 1 to your life</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>48</integer>
+			<key>origin</key>
+			<string>要你命3000部件2</string>
+			<key>translate</key>
+			<string>3000 parts 2 to your life</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>49</integer>
+			<key>origin</key>
+			<string>要你命3000部件3</string>
+			<key>translate</key>
+			<string>3000 parts 3 to your life</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>50</integer>
+			<key>origin</key>
+			<string>要你命3000部件4</string>
+			<key>translate</key>
+			<string>3000 part 4 to your life</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>51</integer>
+			<key>origin</key>
+			<string>能量炮部件1</string>
+			<key>translate</key>
+			<string>Energy gun parts 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>52</integer>
+			<key>origin</key>
+			<string>能量炮部件2</string>
+			<key>translate</key>
+			<string>2 energy gun parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>53</integer>
+			<key>origin</key>
+			<string>能量炮部件3</string>
+			<key>translate</key>
+			<string>Energy gun parts 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>54</integer>
+			<key>origin</key>
+			<string>能量炮部件4</string>
+			<key>translate</key>
+			<string>Energy gun parts 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>55</integer>
+			<key>origin</key>
+			<string>激光炮部件1</string>
+			<key>translate</key>
+			<string>The laser gun part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>56</integer>
+			<key>origin</key>
+			<string>激光炮部件2</string>
+			<key>translate</key>
+			<string>The laser gun part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>57</integer>
+			<key>origin</key>
+			<string>激光炮部件3</string>
+			<key>translate</key>
+			<string>The laser gun parts 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>58</integer>
+			<key>origin</key>
+			<string>激光炮部件4</string>
+			<key>translate</key>
+			<string>Laser cannons part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>59</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者部件1</string>
+			<key>translate</key>
+			<string>1 the zombie torture-murderers parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>60</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者部件2</string>
+			<key>translate</key>
+			<string>The zombie torture-murderers part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>61</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者部件3</string>
+			<key>translate</key>
+			<string>3 the zombie torture-murderers parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>62</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者部件4</string>
+			<key>translate</key>
+			<string>4 the zombie torture-murderers parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>63</integer>
+			<key>origin</key>
+			<string>超神虐杀者部件1</string>
+			<key>translate</key>
+			<string>Super god torture-murderers part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>64</integer>
+			<key>origin</key>
+			<string>超神虐杀者部件2</string>
+			<key>translate</key>
+			<string>Super god torture-murderers part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>65</integer>
+			<key>origin</key>
+			<string>超神虐杀者部件3</string>
+			<key>translate</key>
+			<string>Super god torture-murderers part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>66</integer>
+			<key>origin</key>
+			<string>超神虐杀者部件4</string>
+			<key>translate</key>
+			<string>Super god torture-murderers part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>67</integer>
+			<key>origin</key>
+			<string>钢之刃部件1</string>
+			<key>translate</key>
+			<string>The blade of steel parts 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>68</integer>
+			<key>origin</key>
+			<string>钢之刃部件2</string>
+			<key>translate</key>
+			<string>The blade of steel parts 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>69</integer>
+			<key>origin</key>
+			<string>钢之刃部件3</string>
+			<key>translate</key>
+			<string>The blade of steel parts 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>70</integer>
+			<key>origin</key>
+			<string>钢之刃部件4</string>
+			<key>translate</key>
+			<string>The blade of steel parts 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>71</integer>
+			<key>origin</key>
+			<string>冰之刃部件1</string>
+			<key>translate</key>
+			<string>The blade of ice part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>72</integer>
+			<key>origin</key>
+			<string>冰之刃部件2</string>
+			<key>translate</key>
+			<string>The blade of ice part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>73</integer>
+			<key>origin</key>
+			<string>冰之刃部件3</string>
+			<key>translate</key>
+			<string>The blade of ice part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>74</integer>
+			<key>origin</key>
+			<string>冰之刃部件4</string>
+			<key>translate</key>
+			<string>The blade of ice part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>75</integer>
+			<key>origin</key>
+			<string>火之刃部件1</string>
+			<key>translate</key>
+			<string>The blade of fire unit 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>76</integer>
+			<key>origin</key>
+			<string>火之刃部件2</string>
+			<key>translate</key>
+			<string>The blade of fire unit 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>77</integer>
+			<key>origin</key>
+			<string>火之刃部件3</string>
+			<key>translate</key>
+			<string>The blade of fire unit 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>78</integer>
+			<key>origin</key>
+			<string>火之刃部件4</string>
+			<key>translate</key>
+			<string>The blade of fire unit 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>79</integer>
+			<key>origin</key>
+			<string>影之刃部件1</string>
+			<key>translate</key>
+			<string>The blade of the shadow part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>80</integer>
+			<key>origin</key>
+			<string>影之刃部件2</string>
+			<key>translate</key>
+			<string>The blade of the shadow part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>81</integer>
+			<key>origin</key>
+			<string>影之刃部件3</string>
+			<key>translate</key>
+			<string>The blade of the shadow part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>82</integer>
+			<key>origin</key>
+			<string>影之刃部件4</string>
+			<key>translate</key>
+			<string>The blade of the shadow part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>83</integer>
+			<key>origin</key>
+			<string>魂之刃部件1</string>
+			<key>translate</key>
+			<string>The soul of the blade part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>84</integer>
+			<key>origin</key>
+			<string>魂之刃部件2</string>
+			<key>translate</key>
+			<string>The soul of the blade part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>85</integer>
+			<key>origin</key>
+			<string>魂之刃部件3</string>
+			<key>translate</key>
+			<string>The soul of the blade part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>86</integer>
+			<key>origin</key>
+			<string>魂之刃部件4</string>
+			<key>translate</key>
+			<string>The soul of the blade part 4</string>
+		</dict>
+	</array>
+	<key>ReadyInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>宝箱</string>
+			<key>translate</key>
+			<string>The treasure chest</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>手雷</string>
+			<key>translate</key>
+			<string>Hand grenades</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>医疗包</string>
+			<key>translate</key>
+			<string>Medical kits</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>大技</string>
+			<key>translate</key>
+			<string>Great skill</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>修复防弹衣</string>
+			<key>translate</key>
+			<string>Repair body armor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>手枪威力小</string>
+			<key>translate</key>
+			<string>Small pistol power</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>手枪威力中</string>
+			<key>translate</key>
+			<string>Pistol in the power</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>手枪威力大</string>
+			<key>translate</key>
+			<string>Pistol very powerful</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>机枪威力小</string>
+			<key>translate</key>
+			<string>Machine gun power of small</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>机枪威力中</string>
+			<key>translate</key>
+			<string>In the machine power</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>机枪威力大</string>
+			<key>translate</key>
+			<string>Machine gun very powerful</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>近战威力小</string>
+			<key>translate</key>
+			<string>Melee power of small</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>近战威力中</string>
+			<key>translate</key>
+			<string>In the melee power</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>近战威力大</string>
+			<key>translate</key>
+			<string>Melee power of large</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>怪物弱化小</string>
+			<key>translate</key>
+			<string>Small monster weakening</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>怪物弱化中</string>
+			<key>translate</key>
+			<string>Weakening of the monster</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>怪物弱化大</string>
+			<key>translate</key>
+			<string>The monster weakening big</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>怪物减血小</string>
+			<key>translate</key>
+			<string>The monster blood small reduction</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>怪物减血中</string>
+			<key>translate</key>
+			<string>The monster blood reduction</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>怪物减血大</string>
+			<key>translate</key>
+			<string>The monster blood big reduction</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>暴击伤害小</string>
+			<key>translate</key>
+			<string>The critical strike damage</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>24</integer>
+			<key>origin</key>
+			<string>暴击伤害中</string>
+			<key>translate</key>
+			<string>In the critical strike damage</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>25</integer>
+			<key>origin</key>
+			<string>暴击伤害大</string>
+			<key>translate</key>
+			<string>Big critical strike damage</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>26</integer>
+			<key>origin</key>
+			<string>燃烧强化</string>
+			<key>translate</key>
+			<string>Burning strengthening</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>27</integer>
+			<key>origin</key>
+			<string>冰冻强化</string>
+			<key>translate</key>
+			<string>Freezing reinforcement</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>28</integer>
+			<key>origin</key>
+			<string>幸运强化</string>
+			<key>translate</key>
+			<string>Lucky to strengthen</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>29</integer>
+			<key>origin</key>
+			<string>获得一个神秘奖励</string>
+			<key>translate</key>
+			<string>Get a mysterious awards</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>30</integer>
+			<key>origin</key>
+			<string>购买10个手雷</string>
+			<key>translate</key>
+			<string>Buy 10 grenades</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>31</integer>
+			<key>origin</key>
+			<string>购买10个医疗包</string>
+			<key>translate</key>
+			<string>Buy 10 medical kits</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>32</integer>
+			<key>origin</key>
+			<string>购买5个空中支援</string>
+			<key>translate</key>
+			<string>Buy 5 air support</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>33</integer>
+			<key>origin</key>
+			<string>修复防弹衣</string>
+			<key>translate</key>
+			<string>Repair body armor</string>
+		</dict>
+	</array>
+	<key>RoulettrInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>再来一次</string>
+			<key>translate</key>
+			<string>One more time</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>金币X100</string>
+			<key>translate</key>
+			<string>Gold X100</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>金币X200</string>
+			<key>translate</key>
+			<string>Gold X200</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>金币X400</string>
+			<key>translate</key>
+			<string>Gold will</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>金币X500</string>
+			<key>translate</key>
+			<string>Gold X500</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>金币X600</string>
+			<key>translate</key>
+			<string>Gold X600</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>金币X1000</string>
+			<key>translate</key>
+			<string>Gold X1000</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>金币X2000</string>
+			<key>translate</key>
+			<string>Gold X2000</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>金币X5000</string>
+			<key>translate</key>
+			<string>Gold X5000</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>手雷X2</string>
+			<key>translate</key>
+			<string>Grenade X2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>手雷X3</string>
+			<key>translate</key>
+			<string>Grenade X3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>手雷X5</string>
+			<key>translate</key>
+			<string>Grenade X5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>手雷X8</string>
+			<key>translate</key>
+			<string>Grenade by 8</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>手雷X10</string>
+			<key>translate</key>
+			<string>Grenade X10</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>医疗包X2</string>
+			<key>translate</key>
+			<string>Medical kits X2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>医疗包X5</string>
+			<key>translate</key>
+			<string>Medical kits X5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>医疗包X8</string>
+			<key>translate</key>
+			<string>Medical kits by 8</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>火之刃</string>
+			<key>translate</key>
+			<string>The blade of the fire</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>影之刃</string>
+			<key>translate</key>
+			<string>The blade of the shadow</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>黄金沙鹰</string>
+			<key>translate</key>
+			<string>The yellow sands eagle</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>双持MP5</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>24</integer>
+			<key>origin</key>
+			<string>摇霸</string>
+			<key>translate</key>
+			<string>Shake bully</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>25</integer>
+			<key>origin</key>
+			<string>追杀者</string>
+			<key>translate</key>
+			<string>After the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>26</integer>
+			<key>origin</key>
+			<string>要你命3000</string>
+			<key>translate</key>
+			<string>Kill you 3000</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>27</integer>
+			<key>origin</key>
+			<string>能量炮</string>
+			<key>translate</key>
+			<string>Energy cannon</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>28</integer>
+			<key>origin</key>
+			<string>激光炮</string>
+			<key>translate</key>
+			<string>The laser gun</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>29</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者</string>
+			<key>translate</key>
+			<string>The zombie torture-murderers</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>30</integer>
+			<key>origin</key>
+			<string>左轮部件1</string>
+			<key>translate</key>
+			<string>Left part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>31</integer>
+			<key>origin</key>
+			<string>左轮部件2</string>
+			<key>translate</key>
+			<string>Left part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>32</integer>
+			<key>origin</key>
+			<string>左轮部件3</string>
+			<key>translate</key>
+			<string>Left part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>33</integer>
+			<key>origin</key>
+			<string>左轮部件4</string>
+			<key>translate</key>
+			<string>Left part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>34</integer>
+			<key>origin</key>
+			<string>黄金沙鹰部件1</string>
+			<key>translate</key>
+			<string>1 yellow sands eagle parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>35</integer>
+			<key>origin</key>
+			<string>黄金沙鹰部件2</string>
+			<key>translate</key>
+			<string>2 yellow sands eagle parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>36</integer>
+			<key>origin</key>
+			<string>黄金沙鹰部件3</string>
+			<key>translate</key>
+			<string>3 yellow sands eagle parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>37</integer>
+			<key>origin</key>
+			<string>黄金沙鹰部件4</string>
+			<key>translate</key>
+			<string>4 yellow sands eagle parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>38</integer>
+			<key>origin</key>
+			<string>双持MP5部件1</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5 part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>39</integer>
+			<key>origin</key>
+			<string>双持MP5部件2</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5 part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>40</integer>
+			<key>origin</key>
+			<string>双持MP5部件3</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5 part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>41</integer>
+			<key>origin</key>
+			<string>双持MP5部件4</string>
+			<key>translate</key>
+			<string>Dual wield't a MP5 part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>42</integer>
+			<key>origin</key>
+			<string>毁灭者部件1</string>
+			<key>translate</key>
+			<string>The destroyer part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>43</integer>
+			<key>origin</key>
+			<string>毁灭者部件2</string>
+			<key>translate</key>
+			<string>The destroyer part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>44</integer>
+			<key>origin</key>
+			<string>毁灭者部件3</string>
+			<key>translate</key>
+			<string>The destroyer part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>45</integer>
+			<key>origin</key>
+			<string>毁灭者部件4</string>
+			<key>translate</key>
+			<string>The destroyer part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>46</integer>
+			<key>origin</key>
+			<string>M4A1部件1</string>
+			<key>translate</key>
+			<string>M4A1 part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>47</integer>
+			<key>origin</key>
+			<string>M4A1部件2</string>
+			<key>translate</key>
+			<string>M4A1 part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>48</integer>
+			<key>origin</key>
+			<string>M4A1部件3</string>
+			<key>translate</key>
+			<string>M4A1 part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>49</integer>
+			<key>origin</key>
+			<string>M4A1部件4</string>
+			<key>translate</key>
+			<string>M4A1 part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>50</integer>
+			<key>origin</key>
+			<string>AK47部件1</string>
+			<key>translate</key>
+			<string>AK47 part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>51</integer>
+			<key>origin</key>
+			<string>AK47部件2</string>
+			<key>translate</key>
+			<string>AK47 part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>52</integer>
+			<key>origin</key>
+			<string>AK47部件3</string>
+			<key>translate</key>
+			<string>AK47 part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>53</integer>
+			<key>origin</key>
+			<string>AK47部件4</string>
+			<key>translate</key>
+			<string>AK47 part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>54</integer>
+			<key>origin</key>
+			<string>M1散弹部件1</string>
+			<key>translate</key>
+			<string>M1 shotgun part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>55</integer>
+			<key>origin</key>
+			<string>M1散弹部件2</string>
+			<key>translate</key>
+			<string>M1 shotgun part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>56</integer>
+			<key>origin</key>
+			<string>M1散弹部件3</string>
+			<key>translate</key>
+			<string>3 M1 shotgun components</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>57</integer>
+			<key>origin</key>
+			<string>M1散弹部件4</string>
+			<key>translate</key>
+			<string>M1 shotgun part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>58</integer>
+			<key>origin</key>
+			<string>火神部件1</string>
+			<key>translate</key>
+			<string>Vulcan part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>59</integer>
+			<key>origin</key>
+			<string>火神部件2</string>
+			<key>translate</key>
+			<string>Vulcan part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>60</integer>
+			<key>origin</key>
+			<string>火神部件3</string>
+			<key>translate</key>
+			<string>Vulcan part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>61</integer>
+			<key>origin</key>
+			<string>火神部件4</string>
+			<key>translate</key>
+			<string>Vulcan part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>62</integer>
+			<key>origin</key>
+			<string>摇霸部件1</string>
+			<key>translate</key>
+			<string>Shake the components on the 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>63</integer>
+			<key>origin</key>
+			<string>摇霸部件2</string>
+			<key>translate</key>
+			<string>Shake the parts on the 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>64</integer>
+			<key>origin</key>
+			<string>摇霸部件3</string>
+			<key>translate</key>
+			<string>Shake the components on the 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>65</integer>
+			<key>origin</key>
+			<string>摇霸部件4</string>
+			<key>translate</key>
+			<string>Shake the components on the 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>66</integer>
+			<key>origin</key>
+			<string>追杀者部件1</string>
+			<key>translate</key>
+			<string>After the part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>67</integer>
+			<key>origin</key>
+			<string>追杀者部件2</string>
+			<key>translate</key>
+			<string>After part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>68</integer>
+			<key>origin</key>
+			<string>追杀者部件3</string>
+			<key>translate</key>
+			<string>After the part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>69</integer>
+			<key>origin</key>
+			<string>追杀者部件4</string>
+			<key>translate</key>
+			<string>After part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>70</integer>
+			<key>origin</key>
+			<string>要你命3000部件1</string>
+			<key>translate</key>
+			<string>3000 parts 1 to your life</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>71</integer>
+			<key>origin</key>
+			<string>要你命3000部件2</string>
+			<key>translate</key>
+			<string>3000 parts 2 to your life</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>72</integer>
+			<key>origin</key>
+			<string>要你命3000部件3</string>
+			<key>translate</key>
+			<string>3000 parts 3 to your life</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>73</integer>
+			<key>origin</key>
+			<string>要你命3000部件4</string>
+			<key>translate</key>
+			<string>3000 part 4 to your life</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>74</integer>
+			<key>origin</key>
+			<string>能量炮部件1</string>
+			<key>translate</key>
+			<string>Energy gun parts 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>75</integer>
+			<key>origin</key>
+			<string>能量炮部件2</string>
+			<key>translate</key>
+			<string>2 energy gun parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>76</integer>
+			<key>origin</key>
+			<string>能量炮部件3</string>
+			<key>translate</key>
+			<string>Energy gun parts 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>77</integer>
+			<key>origin</key>
+			<string>能量炮部件4</string>
+			<key>translate</key>
+			<string>Energy gun parts 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>78</integer>
+			<key>origin</key>
+			<string>激光炮部件1</string>
+			<key>translate</key>
+			<string>The laser gun part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>79</integer>
+			<key>origin</key>
+			<string>激光炮部件2</string>
+			<key>translate</key>
+			<string>The laser gun part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>80</integer>
+			<key>origin</key>
+			<string>激光炮部件3</string>
+			<key>translate</key>
+			<string>The laser gun parts 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>81</integer>
+			<key>origin</key>
+			<string>激光炮部件4</string>
+			<key>translate</key>
+			<string>Laser cannons part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>82</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者部件1</string>
+			<key>translate</key>
+			<string>1 the zombie torture-murderers parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>83</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者部件2</string>
+			<key>translate</key>
+			<string>The zombie torture-murderers part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>84</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者部件3</string>
+			<key>translate</key>
+			<string>3 the zombie torture-murderers parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>85</integer>
+			<key>origin</key>
+			<string>僵尸虐杀者部件4</string>
+			<key>translate</key>
+			<string>4 the zombie torture-murderers parts</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>86</integer>
+			<key>origin</key>
+			<string>超神虐杀者部件1</string>
+			<key>translate</key>
+			<string>Super god torture-murderers part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>87</integer>
+			<key>origin</key>
+			<string>超神虐杀者部件2</string>
+			<key>translate</key>
+			<string>Super god torture-murderers part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>88</integer>
+			<key>origin</key>
+			<string>超神虐杀者部件3</string>
+			<key>translate</key>
+			<string>Super god torture-murderers part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>89</integer>
+			<key>origin</key>
+			<string>超神虐杀者部件4</string>
+			<key>translate</key>
+			<string>Super god torture-murderers part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>90</integer>
+			<key>origin</key>
+			<string>钢之刃部件1</string>
+			<key>translate</key>
+			<string>The blade of steel parts 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>91</integer>
+			<key>origin</key>
+			<string>钢之刃部件2</string>
+			<key>translate</key>
+			<string>The blade of steel parts 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>92</integer>
+			<key>origin</key>
+			<string>钢之刃部件3</string>
+			<key>translate</key>
+			<string>The blade of steel parts 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>93</integer>
+			<key>origin</key>
+			<string>钢之刃部件4</string>
+			<key>translate</key>
+			<string>The blade of steel parts 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>94</integer>
+			<key>origin</key>
+			<string>冰之刃部件1</string>
+			<key>translate</key>
+			<string>The blade of ice part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>95</integer>
+			<key>origin</key>
+			<string>冰之刃部件2</string>
+			<key>translate</key>
+			<string>The blade of ice part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>96</integer>
+			<key>origin</key>
+			<string>冰之刃部件3</string>
+			<key>translate</key>
+			<string>The blade of ice part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>97</integer>
+			<key>origin</key>
+			<string>冰之刃部件4</string>
+			<key>translate</key>
+			<string>The blade of ice part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>98</integer>
+			<key>origin</key>
+			<string>火之刃部件1</string>
+			<key>translate</key>
+			<string>The blade of fire unit 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>99</integer>
+			<key>origin</key>
+			<string>火之刃部件2</string>
+			<key>translate</key>
+			<string>The blade of fire unit 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>100</integer>
+			<key>origin</key>
+			<string>火之刃部件3</string>
+			<key>translate</key>
+			<string>The blade of fire unit 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>101</integer>
+			<key>origin</key>
+			<string>火之刃部件4</string>
+			<key>translate</key>
+			<string>The blade of fire unit 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>102</integer>
+			<key>origin</key>
+			<string>影之刃部件1</string>
+			<key>translate</key>
+			<string>The blade of the shadow part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>103</integer>
+			<key>origin</key>
+			<string>影之刃部件2</string>
+			<key>translate</key>
+			<string>The blade of the shadow part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>104</integer>
+			<key>origin</key>
+			<string>影之刃部件3</string>
+			<key>translate</key>
+			<string>The blade of the shadow part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>105</integer>
+			<key>origin</key>
+			<string>影之刃部件4</string>
+			<key>translate</key>
+			<string>The blade of the shadow part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>106</integer>
+			<key>origin</key>
+			<string>魂之刃部件1</string>
+			<key>translate</key>
+			<string>The soul of the blade part 1</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>107</integer>
+			<key>origin</key>
+			<string>魂之刃部件2</string>
+			<key>translate</key>
+			<string>The soul of the blade part 2</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>108</integer>
+			<key>origin</key>
+			<string>魂之刃部件3</string>
+			<key>translate</key>
+			<string>The soul of the blade part 3</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>109</integer>
+			<key>origin</key>
+			<string>魂之刃部件4</string>
+			<key>translate</key>
+			<string>The soul of the blade part 4</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>110</integer>
+			<key>origin</key>
+			<string>碎片x5</string>
+			<key>translate</key>
+			<string>Debris x5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>111</integer>
+			<key>origin</key>
+			<string>碎片x10</string>
+			<key>translate</key>
+			<string>Debris x10</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>112</integer>
+			<key>origin</key>
+			<string>碎片x15</string>
+			<key>translate</key>
+			<string>Debris x15</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>113</integer>
+			<key>origin</key>
+			<string>碎片x20</string>
+			<key>translate</key>
+			<string>Debris x20</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>114</integer>
+			<key>origin</key>
+			<string>碎片x25</string>
+			<key>translate</key>
+			<string>Debris x25</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>115</integer>
+			<key>origin</key>
+			<string>碎片x30</string>
+			<key>translate</key>
+			<string>Debris x30</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>116</integer>
+			<key>origin</key>
+			<string>碎片x50</string>
+			<key>translate</key>
+			<string>Debris x50</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>117</integer>
+			<key>origin</key>
+			<string>碎片x100</string>
+			<key>translate</key>
+			<string>Debris x100</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>118</integer>
+			<key>origin</key>
+			<string>普通x5</string>
+			<key>translate</key>
+			<string>Ordinary x5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>119</integer>
+			<key>origin</key>
+			<string>普通x10</string>
+			<key>translate</key>
+			<string>Ordinary x10</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>120</integer>
+			<key>origin</key>
+			<string>普通x15</string>
+			<key>translate</key>
+			<string>Ordinary x15</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>121</integer>
+			<key>origin</key>
+			<string>普通x20</string>
+			<key>translate</key>
+			<string>Ordinary x20</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>122</integer>
+			<key>origin</key>
+			<string>普通x25</string>
+			<key>translate</key>
+			<string>Ordinary x25</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>123</integer>
+			<key>origin</key>
+			<string>普通x30</string>
+			<key>translate</key>
+			<string>Ordinary x30</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>124</integer>
+			<key>origin</key>
+			<string>普通x50</string>
+			<key>translate</key>
+			<string>Ordinary x50</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>125</integer>
+			<key>origin</key>
+			<string>普通x100</string>
+			<key>translate</key>
+			<string>Ordinary x100</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>126</integer>
+			<key>origin</key>
+			<string>优良x5</string>
+			<key>translate</key>
+			<string>Good x5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>127</integer>
+			<key>origin</key>
+			<string>优良x10</string>
+			<key>translate</key>
+			<string>Good x10</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>128</integer>
+			<key>origin</key>
+			<string>优良x15</string>
+			<key>translate</key>
+			<string>Good x15</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>129</integer>
+			<key>origin</key>
+			<string>优良x20</string>
+			<key>translate</key>
+			<string>Good x20</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>130</integer>
+			<key>origin</key>
+			<string>优良x25</string>
+			<key>translate</key>
+			<string>Good x25</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>131</integer>
+			<key>origin</key>
+			<string>优良x30</string>
+			<key>translate</key>
+			<string>Good x</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>132</integer>
+			<key>origin</key>
+			<string>优良x50</string>
+			<key>translate</key>
+			<string>Good x50</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>133</integer>
+			<key>origin</key>
+			<string>优良x100</string>
+			<key>translate</key>
+			<string>Good x100</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>134</integer>
+			<key>origin</key>
+			<string>精品x5</string>
+			<key>translate</key>
+			<string>Boutique x5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>135</integer>
+			<key>origin</key>
+			<string>精品x10</string>
+			<key>translate</key>
+			<string>Boutique x10</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>136</integer>
+			<key>origin</key>
+			<string>精品x15</string>
+			<key>translate</key>
+			<string>Boutique x15</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>137</integer>
+			<key>origin</key>
+			<string>精品x20</string>
+			<key>translate</key>
+			<string>Boutique x20</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>138</integer>
+			<key>origin</key>
+			<string>精品x25</string>
+			<key>translate</key>
+			<string>Boutique x25</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>139</integer>
+			<key>origin</key>
+			<string>精品x30</string>
+			<key>translate</key>
+			<string>Boutique x30</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>140</integer>
+			<key>origin</key>
+			<string>精品x50</string>
+			<key>translate</key>
+			<string>Boutique x50</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>141</integer>
+			<key>origin</key>
+			<string>超凡x5</string>
+			<key>translate</key>
+			<string>Extraordinary x5</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>142</integer>
+			<key>origin</key>
+			<string>超凡x10</string>
+			<key>translate</key>
+			<string>Extraordinary x10</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>143</integer>
+			<key>origin</key>
+			<string>超凡x15</string>
+			<key>translate</key>
+			<string>Extraordinary x15</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>144</integer>
+			<key>origin</key>
+			<string>超凡x20</string>
+			<key>translate</key>
+			<string>Extraordinary x20</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>145</integer>
+			<key>origin</key>
+			<string>超凡x25</string>
+			<key>translate</key>
+			<string>Extraordinary x25</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>146</integer>
+			<key>origin</key>
+			<string>超凡x30</string>
+			<key>translate</key>
+			<string>Extraordinary x30</string>
+		</dict>
+	</array>
+	<key>StoneComposeInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>强化石碎片</string>
+			<key>translate</key>
+			<string>Strong fossil fragments</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>普通强化石</string>
+			<key>translate</key>
+			<string>Normal fossil</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>优良强化石</string>
+			<key>translate</key>
+			<string>Good strong fossil</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>精品强化石</string>
+			<key>translate</key>
+			<string>High-quality goods strong fossil</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>超凡强化石</string>
+			<key>translate</key>
+			<string>Strong extraordinary fossil</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>传说强化石</string>
+			<key>translate</key>
+			<string>Legend has it that strong fossil</string>
+		</dict>
+	</array>
+</dict>
+</plist>

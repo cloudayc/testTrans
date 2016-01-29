@@ -1,0 +1,12 @@
+3原文:	强化石碎片
+3译文:	Strong fossil fragments
+4原文:	普通强化石
+4译文:	Normal fossil
+5原文:	优良强化石
+5译文:	Good strong fossil
+6原文:	精品强化石
+6译文:	High-quality goods strong fossil
+7原文:	超凡强化石
+7译文:	Strong extraordinary fossil
+8原文:	传说强化石
+8译文:	Legend has it that strong fossil

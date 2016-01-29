@@ -1,0 +1,56 @@
+3 使用近身武器消灭10个僵尸	Using a melee weapon to eliminate 10 zombies
+4 使用近身武器消灭100个僵尸	Using a melee weapon to eliminate 100 zombies
+5 使用近身武器消灭1000个僵尸	Using a melee weapon to eliminate 1000 zombies
+6 使用近身武器消灭10000个僵尸	Using a melee weapon to eliminate 10000 zombies
+7 使用手枪消灭50个僵尸	Use guns kill 50 zombies
+8 使用手枪消灭500个僵尸	Use gun kill 500 zombies
+9 使用手枪消灭5000个僵尸	Use gun kill 5000 zombies
+10 使用手枪消灭50000个僵尸	Use gun kill 50000 zombies
+11 使用机枪消灭100个僵尸	Use machine guns kill 100 zombies
+12 使用机枪消灭1000个僵尸	Use machine guns kill 1000 zombies
+13 使用机枪消灭10000个僵尸	Use machine guns kill 10000 zombies
+14 使用机枪消灭100000个僵尸	Use machine guns kill 100000 zombies
+15 使用手雷10次	Use grenades 10 times
+16 使用手雷50次	Using grenade 50 times
+17 使用手雷200次	Use grenades 200 times
+18 使用手雷500次	Use grenades 500 times
+19 成功通过普通模式废弃都市	Success through normal mode abandoned city
+20 成功通过普通模式迷失丛林	Success through normal mode lost in the jungle
+21 成功通过普通模式幽暗仓库	Success through normal mode dim warehouse
+22 成功通过普通模式破旧车站	Success through normal mode old station
+23 成功通过普通模式化学工厂	Success through the normal mode of chemical factory
+24 成功通过普通模式丧尸森林	Success through normal mode zombie forest
+25 成功通过普通模式死亡城市	Success through the normal mode of death
+26 成功通过普通模式实验地堡	Success through the normal mode experiment bunker
+27 5个关卡达到S评级	Five levels reach S rating
+28 10个关卡达到S评级	10 levels reach S rating
+29 15个关卡达到S评级	15 levels reach S rating
+30 20个关卡达到S评级	20 levels reach S rating
+31 25个关卡达到S评级	25 levels reach S rating
+32 30个关卡达到S评级	30 levels reach S rating
+33 35个关卡达到S评级	35 levels reach S rating
+34 40个关卡达到S评级	40 levels reach S rating
+35 45个关卡达到S评级	45 reach S rating level
+36 50个关卡达到S评级	50 levels reach S rating
+37 55个关卡达到S评级	55 reach S rating level
+38 60个关卡达到S评级	60 levels reach S rating
+39 65个关卡达到S评级	65 levels reach S rating
+40 70个关卡达到S评级	70 levels reach S rating
+41 75个关卡达到S评级	75 levels reach S rating
+42 80个关卡达到S评级	80 levels reach S rating
+43 85个关卡达到S评级	85 levels reach S rating
+44 90个关卡达到S评级	90 levels reach S rating
+45 95个关卡达到S评级	95 levels reach S rating
+46 100个关卡达到S评级	100 levels reach S rating
+47 成功通过普通模式恐怖密林	Success through normal mode terrorist jungle
+48 成功通过普通模式南部城市	Through the normal mode in the southern city of success
+49 成功通过地狱模式废弃都市	Success through hell mode abandoned city
+50 成功通过地狱模式迷失丛林	Success through hell mode lost in the jungle
+51 成功通过地狱模式幽暗仓库	Success through hell mode dim warehouse
+52 成功通过地狱模式破旧车站	Success through hell mode old station
+53 成功通过地狱模式化学工厂	Success through hell mode chemical plant
+54 成功通过地狱模式丧尸森林	Success through hell mode zombie forest
+55 成功通过地狱模式死亡城市	Patterns of success through hell death
+56 成功通过地狱模式实验地堡	Success through the hell mode experiment bunker
+57 成功通过地狱模式恐怖密林	Success through hell mode terrorist jungle
+58 成功通过地狱模式南部城市	Through hell mode in the southern city of success

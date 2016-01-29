@@ -1,0 +1,216 @@
+3 Tomas，你已经被困在了被感染的51实验室，赶紧逃离这里！	Tomas, you have been trapped in the infected 51 laboratory, hurriedly escape from here!
+4 我会指引你离开这个危险的地方，按照我说的做！	I will show you to leave the dangerous place, do as I say!
+5 滑动这里就可以实现左右移动！走到指定位置吧！	Sliding around here can realize mobile! Go to the designated position!
+6 点击这里就会攻击僵尸，试着消灭前面的僵尸吧！	Click here will attack zombies, try to eliminate the previous zombies!!!!
+7 点击这里就能跳跃，试着跳到前面的高台吧！	Click here to jump, try to jump in front of the tower!
+8 连续点击可以实现二连跳，试着跳到更高的高台上吧！	Continuous click can achieve another jump, try to jump to a higher platform!
+9 小心，当你附近出现僵尸时，击退它们！	Be careful, when you are near a zombie, beat them!
+10 受伤了吧，点击这里可以补充生命！	Injured, click here to add life!
+11 又一群僵尸来袭，试试手雷，点击这里就可投掷！	A group of zombies coming again, try grenades, click here to throw!
+12 通过前面这里，距离实验室出口已经不远了。	Laboratory export through here, in front of the distance is not far off.
+13 点击这里就可以进入到地图页面！	Click here to get into to the map page!
+14 点击这里就可以进入到武器库页面！	Click here to get into the armory page!
+15 这里就是武器库的页面，所有的武器道具都在这里展示。	This is Arsenal's page, all of the weapons props are shown here.
+16 上下滑动这里就可以看到更多的武器！	You can see more weapons slide up and down here!
+17 点击上方不同的按键就可以切换到其他的类别，试着选择枪械吧！	Click on the above different buttons you can switch to other categories, try to choose gun!!!!
+18 试着购买一把新的武器。	Try to buy a new weapon.
+19 不错，战斗力上升了很多。	Good, fighting capacity increased a lot.
+20 好了，可以装备这把新的武器了。	Ok, can be equipped with this new weapon.
+21 多准备点弹药，有备无患啊。	Prepare more ammunition, readiness is all.
+22 点击这里就可以回到地图页面了。	Click here to return to the map page.
+23 这里就是地图页面，可以通过这里进到游戏中。	Here is the map page, can pass into the game here.
+24 点击这里就可以选择你想进入的关卡。	Here you can choose you want to enter the gate.
+25 战斗前可以获得一些加成的道具，试着购买一个吧。	Before the battle can get some bonus items, try to buy one.
+26 运气很不错哦，那么我们开始游戏吧。	Luck is very good oh, so let's start the game.
+27 这里显示的就是关卡目标哦，要时刻注意。	Shown here is the mission objectives oh, always pay attention to.
+28 点击这里就可以切换武器。	Click here to switch weapons.
+29 生存关，你会持续的被毒气攻击掉血，注意自己的血量。	Survival level, you will continue to poison gas attacks off the blood, pay attention to your health.
+30 消灭头上带有血瓶的怪物会补充生命。	Kill the monster head with a bottle of blood will make up life.
+31 坚持一定的时间你就会胜利。	Keep a certain amount of time you will win.
+32 突防关，躲过或者消灭挡住去路的僵尸。	Penetration, avoid or eliminate the obstacle of zombies.
+33 规定时间内到达终点就会胜利。	Victory will reach the destination within the prescribed time.
+34 寻宝关，找到指示所标记的宝箱。	Treasure, the treasure chest that find instructions marked.
+35 找到全部标记的宝箱，就可以胜利通过关卡。	Find a treasure chest of all tags, you can win through checkpoints.
+36 通缉关，跟着指示找到头上标示“通缉”的僵尸并将其消灭。	Wanted to close, follow the instructions to find the head of "most wanted" zombie and destroy it.
+37 消灭全部通缉僵尸，就可以胜利通过关卡。	Eliminating all wanted a zombie, you can win through checkpoints.
+38 在线奖励，在线到达一定时间就会获得对应的奖励。	Online rewards, online at some time you will get the corresponding reward.
+39 活跃奖励，活跃值到达100点就可以免费抽取1次奖励。	Active, active value reached 100 points can extract 1 time for free.
+40 奖励里面没有自己想要的，点击这里就可以刷新奖励。	Reward does not have what you want, click here to refresh the reward.
+41 点击这里就可以抽奖了。	Click here to draw.
+42 手气不错哦，点击这里可以看到哪些内容可以增加活力值。	I'm feeling lucky oh, click here to see what can increase the energy values.
+43 好了，你已经清楚了怎么抽奖了，赶快去获得活力吧。	Well, you already know how to draw, hurry to get energy.
+44 每日任务，完成单个任务获得金币，完成全部任务获得钻石。	Daily tasks, a single task for gold, to complete all tasks for diamonds.
+45 成就奖励，完成成就会获得钻石奖励，完成越多奖励越多。	Achievement award, complete achievement will get diamond awards, completed the more the more rewarding.
+46 欢迎再次来到武器库，下面给你介绍另外一种获得武器的方式。	Welcome once again to Arsenal, here introduce to you the other one way to get weapons.
+47 请拖动找到散弹枪。	Please find shotguns drag.
+48 找到这把新的武器，并选择它。	Find this new weapons, and select it.
+49 这里显示的是该武器的部件获得情况。	Shown here is the parts for the weapon.
+50 获得该武器的全部部件就可以获得这把武器，点击获得。	Get all the parts of the weapon you can gain this weapon, click.
+51 恭喜你获得了新的武器，继续虐杀僵尸吧！	Congratulations you won the new weapons, and continue to kill zombies!
+52 快跑Tomas，他们就要追过来了！	Run Tomas, they will follow!
+53 谢谢你救了我。	Thank you for saving me.
+54 快跑，别说那么多了。	Run fast, don't say so much.
+55 快点穿过这街道，我们得快点逃离这里。	Hurry up through the streets, we have to move out of here.
+56 放心吧，有我在呢。	Don't worry, have me in?
+57 这里就是高墙了，穿越它我们就能抵达城市中心了。	Here it is the high walls, through which we could have arrived in the city center.
+58 跟紧我lucy。	(null)
+59 我们在这里休息一下吧。	We are here to have a rest.
+60 嗯，我去找找补给。	Well, I look for supplies.
+61 不好他们追来了。	Bad they chase.
+62 .........	.........
+63 终于到了快速通道，我们马上就能离开这城市了。	Finally to fast-track, we'll be able to leave this city.
+64 别开心得太早。我有一股不详的预感。	Don't happy too early. I have a premonition of unknown.
+65 吼~~吼~~吼~~吼~~嗷！	Shout ~ ~ roar ~ ~ shout ~ ~ roar ~ ~ ao!
+66 听到什么声音了吗。我好害怕。	Hear what sound? I'm afraid.
+67 没事有我在呢。	Ok I have here.
+68 去死吧！！！！！！	Go to hell!!!!!!!!!!!!!!!
+69 刚才真是一场恶战啊，你没受伤吧。	It was a battle, you didn't hurt.
+70 小事一桩。	A piece of cake.
+71 好像有什么动静。	If have any.
+72 不好他们追来了，快进森林。	Bad they chased come, quickly into the forest.
+73 快进丛林深处躲躲。	Quickly hid hide deep into the jungle.
+74 嗯，跟紧我，别走散了。	Well, with me tight, don't lost.
+75 这里应该安全了吧。	Here should be safe.
+76 不能掉以轻心，我们去灌木丛看看。	Cannot treat STH lightly, we go to brush.
+77 嗯，我会保护你。	Well, I will protect you.
+78 哇，这里好漂亮。	Wow, what a beautiful here.
+79 现在还有心情欣赏风景，快点走吧。	And enjoy the scenery mood now, hurry up go.
+80 真没情趣。	Really no interest.
+81 终于到了丛林深处了。应该安全了。	Finally to the deep forest. Should be safe.
+82 那里好像有什么，我们过去看看。	There seems to have what, we used to have a look.
+83 这是什么怪物？	What is this monster?
+84 不管是什么在我面前都是浮云。	No matter what is floating clouds in front of me.
+85 嚎~嚎!!!	Cry ~ cry!!!!!!
+86 啊~~！！！	Ah ~ ~!!!!!!
+87 你没事吧，要不要抱抱。	Are you ok, do you want to hug.
+88 去死。快看，前面有个仓库，我们进去休息一下。	Go to hell. Look, the front have a warehouse, we go to have a rest.
+89 好，我来开路。	Well, let me open.
+90 这仓库外墙真高。	It's a high wall outside warehouse.
+91 里面应该很安全，我们去看看。	It should be very safe, let's go and see.
+92 没想到里面的僵尸更凶猛。	Didn't think the inside of the zombie is more fierce.
+93 是啊，现在进退两难了。	Yes, now in a dilemma.
+94 继续前进吧。	Move on.
+95 看那边好像是出口了。	Look over there seems to be exported.
+96 嗯，一口气冲过去。	Well, a sigh of relief rushed past.
+97 终于出来了呢。	Finally come out?
+98 是啊，前面有个废弃车站。我们过去瞧瞧。	Yes, in front of a station. We used to look at.
+99 怎么突然烟雾缭绕。	How suddenly of cigarette smoke.
+100 快看，又有一个奇葩的怪物。	Look, there is a wonderful work of the monster.
+101 肉新鲜的肉！！！	Fresh meat!!!!!!
+102 我们什么仇，什么怨啊？	What our enemies, hatred?
+103 刚才真是惊险呢，不过我们还是顺利逃脱了。	It was thrilling, but we still got away.
+104 我去前面看看。。。	Let me check the front...
+105 这里僵尸也不少啊。	Zombies are here.
+106 是啊，我们不能大意。	Yes, we can't careless.
+107 前面那辆车好像可以用。	If can use the car in front.
+108 嗯，我们过去看看。	Well, we look at the past.
+109 可恶，僵尸太多了，车被包围了。	Damn, there are too many zombies, car was surrounded.
+110 看，那边有条路口我们一口气冲过去吧。	Look, there are roads, let's relief rushed over.
+111 嗯，那里看上去很安全。	Well, look very safe there.
+112 终于摆脱他们了。	Finally get rid of them.
+113 是啊，我们去周围看看。	Yes, we went to look around.
+114 你是谁？让我们过去。	Who are you? Let us in the past.
+115 你的血肉正在绽放。放弃抵抗吧。	Your flesh is bursting. Give up resistance.
+116 就凭你？	With you?
+117 前面有座工厂，我们过去看看。	In front of factories, we used to have a look.
+118 嗯，前面还不知道有多少危险。	Well, also don't know how many danger ahead.
+119 这工厂的僵尸比之前更厉害了。	This factory zombie is worse than before.
+120 看我来虐杀他们。	Look at me to kill them.
+121 我厉害吧，嘿嘿。	Me, hey hey.
+122 别大意，看前面还有好多僵尸。	Don't be careless, there are a lot of zombie before.
+123 这味道真难闻。	It tastes so bad.
+124 是啊，我都想要吐了。	Yes, I want to throw up.
+125 我们快点出去吧。	Let's hurry up go out.
+126 嗯！	Well!
+127 看到大门了。	See the door.
+128 嗯，马上就能逃离这了。	Well, can escape from this in a minute.
+129 前面好像有毒气。	The front there seems to be a deadly poison.
+130 放开你旁边的妹子，就饶你不死。	Let go of next to your sister, will let you die.
+131 听腻了，你不累吗？	Don't get tired, you tired?
+132 小心啊！	Be careful!
+133 相比那恶臭的工厂我更喜欢这森林。	The stench of factory I prefer this forest.
+134 你看看前面，你还喜欢吗？	You look at the front, you also like it?
+135 .。。。。。。。。。。。	(null)
+136 到处都是这些恶心的生物。	These disgusting creatures are everywhere.
+137 我已经见惯不怪了。	I have been accustomed.
+138 先往北边走。我们一定要找到并摧毁这组织。	Go north on first. We must find and destroy the group.
+139 那还用说。	You bet.
+140 这里僵尸越来越多了。	There are a lot more zombies.
+141 也越来越厉害了。	Also more and more severe.
+142 再坚持一下，我们就要到了。	Hold on a minute, we is coming.
+143 包在我身上。	Package to me.
+144 怎么感觉我们进了僵尸窝了。	How to feel we went into the zombie nest.
+145 是啊，我有一种不详的预感。	Yes, I have a premonition of unknown.
+146 啊~~	Ah ~ ~
+147 Lucy?你在哪？发生什么了？	Lucy? Where are you? What happened?
+148 救我!我~~~我~~啊~~！	Save me! I ~ ~ ~ I ~ ~ ~ ~!
+149 Lucy！！！不！！！！！！！！	Lucy!!!!!! No!!!!!!!!!!!!!!!!!!!!
+150 嗷！嗷！	Ouch! Ouch!
+151 嗷你妹，快滚。	Ao you younger sister, get out.
+152 等着我，我马上就来救你。	Wait for me, I'll be right there to save you.
+153 你们这些怪物，别挡我路。	You monster, get out my way.
+154 这是Lucy的手帕，看来我没有走错路。	This is Lucy's handkerchief, it seems that I didn't go wrong.
+155 是我不好，我没能保护好你。	Is my bad, I can't protect you.
+156 来吧，你们这群废物。	Come on, you this group of waste.
+157 看似很着急呢，呵呵！	Seemingly very worry about it, hehe!
+158 居然呵呵我，快说Lucy在哪！	Ha ha, I, quick say where is Lucy!
+159 你猜^.^？	You guess ^. ^?
+160 ！！！！！找死！	!!!!!!!!!!!!!! Curry!
+161 看来这里就是他们的基地了。	It seems that here is their base.
+162 这里的僵尸比之前的更厉害了，我一定要小心。	The zombie is greater than before, I must be careful.
+163 Lucy，我一定会救你出来，你不会有事的。	Lucy, I will surely save you out, you will be fine.
+164 你们阻止不了我的愤怒，你们这群白痴。	You will not stop me from anger, you this group of an idiot.
+165 终于，最终的决战。Lucy我来了。	Finally, the final decisive battle. Lucy I'm coming.
+166 Lucy！	Lucy !
+167 哎哟，不错噢，居然能到这里。	Oh, good oh, can I get to here.
+168 废话少说我这就要取你狗命。	Cut the crap that I will take you there.
+169 我好怕噢。真的好怕，吓死我了。	I'm afraid of oh. Really good afraid of, scared me to death.
+170 我的愤怒早已饥渴难耐！	My anger had ravenous!
+171 你没事吧，没有受伤吧。	Are you ok, not injured.
+172 没事，还好你来的及时。	That's ok, I'm glad you in a timely manner.
+173 走吧，我会照顾你一辈子，不会再让你受伤。	Let's go, I will take care of you for a lifetime, won't let you get hurt again.
+174 。。。我会跟着你。	... I will follow you.
+175 前面有一把武器，争取过来，对你闯过实验室有帮助	In front of a pair of arms,, help you through the lab
+176 顿时高大上了，快试试它的火力吧！	Immediately on the tall, quick fire try it!
+177 终于到这里了，前面就可以闯过实验室了，这是对你的奖励！	Finally here, in front of the can through laboratory, this is your reward!
+178 还不错，继续往前走吧！	Well, continue to go forward!
+179 看到刚刚买到的武器了，试着换一下。	See just to buy weapons, and try to change.
+180 确定之后就会获得这把新武器。	Sure after you will get the new weapon.
+181 我们去那片森林里面玩一下吧。	Let's go and play in the forest.
+182 好啊，看你能不能抓住我。	Ok, see if you can catch me.
+183 跑慢点，我感觉有点不对劲。	Run slowly, I feel something is wrong.
+184 Lucy！你在哪？快出来！	Lucy! Where are you? Get out!
+185 快救我，这里又出现了好多僵尸啊！	Save me quickly, there appeared a lot of zombie!
+186 没事吧，跟紧我！	Ok, follow me tight!
+187 嗯！这里感觉好阴森啊！	Well! This feeling is very dark!
+188 这里的僵尸越来越厉害了，我们一起冲出去！	Here the zombie is becoming more and more severe, we rush out together!
+189 我好像看到了什么东西！	I think I saw something!
+190 什么都不用怕，别担心了。	What all need not be afraid, don't worry about it.
+191 这里有股好强的腐肉味。	Here's to outdo others rotten meat.
+192 新鲜的肉，呜哇~~哈哈哈哈哈！好~~饿！	Fresh meat, whoa ~ ~ ha ha ha ha ha! Good ~ ~ hungry!
+193 好恶心的臭胖子，你该洗澡了！	Good disgusting odor fatty, you should take a shower!
+194 我的心肝脾肺肾都要吐出来了~	My heart and spleen kidney all want to vomit ~
+195 .。。。。。快走吧，别说了。	.... Go, don't say.
+196 这里感觉也不怎么安全啊。	Feeling is not very safe here.
+197 嗯，我们过去看看。	Well, we look at the past.
+198 小心！	Be careful!
+199 没受伤吧？	Didn't it hurt?
+200 嗯，我感觉有个怪物一直在跟着我们。	Well, I feel there is a monster has been with us.
+201 别疑神疑鬼了，有我在呢！	Don't paranoia, have me in!
+202 这感觉越来越强烈了。	This feeling more and more strong.
+203 我也感觉到了，好强大的气息！	I also feel, good strong smell!
+204 他就在我们前方，该怎么办？	He is ahead of us, what should I do?
+205 那还用说，当然是把他打飞啊！	You bet, of course, is to beat him fly!
+206 ..........	..........
+207 试问，绞肉机哪家强？	Try to ask, which is strong meat grinder?
+208 你猜^.^？	You guess ^. ^?
+209 呵呵！找死！	Ha ha! Curry!
+210 我觉得这里还有很深的阴谋！	I think there is deep conspiracy!
+211 嗯，这不是结束，而是刚刚开始！	Well, this is not the end, but just beginning!
+212 点击僚机抽取，会有大大的惊喜噢！	Click the wingman extraction, there will be a big surprise!
+213 点击僚机经验卡（小）,以获得僚机小伙伴!	Click the wingman experience card (small), to obtain a wingman friend!
+214 恭喜您获得了僚机，请点击确定领取。	Congratulations you won the wingman, please click ok to receive.
+215 点击退出，返回僚机装备界面。	Click the exit and return to the interface of wingman equipment.
+216 点击僚机，进入僚机界面。	Click the wingman, wingman into the interface.
+217 点击装备，带上僚机一起战斗！	Click on the equipment, take wingman with fight!
+218 点击僚机抽取，可再次进行僚机抽取噢！	Click the wingman extract, can undertake the wingman extraction again oh!

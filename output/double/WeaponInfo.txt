@@ -1,0 +1,21 @@
+3 钢之刃	The blade of steel
+4 冰之刃	The blade of ice
+5 火之刃	The blade of the fire
+6 影之刃	The blade of the shadow
+7 魂之刃	The blade of the soul
+8 V烈焰刀	V flame cutter
+9 V狂战斧	V battle fury
+10 击退	To fend off
+11 击退 冻结	Repel the freeze
+12 击退 燃烧	Repel the combustion
+13 击退 必杀	Repel the kill
+14 击退 必杀 噬魂	Repel slay eats the soul
+15 击退 燃烧	Repel the combustion
+16 击退 必杀	Repel the kill
+17 精钢锻造的刀刃，挥击时将敌人击退。	Stainless steel forging of the blade, swing will repel the enemy.
+18 寒冰工艺制造，冰霜之力将冻结敌人。	Ice manufacture process, the force of frost would freeze the enemy.
+19 火红的刀刃会使所有敌人熊熊燃烧。	Blazing red blade will make all the enemy.
+20 暗影水晶制成的刀刃，可以一击必杀。	Shadow blade made of crystal, can blow slay.
+21 神秘的刀刃，可以吸取死去敌人的灵魂。	The mystery of the blade, can absorb the soul of the dead enemy.
+22 烈焰武器，强力击退效果，附带燃烧。	Flame weapons, strongly repel effect, the supplementary burning.
+23 大斧一挥，僵尸分分钟全部被击碎。	A wave of his axe zombies are all break points minutes.

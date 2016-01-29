@@ -6,6 +6,12 @@
 //  Copyright © 2016 cloudayc. All rights reserved.
 //
 
+//#define Key @"554577905"
+//#define KeyFrom @"xlsTranslate"
+
+#define Key @"866595117"
+#define KeyFrom @"clouday"
+
 
 
 #import "TranslateCenter.h"
@@ -28,43 +34,43 @@ static TranslateCenter *translateInstance = nil;
     return translateInstance;
 }
 
-- (void)translateString:(NSString *)str to:(NSInteger)country completion:(TranslateCompletion)completion
+- (void)translateData:(TransData *)tData to:(NSInteger)country completion:(TranslateCompletion)completion
 {
-    if (str.length == 0) {
+    if (tData.origin.length == 0) {
         NSLog(@"error! empty str");
         return;
     }
     self.completion = completion;
     
     NSString *host = @"http://fanyi.youdao.com/";
-    NSString *path = @"openapi.do?keyfrom=xlsTranslate&key=554577905&type=data&doctype=json&version=1.1";
+    NSString *path = [NSString stringWithFormat:@"openapi.do?keyfrom=%@&key=%@&type=data&doctype=json&version=1.1", KeyFrom, Key];
     
-    NSString *encodeStr = [self URLEncodedString:str];
+    NSString *encodeStr = [self URLEncodedString:tData.origin];
     path = [path stringByAppendingFormat:@"&q=%@", encodeStr];
     
     NSString *fullPath = [NSString stringWithFormat:@"%@%@", host, path];
     NSMutableURLRequest *request = [ NSMutableURLRequest requestWithURL:[NSURL URLWithString:fullPath]];
     
     __weak typeof(self) ws = self;
-//    NSURLSession *session = [NSURLSession sessionWithConfiguration:[NSURLSessionConfiguration defaultSessionConfiguration] delegate:nil delegateQueue:[NSOperationQueue mainQueue]];
+
     NSURLSession *session = [NSURLSession sharedSession];
     
     NSURLSessionDataTask *task = [session dataTaskWithRequest:request completionHandler:^(NSData * _Nullable data, NSURLResponse * _Nullable response, NSError * _Nullable error) {
         if (!error) {
+            
             NSError *jsonError = nil;
             NSDictionary *dict = [NSJSONSerialization JSONObjectWithData:data options:NSJSONReadingMutableLeaves error:&jsonError];
-//            NSLog(@"%@", dict);
+            
             NSString *result = dict[@"translation"][0];
-//            NSLog(@"%@", result);
-            ws.completion(str, result, nil);
+            tData.translate = result;
+            
+            ws.completion(tData, nil);
         } else {
-            ws.completion(nil, nil, error);
+            ws.completion(nil, error);
         }
     }];
     [task resume];
     
-//    NSURLConnection *connection = [NSURLConnection connectionWithRequest:request delegate:self];
-//    [connection start];
 }
 
 

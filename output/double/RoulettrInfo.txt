@@ -1,0 +1,144 @@
+3 再来一次	One more time
+4 金币X100	Gold X100
+5 金币X200	Gold X200
+6 金币X400	Gold will
+7 金币X500	Gold X500
+8 金币X600	Gold X600
+9 金币X1000	Gold X1000
+10 金币X2000	Gold X2000
+11 金币X5000	Gold X5000
+12 手雷X2	Grenade X2
+13 手雷X3	Grenade X3
+14 手雷X5	Grenade X5
+15 手雷X8	Grenade by 8
+16 手雷X10	Grenade X10
+17 医疗包X2	Medical kits X2
+18 医疗包X5	Medical kits X5
+19 医疗包X8	Medical kits by 8
+20 火之刃	The blade of the fire
+21 影之刃	The blade of the shadow
+22 黄金沙鹰	The yellow sands eagle
+23 双持MP5	Dual wield't a MP5
+24 摇霸	Shake bully
+25 追杀者	After the
+26 要你命3000	Kill you 3000
+27 能量炮	Energy cannon
+28 激光炮	The laser gun
+29 僵尸虐杀者	The zombie torture-murderers
+30 左轮部件1	Left part 1
+31 左轮部件2	Left part 2
+32 左轮部件3	Left part 3
+33 左轮部件4	Left part 4
+34 黄金沙鹰部件1	1 yellow sands eagle parts
+35 黄金沙鹰部件2	2 yellow sands eagle parts
+36 黄金沙鹰部件3	3 yellow sands eagle parts
+37 黄金沙鹰部件4	4 yellow sands eagle parts
+38 双持MP5部件1	Dual wield't a MP5 part 1
+39 双持MP5部件2	Dual wield't a MP5 part 2
+40 双持MP5部件3	Dual wield't a MP5 part 3
+41 双持MP5部件4	Dual wield't a MP5 part 4
+42 毁灭者部件1	The destroyer part 1
+43 毁灭者部件2	The destroyer part 2
+44 毁灭者部件3	The destroyer part 3
+45 毁灭者部件4	The destroyer part 4
+46 M4A1部件1	M4A1 part 1
+47 M4A1部件2	M4A1 part 2
+48 M4A1部件3	M4A1 part 3
+49 M4A1部件4	M4A1 part 4
+50 AK47部件1	AK47 part 1
+51 AK47部件2	AK47 part 2
+52 AK47部件3	AK47 part 3
+53 AK47部件4	AK47 part 4
+54 M1散弹部件1	M1 shotgun part 1
+55 M1散弹部件2	M1 shotgun part 2
+56 M1散弹部件3	3 M1 shotgun components
+57 M1散弹部件4	M1 shotgun part 4
+58 火神部件1	Vulcan part 1
+59 火神部件2	Vulcan part 2
+60 火神部件3	Vulcan part 3
+61 火神部件4	Vulcan part 4
+62 摇霸部件1	Shake the components on the 1
+63 摇霸部件2	Shake the parts on the 2
+64 摇霸部件3	Shake the components on the 3
+65 摇霸部件4	Shake the components on the 4
+66 追杀者部件1	After the part 1
+67 追杀者部件2	After part 2
+68 追杀者部件3	After the part 3
+69 追杀者部件4	After part 4
+70 要你命3000部件1	3000 parts 1 to your life
+71 要你命3000部件2	3000 parts 2 to your life
+72 要你命3000部件3	3000 parts 3 to your life
+73 要你命3000部件4	3000 part 4 to your life
+74 能量炮部件1	Energy gun parts 1
+75 能量炮部件2	2 energy gun parts
+76 能量炮部件3	Energy gun parts 3
+77 能量炮部件4	Energy gun parts 4
+78 激光炮部件1	The laser gun part 1
+79 激光炮部件2	The laser gun part 2
+80 激光炮部件3	The laser gun parts 3
+81 激光炮部件4	Laser cannons part 4
+82 僵尸虐杀者部件1	1 the zombie torture-murderers parts
+83 僵尸虐杀者部件2	The zombie torture-murderers part 2
+84 僵尸虐杀者部件3	3 the zombie torture-murderers parts
+85 僵尸虐杀者部件4	4 the zombie torture-murderers parts
+86 超神虐杀者部件1	Super god torture-murderers part 1
+87 超神虐杀者部件2	Super god torture-murderers part 2
+88 超神虐杀者部件3	Super god torture-murderers part 3
+89 超神虐杀者部件4	Super god torture-murderers part 4
+90 钢之刃部件1	The blade of steel parts 1
+91 钢之刃部件2	The blade of steel parts 2
+92 钢之刃部件3	The blade of steel parts 3
+93 钢之刃部件4	The blade of steel parts 4
+94 冰之刃部件1	The blade of ice part 1
+95 冰之刃部件2	The blade of ice part 2
+96 冰之刃部件3	The blade of ice part 3
+97 冰之刃部件4	The blade of ice part 4
+98 火之刃部件1	The blade of fire unit 1
+99 火之刃部件2	The blade of fire unit 2
+100 火之刃部件3	The blade of fire unit 3
+101 火之刃部件4	The blade of fire unit 4
+102 影之刃部件1	The blade of the shadow part 1
+103 影之刃部件2	The blade of the shadow part 2
+104 影之刃部件3	The blade of the shadow part 3
+105 影之刃部件4	The blade of the shadow part 4
+106 魂之刃部件1	The soul of the blade part 1
+107 魂之刃部件2	The soul of the blade part 2
+108 魂之刃部件3	The soul of the blade part 3
+109 魂之刃部件4	The soul of the blade part 4
+110 碎片x5	Debris x5
+111 碎片x10	Debris x10
+112 碎片x15	Debris x15
+113 碎片x20	Debris x20
+114 碎片x25	Debris x25
+115 碎片x30	Debris x30
+116 碎片x50	Debris x50
+117 碎片x100	Debris x100
+118 普通x5	Ordinary x5
+119 普通x10	Ordinary x10
+120 普通x15	Ordinary x15
+121 普通x20	Ordinary x20
+122 普通x25	Ordinary x25
+123 普通x30	Ordinary x30
+124 普通x50	Ordinary x50
+125 普通x100	Ordinary x100
+126 优良x5	Good x5
+127 优良x10	Good x10
+128 优良x15	Good x15
+129 优良x20	Good x20
+130 优良x25	Good x25
+131 优良x30	Good x
+132 优良x50	Good x50
+133 优良x100	Good x100
+134 精品x5	Boutique x5
+135 精品x10	Boutique x10
+136 精品x15	Boutique x15
+137 精品x20	Boutique x20
+138 精品x25	Boutique x25
+139 精品x30	Boutique x30
+140 精品x50	Boutique x50
+141 超凡x5	Extraordinary x5
+142 超凡x10	Extraordinary x10
+143 超凡x15	Extraordinary x15
+144 超凡x20	Extraordinary x20
+145 超凡x25	Extraordinary x25
+146 超凡x30	Extraordinary x30

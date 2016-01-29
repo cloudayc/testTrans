@@ -1,0 +1,92 @@
+3原文:	审判（普通）
+3译文:	Trial (normal)
+4原文:	审判（优良）
+4译文:	Trial (good)
+5原文:	审判（精品）
+5译文:	Trial (fine)
+6原文:	引力（普通）
+6译文:	Gravity (normal)
+7原文:	引力（优良）
+7译文:	Gravity (good)
+8原文:	引力（精品）
+8译文:	Gravity (fine)
+9原文:	诺亚（普通）
+9译文:	Noah (normal)
+10原文:	诺亚（优良）
+10译文:	Noah (good)
+11原文:	诺亚（精品）
+11译文:	Noah (fine)
+12原文:	涤罪（普通）
+12译文:	Purgatory (normal)
+13原文:	涤罪（优良）
+13译文:	Purgatory (good)
+14原文:	涤罪（精品）
+14译文:	Purgatory (fine)
+15原文:	迷你萨克|（普通）
+15译文:	Mini Isaac | (normal)
+16原文:	迷你萨克|（优良）
+16译文:	Mini Isaac | (good)
+17原文:	迷你萨克|（精品）
+17译文:	Mini Isaac | (fine)
+18原文:	星陨（普通）
+18译文:	Stars meteorite (normal)
+19原文:	星陨（优良）
+19译文:	Stars meteorite (good)
+20原文:	星陨（精品）
+20译文:	Stars meteorite (fine)
+21原文:	智能护卫|（普通）
+21译文:	Smart guard | (normal)
+22原文:	智能护卫|（优良）
+22译文:	Smart guard | (good)
+23原文:	智能护卫|（精品）
+23译文:	Smart guard | (fine)
+24原文:	破军（普通）
+24译文:	Break the (common)
+25原文:	破军（优良）
+25译文:	Break the (good)
+26原文:	破军（精品）
+26译文:	Broken army (fine)
+27原文:	僚机碎片X5
+27译文:	Pieces of wingman X5
+28原文:	僚机碎片x8
+28译文:	Wingman fragments by 8
+29原文:	僚机碎片x10
+29译文:	Pieces of wingman x10
+30原文:	僚机碎片x20
+30译文:	Pieces of wingman x20
+31原文:	僚机碎片x30
+31译文:	Pieces of wingman x30
+32原文:	金币X500
+32译文:	Gold X500
+33原文:	金币X800
+33译文:	Gold X800
+34原文:	金币X1000
+34译文:	Gold X1000
+35原文:	金币X2000
+35译文:	Gold X2000
+36原文:	金币X5000
+36译文:	Gold X5000
+37原文:	手雷X5
+37译文:	Grenade X5
+38原文:	手雷X8
+38译文:	Grenade by 8
+39原文:	手雷X10
+39译文:	Grenade X10
+40原文:	医疗包X2
+40译文:	Medical kits X2
+41原文:	医疗包X5
+41译文:	Medical kits X5
+42原文:	医疗包X8
+42译文:	Medical kits by 8
+43原文:	优良强化石x5
+43译文:	Good strong fossil x5
+44原文:	优良强化石x10
+44译文:	Good strong fossil x10
+45原文:	精品强化石x5
+45译文:	High-quality goods strong fossil x5
+46原文:	精品强化石x10
+46译文:	Strong fossil x10
+47原文:	超凡强化石x5
+47译文:	Strong extraordinary fossil x5
+48原文:	超凡强化石x10
+48译文:	Strong fossil x10

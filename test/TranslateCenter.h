@@ -8,11 +8,13 @@
 
 #import <Foundation/Foundation.h>
 
-typedef void (^TranslateCompletion)(NSString *originString, NSString *resultString, NSError *error);
+#import "TransData.h"
+
+typedef void (^TranslateCompletion)(TransData *data, NSError *error);
 @interface TranslateCenter : NSObject
 
 + (instancetype)sharedInstance;
 
-- (void)translateString:(NSString *)str to:(NSInteger)country completion:(TranslateCompletion)completion;
+- (void)translateData:(TransData *)tData to:(NSInteger)country completion:(TranslateCompletion)completion;
 
 @end

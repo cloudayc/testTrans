@@ -1,0 +1,32 @@
+3 尔等生来既是罪恶	Your is born evil
+4 引力无处不在	Gravity is everywhere
+5 提供方舟级的保护	Provide the ark level of protection
+6 让你无惧毒雾和伤害	Let you fear smog and damage
+7 接受来自萨克的怒火	From Isaac's anger
+8 内置外太空的极寒陨石	The extremely cold meteorites built-in outer space
+9 私人医疗终端机	Private medical terminal
+10 高温将撕碎一切防御	High temperature will be tore up all the defense
+11 造成激光伤害	Laser damage
+12 造成机枪伤害	Machine gun fire damage
+13 造成碾碎伤害	Crushing damage
+14 具有治疗能力	With treatment ability
+15 造成散弹伤害	Shotgun damage
+16 造成闪电伤害	Lightning damage
+17 具有治疗能力	With treatment ability
+18 造成火焰伤害	Fire damage
+19 提升手枪伤害20%	(null)
+20 提升机枪伤害20%	(null)
+21 提升近战伤害20%	(null)
+22 金币获得量提升20%	(null)
+23 提升手枪伤害20%	(null)
+24 提升幸运度20%	(null)
+25 减少受到的伤害20%	(null)
+26 提升机枪伤害20%	(null)
+27 附带减速效果	Along with the slow effect
+28 减缓掉落伤害	Slow falling damage
+29 来自诺亚的护盾	Shield from Noah
+30 自动净化周围的毒雾	Purify poisonous fog around automatically
+31 自动收集掉落的物质	Automatically collect a fall of material
+32 强化闪电的麻痹作用	To strengthen the lightning paralysis
+33 诺亚级护盾生成器	Noah grade shield generator
+34 无惧僵尸减速	Fearless zombies to slow down

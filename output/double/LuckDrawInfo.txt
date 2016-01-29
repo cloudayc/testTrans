@@ -1,0 +1,46 @@
+3 审判（普通）	Trial (normal)
+4 审判（优良）	Trial (good)
+5 审判（精品）	Trial (fine)
+6 引力（普通）	Gravity (normal)
+7 引力（优良）	Gravity (good)
+8 引力（精品）	Gravity (fine)
+9 诺亚（普通）	Noah (normal)
+10 诺亚（优良）	Noah (good)
+11 诺亚（精品）	Noah (fine)
+12 涤罪（普通）	Purgatory (normal)
+13 涤罪（优良）	Purgatory (good)
+14 涤罪（精品）	Purgatory (fine)
+15 迷你萨克|（普通）	Mini Isaac | (normal)
+16 迷你萨克|（优良）	Mini Isaac | (good)
+17 迷你萨克|（精品）	Mini Isaac | (fine)
+18 星陨（普通）	Stars meteorite (normal)
+19 星陨（优良）	Stars meteorite (good)
+20 星陨（精品）	Stars meteorite (fine)
+21 智能护卫|（普通）	Smart guard | (normal)
+22 智能护卫|（优良）	Smart guard | (good)
+23 智能护卫|（精品）	Smart guard | (fine)
+24 破军（普通）	Break the (common)
+25 破军（优良）	Break the (good)
+26 破军（精品）	Broken army (fine)
+27 僚机碎片X5	Pieces of wingman X5
+28 僚机碎片x8	Wingman fragments by 8
+29 僚机碎片x10	Pieces of wingman x10
+30 僚机碎片x20	Pieces of wingman x20
+31 僚机碎片x30	Pieces of wingman x30
+32 金币X500	Gold X500
+33 金币X800	Gold X800
+34 金币X1000	Gold X1000
+35 金币X2000	Gold X2000
+36 金币X5000	Gold X5000
+37 手雷X5	Grenade X5
+38 手雷X8	Grenade by 8
+39 手雷X10	Grenade X10
+40 医疗包X2	Medical kits X2
+41 医疗包X5	Medical kits X5
+42 医疗包X8	Medical kits by 8
+43 优良强化石x5	Good strong fossil x5
+44 优良强化石x10	Good strong fossil x10
+45 精品强化石x5	High-quality goods strong fossil x5
+46 精品强化石x10	Strong fossil x10
+47 超凡强化石x5	Strong extraordinary fossil x5
+48 超凡强化石x10	Strong fossil x10

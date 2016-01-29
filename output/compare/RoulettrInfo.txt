@@ -1,0 +1,288 @@
+3原文:	再来一次
+3译文:	One more time
+4原文:	金币X100
+4译文:	Gold X100
+5原文:	金币X200
+5译文:	Gold X200
+6原文:	金币X400
+6译文:	Gold will
+7原文:	金币X500
+7译文:	Gold X500
+8原文:	金币X600
+8译文:	Gold X600
+9原文:	金币X1000
+9译文:	Gold X1000
+10原文:	金币X2000
+10译文:	Gold X2000
+11原文:	金币X5000
+11译文:	Gold X5000
+12原文:	手雷X2
+12译文:	Grenade X2
+13原文:	手雷X3
+13译文:	Grenade X3
+14原文:	手雷X5
+14译文:	Grenade X5
+15原文:	手雷X8
+15译文:	Grenade by 8
+16原文:	手雷X10
+16译文:	Grenade X10
+17原文:	医疗包X2
+17译文:	Medical kits X2
+18原文:	医疗包X5
+18译文:	Medical kits X5
+19原文:	医疗包X8
+19译文:	Medical kits by 8
+20原文:	火之刃
+20译文:	The blade of the fire
+21原文:	影之刃
+21译文:	The blade of the shadow
+22原文:	黄金沙鹰
+22译文:	The yellow sands eagle
+23原文:	双持MP5
+23译文:	Dual wield't a MP5
+24原文:	摇霸
+24译文:	Shake bully
+25原文:	追杀者
+25译文:	After the
+26原文:	要你命3000
+26译文:	Kill you 3000
+27原文:	能量炮
+27译文:	Energy cannon
+28原文:	激光炮
+28译文:	The laser gun
+29原文:	僵尸虐杀者
+29译文:	The zombie torture-murderers
+30原文:	左轮部件1
+30译文:	Left part 1
+31原文:	左轮部件2
+31译文:	Left part 2
+32原文:	左轮部件3
+32译文:	Left part 3
+33原文:	左轮部件4
+33译文:	Left part 4
+34原文:	黄金沙鹰部件1
+34译文:	1 yellow sands eagle parts
+35原文:	黄金沙鹰部件2
+35译文:	2 yellow sands eagle parts
+36原文:	黄金沙鹰部件3
+36译文:	3 yellow sands eagle parts
+37原文:	黄金沙鹰部件4
+37译文:	4 yellow sands eagle parts
+38原文:	双持MP5部件1
+38译文:	Dual wield't a MP5 part 1
+39原文:	双持MP5部件2
+39译文:	Dual wield't a MP5 part 2
+40原文:	双持MP5部件3
+40译文:	Dual wield't a MP5 part 3
+41原文:	双持MP5部件4
+41译文:	Dual wield't a MP5 part 4
+42原文:	毁灭者部件1
+42译文:	The destroyer part 1
+43原文:	毁灭者部件2
+43译文:	The destroyer part 2
+44原文:	毁灭者部件3
+44译文:	The destroyer part 3
+45原文:	毁灭者部件4
+45译文:	The destroyer part 4
+46原文:	M4A1部件1
+46译文:	M4A1 part 1
+47原文:	M4A1部件2
+47译文:	M4A1 part 2
+48原文:	M4A1部件3
+48译文:	M4A1 part 3
+49原文:	M4A1部件4
+49译文:	M4A1 part 4
+50原文:	AK47部件1
+50译文:	AK47 part 1
+51原文:	AK47部件2
+51译文:	AK47 part 2
+52原文:	AK47部件3
+52译文:	AK47 part 3
+53原文:	AK47部件4
+53译文:	AK47 part 4
+54原文:	M1散弹部件1
+54译文:	M1 shotgun part 1
+55原文:	M1散弹部件2
+55译文:	M1 shotgun part 2
+56原文:	M1散弹部件3
+56译文:	3 M1 shotgun components
+57原文:	M1散弹部件4
+57译文:	M1 shotgun part 4
+58原文:	火神部件1
+58译文:	Vulcan part 1
+59原文:	火神部件2
+59译文:	Vulcan part 2
+60原文:	火神部件3
+60译文:	Vulcan part 3
+61原文:	火神部件4
+61译文:	Vulcan part 4
+62原文:	摇霸部件1
+62译文:	Shake the components on the 1
+63原文:	摇霸部件2
+63译文:	Shake the parts on the 2
+64原文:	摇霸部件3
+64译文:	Shake the components on the 3
+65原文:	摇霸部件4
+65译文:	Shake the components on the 4
+66原文:	追杀者部件1
+66译文:	After the part 1
+67原文:	追杀者部件2
+67译文:	After part 2
+68原文:	追杀者部件3
+68译文:	After the part 3
+69原文:	追杀者部件4
+69译文:	After part 4
+70原文:	要你命3000部件1
+70译文:	3000 parts 1 to your life
+71原文:	要你命3000部件2
+71译文:	3000 parts 2 to your life
+72原文:	要你命3000部件3
+72译文:	3000 parts 3 to your life
+73原文:	要你命3000部件4
+73译文:	3000 part 4 to your life
+74原文:	能量炮部件1
+74译文:	Energy gun parts 1
+75原文:	能量炮部件2
+75译文:	2 energy gun parts
+76原文:	能量炮部件3
+76译文:	Energy gun parts 3
+77原文:	能量炮部件4
+77译文:	Energy gun parts 4
+78原文:	激光炮部件1
+78译文:	The laser gun part 1
+79原文:	激光炮部件2
+79译文:	The laser gun part 2
+80原文:	激光炮部件3
+80译文:	The laser gun parts 3
+81原文:	激光炮部件4
+81译文:	Laser cannons part 4
+82原文:	僵尸虐杀者部件1
+82译文:	1 the zombie torture-murderers parts
+83原文:	僵尸虐杀者部件2
+83译文:	The zombie torture-murderers part 2
+84原文:	僵尸虐杀者部件3
+84译文:	3 the zombie torture-murderers parts
+85原文:	僵尸虐杀者部件4
+85译文:	4 the zombie torture-murderers parts
+86原文:	超神虐杀者部件1
+86译文:	Super god torture-murderers part 1
+87原文:	超神虐杀者部件2
+87译文:	Super god torture-murderers part 2
+88原文:	超神虐杀者部件3
+88译文:	Super god torture-murderers part 3
+89原文:	超神虐杀者部件4
+89译文:	Super god torture-murderers part 4
+90原文:	钢之刃部件1
+90译文:	The blade of steel parts 1
+91原文:	钢之刃部件2
+91译文:	The blade of steel parts 2
+92原文:	钢之刃部件3
+92译文:	The blade of steel parts 3
+93原文:	钢之刃部件4
+93译文:	The blade of steel parts 4
+94原文:	冰之刃部件1
+94译文:	The blade of ice part 1
+95原文:	冰之刃部件2
+95译文:	The blade of ice part 2
+96原文:	冰之刃部件3
+96译文:	The blade of ice part 3
+97原文:	冰之刃部件4
+97译文:	The blade of ice part 4
+98原文:	火之刃部件1
+98译文:	The blade of fire unit 1
+99原文:	火之刃部件2
+99译文:	The blade of fire unit 2
+100原文:	火之刃部件3
+100译文:	The blade of fire unit 3
+101原文:	火之刃部件4
+101译文:	The blade of fire unit 4
+102原文:	影之刃部件1
+102译文:	The blade of the shadow part 1
+103原文:	影之刃部件2
+103译文:	The blade of the shadow part 2
+104原文:	影之刃部件3
+104译文:	The blade of the shadow part 3
+105原文:	影之刃部件4
+105译文:	The blade of the shadow part 4
+106原文:	魂之刃部件1
+106译文:	The soul of the blade part 1
+107原文:	魂之刃部件2
+107译文:	The soul of the blade part 2
+108原文:	魂之刃部件3
+108译文:	The soul of the blade part 3
+109原文:	魂之刃部件4
+109译文:	The soul of the blade part 4
+110原文:	碎片x5
+110译文:	Debris x5
+111原文:	碎片x10
+111译文:	Debris x10
+112原文:	碎片x15
+112译文:	Debris x15
+113原文:	碎片x20
+113译文:	Debris x20
+114原文:	碎片x25
+114译文:	Debris x25
+115原文:	碎片x30
+115译文:	Debris x30
+116原文:	碎片x50
+116译文:	Debris x50
+117原文:	碎片x100
+117译文:	Debris x100
+118原文:	普通x5
+118译文:	Ordinary x5
+119原文:	普通x10
+119译文:	Ordinary x10
+120原文:	普通x15
+120译文:	Ordinary x15
+121原文:	普通x20
+121译文:	Ordinary x20
+122原文:	普通x25
+122译文:	Ordinary x25
+123原文:	普通x30
+123译文:	Ordinary x30
+124原文:	普通x50
+124译文:	Ordinary x50
+125原文:	普通x100
+125译文:	Ordinary x100
+126原文:	优良x5
+126译文:	Good x5
+127原文:	优良x10
+127译文:	Good x10
+128原文:	优良x15
+128译文:	Good x15
+129原文:	优良x20
+129译文:	Good x20
+130原文:	优良x25
+130译文:	Good x25
+131原文:	优良x30
+131译文:	Good x
+132原文:	优良x50
+132译文:	Good x50
+133原文:	优良x100
+133译文:	Good x100
+134原文:	精品x5
+134译文:	Boutique x5
+135原文:	精品x10
+135译文:	Boutique x10
+136原文:	精品x15
+136译文:	Boutique x15
+137原文:	精品x20
+137译文:	Boutique x20
+138原文:	精品x25
+138译文:	Boutique x25
+139原文:	精品x30
+139译文:	Boutique x30
+140原文:	精品x50
+140译文:	Boutique x50
+141原文:	超凡x5
+141译文:	Extraordinary x5
+142原文:	超凡x10
+142译文:	Extraordinary x10
+143原文:	超凡x15
+143译文:	Extraordinary x15
+144原文:	超凡x20
+144译文:	Extraordinary x20
+145原文:	超凡x25
+145译文:	Extraordinary x25
+146原文:	超凡x30
+146译文:	Extraordinary x30

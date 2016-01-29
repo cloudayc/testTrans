@@ -1,0 +1,104 @@
+3原文:	宝箱
+3译文:	The treasure chest
+4原文:	手雷
+4译文:	Hand grenades
+5原文:	医疗包
+5译文:	Medical kits
+6原文:	大技
+6译文:	Great skill
+7原文:	修复防弹衣
+7译文:	Repair body armor
+8原文:	手枪威力小
+8译文:	Small pistol power
+9原文:	手枪威力中
+9译文:	Pistol in the power
+10原文:	手枪威力大
+10译文:	Pistol very powerful
+11原文:	机枪威力小
+11译文:	Machine gun power of small
+12原文:	机枪威力中
+12译文:	In the machine power
+13原文:	机枪威力大
+13译文:	Machine gun very powerful
+14原文:	近战威力小
+14译文:	Melee power of small
+15原文:	近战威力中
+15译文:	In the melee power
+16原文:	近战威力大
+16译文:	Melee power of large
+17原文:	怪物弱化小
+17译文:	Small monster weakening
+18原文:	怪物弱化中
+18译文:	Weakening of the monster
+19原文:	怪物弱化大
+19译文:	The monster weakening big
+20原文:	怪物减血小
+20译文:	The monster blood small reduction
+21原文:	怪物减血中
+21译文:	The monster blood reduction
+22原文:	怪物减血大
+22译文:	The monster blood big reduction
+23原文:	暴击伤害小
+23译文:	The critical strike damage
+24原文:	暴击伤害中
+24译文:	In the critical strike damage
+25原文:	暴击伤害大
+25译文:	Big critical strike damage
+26原文:	燃烧强化
+26译文:	Burning strengthening
+27原文:	冰冻强化
+27译文:	Freezing reinforcement
+28原文:	幸运强化
+28译文:	Lucky to strengthen
+29原文:	获得一个神秘奖励
+29译文:	Get a mysterious awards
+30原文:	购买10个手雷
+30译文:	Buy 10 grenades
+31原文:	购买10个医疗包
+31译文:	Buy 10 medical kits
+32原文:	购买5个空中支援
+32译文:	Buy 5 air support
+33原文:	修复防弹衣
+33译文:	Repair body armor
+34原文:	手枪威力提高10%
+34译文:	(null)
+35原文:	手枪威力提高20%
+35译文:	(null)
+36原文:	手枪威力提高40%
+36译文:	(null)
+37原文:	机枪威力提高10%
+37译文:	(null)
+38原文:	机枪威力提高20%
+38译文:	(null)
+39原文:	机枪威力提高40%
+39译文:	(null)
+40原文:	近战威力提高25%
+40译文:	(null)
+41原文:	近战威力提高50%
+41译文:	(null)
+42原文:	近战威力提高100%
+42译文:	(null)
+43原文:	敌人攻击降低10%
+43译文:	(null)
+44原文:	敌人攻击降低20%
+44译文:	(null)
+45原文:	敌人攻击降低40%
+45译文:	(null)
+46原文:	敌人生命降低10%
+46译文:	(null)
+47原文:	敌人生命降低20%
+47译文:	(null)
+48原文:	敌人生命降低40%
+48译文:	(null)
+49原文:	暴击伤害提高100%
+49译文:	(null)
+50原文:	暴击伤害提高200%
+50译文:	(null)
+51原文:	暴击伤害提高400%
+51译文:	(null)
+52原文:	燃烧伤害增加100%
+52译文:	(null)
+53原文:	冰冻时间增加100%
+53译文:	(null)
+54原文:	幸运提高100%
+54译文:	(null)

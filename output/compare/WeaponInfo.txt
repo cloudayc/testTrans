@@ -1,0 +1,42 @@
+3原文:	钢之刃
+3译文:	The blade of steel
+4原文:	冰之刃
+4译文:	The blade of ice
+5原文:	火之刃
+5译文:	The blade of the fire
+6原文:	影之刃
+6译文:	The blade of the shadow
+7原文:	魂之刃
+7译文:	The blade of the soul
+8原文:	V烈焰刀
+8译文:	V flame cutter
+9原文:	V狂战斧
+9译文:	V battle fury
+10原文:	击退
+10译文:	To fend off
+11原文:	击退 冻结
+11译文:	Repel the freeze
+12原文:	击退 燃烧
+12译文:	Repel the combustion
+13原文:	击退 必杀
+13译文:	Repel the kill
+14原文:	击退 必杀 噬魂
+14译文:	Repel slay eats the soul
+15原文:	击退 燃烧
+15译文:	Repel the combustion
+16原文:	击退 必杀
+16译文:	Repel the kill
+17原文:	精钢锻造的刀刃，挥击时将敌人击退。
+17译文:	Stainless steel forging of the blade, swing will repel the enemy.
+18原文:	寒冰工艺制造，冰霜之力将冻结敌人。
+18译文:	Ice manufacture process, the force of frost would freeze the enemy.
+19原文:	火红的刀刃会使所有敌人熊熊燃烧。
+19译文:	Blazing red blade will make all the enemy.
+20原文:	暗影水晶制成的刀刃，可以一击必杀。
+20译文:	Shadow blade made of crystal, can blow slay.
+21原文:	神秘的刀刃，可以吸取死去敌人的灵魂。
+21译文:	The mystery of the blade, can absorb the soul of the dead enemy.
+22原文:	烈焰武器，强力击退效果，附带燃烧。
+22译文:	Flame weapons, strongly repel effect, the supplementary burning.
+23原文:	大斧一挥，僵尸分分钟全部被击碎。
+23译文:	A wave of his axe zombies are all break points minutes.

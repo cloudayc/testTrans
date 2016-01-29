@@ -1,0 +1,11 @@
+3 护甲  %d	(null)
+4 手雷伤害  %d	(null)
+5 近战伤害 + %d%%	(null)
+6 移动速度 + %d%%	(null)
+7 手雷伤害 + %d%%	(null)
+8 护甲 + %d%%	(null)
+9 医疗包治疗效果 + %d%%	(null)
+10 必杀几率 + %d%%	(null)
+11 暴击伤害 + %d%%	(null)
+12 武器伤害 + %d%%	(null)
+13 无	There is no

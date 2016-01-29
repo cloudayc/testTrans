@@ -1,0 +1,179 @@
+3 金币	Gold COINS
+4 钻石	diamond
+5 手雷	Hand grenades
+6 医疗包	Medical kits
+7 空中支援	Air support
+8 僚机碎片	Wingman fragments
+9 南瓜灯	pumpkin
+10 僵尸肉块	The zombie meat
+11 僵尸肉馅月饼	The zombie meat moon cakes
+12 USP	独特销售主张
+13 左轮	revolver
+14 黄金沙鹰	The yellow sands eagle
+15 双持MP5	Dual wield't a MP5
+16 毁灭者	The destroyer
+17 M4A1	M4A1
+18 AK47	ak - 47
+19 M1散弹	M1 shotgun
+20 火神	vulcan
+21 摇霸	Shake bully
+22 追杀者	After the
+23 要你命3000	Kill you 3000
+24 能量炮	Energy cannon
+25 激光炮	The laser gun
+26 僵尸虐杀者	The zombie torture-murderers
+27 超神虐杀者	Torture-murderers super god
+28 钢之刃	The blade of steel
+29 冰之刃	The blade of ice
+30 火之刃	The blade of the fire
+31 影之刃	The blade of the shadow
+32 魂之刃	The blade of the soul
+33 审判	The trial
+34 审判	The trial
+35 审判	The trial
+36 审判	The trial
+37 审判	The trial
+38 引力	gravity
+39 引力	gravity
+40 引力	gravity
+41 引力	gravity
+42 引力	gravity
+43 诺亚	Noah
+44 诺亚	Noah
+45 诺亚	Noah
+46 诺亚	Noah
+47 诺亚	Noah
+48 涤罪	purgatory
+49 涤罪	purgatory
+50 涤罪	purgatory
+51 涤罪	purgatory
+52 涤罪	purgatory
+53 迷你萨克	Mini Isaac
+54 迷你萨克	Mini Isaac
+55 迷你萨克	Mini Isaac
+56 迷你萨克	Mini Isaac
+57 迷你萨克	Mini Isaac
+58 星陨	Star meteor
+59 星陨	Star meteor
+60 星陨	Star meteor
+61 星陨	Star meteor
+62 星陨	Star meteor
+63 智能护卫	Smart guard
+64 智能护卫	Smart guard
+65 智能护卫	Smart guard
+66 智能护卫	Smart guard
+67 智能护卫	Smart guard
+68 破军	To break the
+69 破军	To break the
+70 破军	To break the
+71 破军	To break the
+72 破军	To break the
+73 强化石碎片	Strong fossil fragments
+74 普通强化石	Normal fossil
+75 优良强化石	Good strong fossil
+76 精品强化石	High-quality goods strong fossil
+77 超凡强化石	Strong extraordinary fossil
+78 传说强化石	Legend has it that strong fossil
+79 僵尸猎人精魂	The zombie hunter spirit
+80 突击队长精魂	Commando captain spirit
+81 钢铁巨人精魂	Iron giant spirit
+82 USP部件1	USP part 1
+83 USP部件2	USP part 2
+84 USP部件3	USP part 3
+85 USP部件4	USP unit 4
+86 左轮部件1	Left part 1
+87 左轮部件2	Left part 2
+88 左轮部件3	Left part 3
+89 左轮部件4	Left part 4
+90 黄金沙鹰部件1	1 yellow sands eagle parts
+91 黄金沙鹰部件2	2 yellow sands eagle parts
+92 黄金沙鹰部件3	3 yellow sands eagle parts
+93 黄金沙鹰部件4	4 yellow sands eagle parts
+94 双持MP5部件1	Dual wield't a MP5 part 1
+95 双持MP5部件2	Dual wield't a MP5 part 2
+96 双持MP5部件3	Dual wield't a MP5 part 3
+97 双持MP5部件4	Dual wield't a MP5 part 4
+98 毁灭者部件1	The destroyer part 1
+99 毁灭者部件2	The destroyer part 2
+100 毁灭者部件3	The destroyer part 3
+101 毁灭者部件4	The destroyer part 4
+102 M4A1部件1	M4A1 part 1
+103 M4A1部件2	M4A1 part 2
+104 M4A1部件3	M4A1 part 3
+105 M4A1部件4	M4A1 part 4
+106 AK47部件1	AK47 part 1
+107 AK47部件2	AK47 part 2
+108 AK47部件3	AK47 part 3
+109 AK47部件4	AK47 part 4
+110 M1散弹部件1	M1 shotgun part 1
+111 M1散弹部件2	M1 shotgun part 2
+112 M1散弹部件3	3 M1 shotgun components
+113 M1散弹部件4	M1 shotgun part 4
+114 火神部件1	Vulcan part 1
+115 火神部件2	Vulcan part 2
+116 火神部件3	Vulcan part 3
+117 火神部件4	Vulcan part 4
+118 摇霸部件1	Shake the components on the 1
+119 摇霸部件2	Shake the parts on the 2
+120 摇霸部件3	Shake the components on the 3
+121 摇霸部件4	Shake the components on the 4
+122 追杀者部件1	After the part 1
+123 追杀者部件2	After part 2
+124 追杀者部件3	After the part 3
+125 追杀者部件4	After part 4
+126 要你命3000部件1	3000 parts 1 to your life
+127 要你命3000部件2	3000 parts 2 to your life
+128 要你命3000部件3	3000 parts 3 to your life
+129 要你命3000部件4	3000 part 4 to your life
+130 能量炮部件1	Energy gun parts 1
+131 能量炮部件2	2 energy gun parts
+132 能量炮部件3	Energy gun parts 3
+133 能量炮部件4	Energy gun parts 4
+134 激光炮部件1	The laser gun part 1
+135 激光炮部件2	The laser gun part 2
+136 激光炮部件3	The laser gun parts 3
+137 激光炮部件4	Laser cannons part 4
+138 僵尸虐杀者部件1	1 the zombie torture-murderers parts
+139 僵尸虐杀者部件2	The zombie torture-murderers part 2
+140 僵尸虐杀者部件3	3 the zombie torture-murderers parts
+141 僵尸虐杀者部件4	4 the zombie torture-murderers parts
+142 超神虐杀者部件1	Super god torture-murderers part 1
+143 超神虐杀者部件2	Super god torture-murderers part 2
+144 超神虐杀者部件3	Super god torture-murderers part 3
+145 超神虐杀者部件4	Super god torture-murderers part 4
+146 钢之刃部件1	The blade of steel parts 1
+147 钢之刃部件2	The blade of steel parts 2
+148 钢之刃部件3	The blade of steel parts 3
+149 钢之刃部件4	The blade of steel parts 4
+150 冰之刃部件1	The blade of ice part 1
+151 冰之刃部件2	The blade of ice part 2
+152 冰之刃部件3	The blade of ice part 3
+153 冰之刃部件4	The blade of ice part 4
+154 火之刃部件1	The blade of fire unit 1
+155 火之刃部件2	The blade of fire unit 2
+156 火之刃部件3	The blade of fire unit 3
+157 火之刃部件4	The blade of fire unit 4
+158 影之刃部件1	The blade of the shadow part 1
+159 影之刃部件2	The blade of the shadow part 2
+160 影之刃部件3	The blade of the shadow part 3
+161 影之刃部件4	The blade of the shadow part 4
+162 魂之刃部件1	The soul of the blade part 1
+163 魂之刃部件2	The soul of the blade part 2
+164 魂之刃部件3	The soul of the blade part 3
+165 魂之刃部件4	The soul of the blade part 4
+166 USP弹夹	USP cartridge
+167 左轮弹夹	Revolver cartridge
+168 黄金沙鹰弹夹	Yellow sands eagle cartridge
+169 双持MP5弹夹	Dual wield't a MP5 cartridge
+170 毁灭者弹夹	The destroyer cartridge
+171 M4A1弹夹	M4A1 cartridge
+172 AK47弹夹	AK47 cartridge
+173 M1散弹弹夹	M1 shotgun cartridge
+174 火神弹夹	Vulcan cartridge
+175 摇霸弹夹	Shake the cartridge on the
+176 追杀者弹夹	After the cartridge
+177 要你命3000弹夹	3000 cartridge to your life
+178 能量炮弹夹	Energy shots clip
+179 激光炮弹夹	Laser cannon clip
+180 僵尸虐杀者弹夹	The zombie torture-murderers cartridge
+181 超神虐杀者弹夹	Super god torture-murderers cartridge

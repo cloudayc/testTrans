@@ -1,0 +1,358 @@
+3原文:	金币
+3译文:	Gold COINS
+4原文:	钻石
+4译文:	diamond
+5原文:	手雷
+5译文:	Hand grenades
+6原文:	医疗包
+6译文:	Medical kits
+7原文:	空中支援
+7译文:	Air support
+8原文:	僚机碎片
+8译文:	Wingman fragments
+9原文:	南瓜灯
+9译文:	pumpkin
+10原文:	僵尸肉块
+10译文:	The zombie meat
+11原文:	僵尸肉馅月饼
+11译文:	The zombie meat moon cakes
+12原文:	USP
+12译文:	独特销售主张
+13原文:	左轮
+13译文:	revolver
+14原文:	黄金沙鹰
+14译文:	The yellow sands eagle
+15原文:	双持MP5
+15译文:	Dual wield't a MP5
+16原文:	毁灭者
+16译文:	The destroyer
+17原文:	M4A1
+17译文:	M4A1
+18原文:	AK47
+18译文:	ak - 47
+19原文:	M1散弹
+19译文:	M1 shotgun
+20原文:	火神
+20译文:	vulcan
+21原文:	摇霸
+21译文:	Shake bully
+22原文:	追杀者
+22译文:	After the
+23原文:	要你命3000
+23译文:	Kill you 3000
+24原文:	能量炮
+24译文:	Energy cannon
+25原文:	激光炮
+25译文:	The laser gun
+26原文:	僵尸虐杀者
+26译文:	The zombie torture-murderers
+27原文:	超神虐杀者
+27译文:	Torture-murderers super god
+28原文:	钢之刃
+28译文:	The blade of steel
+29原文:	冰之刃
+29译文:	The blade of ice
+30原文:	火之刃
+30译文:	The blade of the fire
+31原文:	影之刃
+31译文:	The blade of the shadow
+32原文:	魂之刃
+32译文:	The blade of the soul
+33原文:	审判
+33译文:	The trial
+34原文:	审判
+34译文:	The trial
+35原文:	审判
+35译文:	The trial
+36原文:	审判
+36译文:	The trial
+37原文:	审判
+37译文:	The trial
+38原文:	引力
+38译文:	gravity
+39原文:	引力
+39译文:	gravity
+40原文:	引力
+40译文:	gravity
+41原文:	引力
+41译文:	gravity
+42原文:	引力
+42译文:	gravity
+43原文:	诺亚
+43译文:	Noah
+44原文:	诺亚
+44译文:	Noah
+45原文:	诺亚
+45译文:	Noah
+46原文:	诺亚
+46译文:	Noah
+47原文:	诺亚
+47译文:	Noah
+48原文:	涤罪
+48译文:	purgatory
+49原文:	涤罪
+49译文:	purgatory
+50原文:	涤罪
+50译文:	purgatory
+51原文:	涤罪
+51译文:	purgatory
+52原文:	涤罪
+52译文:	purgatory
+53原文:	迷你萨克
+53译文:	Mini Isaac
+54原文:	迷你萨克
+54译文:	Mini Isaac
+55原文:	迷你萨克
+55译文:	Mini Isaac
+56原文:	迷你萨克
+56译文:	Mini Isaac
+57原文:	迷你萨克
+57译文:	Mini Isaac
+58原文:	星陨
+58译文:	Star meteor
+59原文:	星陨
+59译文:	Star meteor
+60原文:	星陨
+60译文:	Star meteor
+61原文:	星陨
+61译文:	Star meteor
+62原文:	星陨
+62译文:	Star meteor
+63原文:	智能护卫
+63译文:	Smart guard
+64原文:	智能护卫
+64译文:	Smart guard
+65原文:	智能护卫
+65译文:	Smart guard
+66原文:	智能护卫
+66译文:	Smart guard
+67原文:	智能护卫
+67译文:	Smart guard
+68原文:	破军
+68译文:	To break the
+69原文:	破军
+69译文:	To break the
+70原文:	破军
+70译文:	To break the
+71原文:	破军
+71译文:	To break the
+72原文:	破军
+72译文:	To break the
+73原文:	强化石碎片
+73译文:	Strong fossil fragments
+74原文:	普通强化石
+74译文:	Normal fossil
+75原文:	优良强化石
+75译文:	Good strong fossil
+76原文:	精品强化石
+76译文:	High-quality goods strong fossil
+77原文:	超凡强化石
+77译文:	Strong extraordinary fossil
+78原文:	传说强化石
+78译文:	Legend has it that strong fossil
+79原文:	僵尸猎人精魂
+79译文:	The zombie hunter spirit
+80原文:	突击队长精魂
+80译文:	Commando captain spirit
+81原文:	钢铁巨人精魂
+81译文:	Iron giant spirit
+82原文:	USP部件1
+82译文:	USP part 1
+83原文:	USP部件2
+83译文:	USP part 2
+84原文:	USP部件3
+84译文:	USP part 3
+85原文:	USP部件4
+85译文:	USP unit 4
+86原文:	左轮部件1
+86译文:	Left part 1
+87原文:	左轮部件2
+87译文:	Left part 2
+88原文:	左轮部件3
+88译文:	Left part 3
+89原文:	左轮部件4
+89译文:	Left part 4
+90原文:	黄金沙鹰部件1
+90译文:	1 yellow sands eagle parts
+91原文:	黄金沙鹰部件2
+91译文:	2 yellow sands eagle parts
+92原文:	黄金沙鹰部件3
+92译文:	3 yellow sands eagle parts
+93原文:	黄金沙鹰部件4
+93译文:	4 yellow sands eagle parts
+94原文:	双持MP5部件1
+94译文:	Dual wield't a MP5 part 1
+95原文:	双持MP5部件2
+95译文:	Dual wield't a MP5 part 2
+96原文:	双持MP5部件3
+96译文:	Dual wield't a MP5 part 3
+97原文:	双持MP5部件4
+97译文:	Dual wield't a MP5 part 4
+98原文:	毁灭者部件1
+98译文:	The destroyer part 1
+99原文:	毁灭者部件2
+99译文:	The destroyer part 2
+100原文:	毁灭者部件3
+100译文:	The destroyer part 3
+101原文:	毁灭者部件4
+101译文:	The destroyer part 4
+102原文:	M4A1部件1
+102译文:	M4A1 part 1
+103原文:	M4A1部件2
+103译文:	M4A1 part 2
+104原文:	M4A1部件3
+104译文:	M4A1 part 3
+105原文:	M4A1部件4
+105译文:	M4A1 part 4
+106原文:	AK47部件1
+106译文:	AK47 part 1
+107原文:	AK47部件2
+107译文:	AK47 part 2
+108原文:	AK47部件3
+108译文:	AK47 part 3
+109原文:	AK47部件4
+109译文:	AK47 part 4
+110原文:	M1散弹部件1
+110译文:	M1 shotgun part 1
+111原文:	M1散弹部件2
+111译文:	M1 shotgun part 2
+112原文:	M1散弹部件3
+112译文:	3 M1 shotgun components
+113原文:	M1散弹部件4
+113译文:	M1 shotgun part 4
+114原文:	火神部件1
+114译文:	Vulcan part 1
+115原文:	火神部件2
+115译文:	Vulcan part 2
+116原文:	火神部件3
+116译文:	Vulcan part 3
+117原文:	火神部件4
+117译文:	Vulcan part 4
+118原文:	摇霸部件1
+118译文:	Shake the components on the 1
+119原文:	摇霸部件2
+119译文:	Shake the parts on the 2
+120原文:	摇霸部件3
+120译文:	Shake the components on the 3
+121原文:	摇霸部件4
+121译文:	Shake the components on the 4
+122原文:	追杀者部件1
+122译文:	After the part 1
+123原文:	追杀者部件2
+123译文:	After part 2
+124原文:	追杀者部件3
+124译文:	After the part 3
+125原文:	追杀者部件4
+125译文:	After part 4
+126原文:	要你命3000部件1
+126译文:	3000 parts 1 to your life
+127原文:	要你命3000部件2
+127译文:	3000 parts 2 to your life
+128原文:	要你命3000部件3
+128译文:	3000 parts 3 to your life
+129原文:	要你命3000部件4
+129译文:	3000 part 4 to your life
+130原文:	能量炮部件1
+130译文:	Energy gun parts 1
+131原文:	能量炮部件2
+131译文:	2 energy gun parts
+132原文:	能量炮部件3
+132译文:	Energy gun parts 3
+133原文:	能量炮部件4
+133译文:	Energy gun parts 4
+134原文:	激光炮部件1
+134译文:	The laser gun part 1
+135原文:	激光炮部件2
+135译文:	The laser gun part 2
+136原文:	激光炮部件3
+136译文:	The laser gun parts 3
+137原文:	激光炮部件4
+137译文:	Laser cannons part 4
+138原文:	僵尸虐杀者部件1
+138译文:	1 the zombie torture-murderers parts
+139原文:	僵尸虐杀者部件2
+139译文:	The zombie torture-murderers part 2
+140原文:	僵尸虐杀者部件3
+140译文:	3 the zombie torture-murderers parts
+141原文:	僵尸虐杀者部件4
+141译文:	4 the zombie torture-murderers parts
+142原文:	超神虐杀者部件1
+142译文:	Super god torture-murderers part 1
+143原文:	超神虐杀者部件2
+143译文:	Super god torture-murderers part 2
+144原文:	超神虐杀者部件3
+144译文:	Super god torture-murderers part 3
+145原文:	超神虐杀者部件4
+145译文:	Super god torture-murderers part 4
+146原文:	钢之刃部件1
+146译文:	The blade of steel parts 1
+147原文:	钢之刃部件2
+147译文:	The blade of steel parts 2
+148原文:	钢之刃部件3
+148译文:	The blade of steel parts 3
+149原文:	钢之刃部件4
+149译文:	The blade of steel parts 4
+150原文:	冰之刃部件1
+150译文:	The blade of ice part 1
+151原文:	冰之刃部件2
+151译文:	The blade of ice part 2
+152原文:	冰之刃部件3
+152译文:	The blade of ice part 3
+153原文:	冰之刃部件4
+153译文:	The blade of ice part 4
+154原文:	火之刃部件1
+154译文:	The blade of fire unit 1
+155原文:	火之刃部件2
+155译文:	The blade of fire unit 2
+156原文:	火之刃部件3
+156译文:	The blade of fire unit 3
+157原文:	火之刃部件4
+157译文:	The blade of fire unit 4
+158原文:	影之刃部件1
+158译文:	The blade of the shadow part 1
+159原文:	影之刃部件2
+159译文:	The blade of the shadow part 2
+160原文:	影之刃部件3
+160译文:	The blade of the shadow part 3
+161原文:	影之刃部件4
+161译文:	The blade of the shadow part 4
+162原文:	魂之刃部件1
+162译文:	The soul of the blade part 1
+163原文:	魂之刃部件2
+163译文:	The soul of the blade part 2
+164原文:	魂之刃部件3
+164译文:	The soul of the blade part 3
+165原文:	魂之刃部件4
+165译文:	The soul of the blade part 4
+166原文:	USP弹夹
+166译文:	USP cartridge
+167原文:	左轮弹夹
+167译文:	Revolver cartridge
+168原文:	黄金沙鹰弹夹
+168译文:	Yellow sands eagle cartridge
+169原文:	双持MP5弹夹
+169译文:	Dual wield't a MP5 cartridge
+170原文:	毁灭者弹夹
+170译文:	The destroyer cartridge
+171原文:	M4A1弹夹
+171译文:	M4A1 cartridge
+172原文:	AK47弹夹
+172译文:	AK47 cartridge
+173原文:	M1散弹弹夹
+173译文:	M1 shotgun cartridge
+174原文:	火神弹夹
+174译文:	Vulcan cartridge
+175原文:	摇霸弹夹
+175译文:	Shake the cartridge on the
+176原文:	追杀者弹夹
+176译文:	After the cartridge
+177原文:	要你命3000弹夹
+177译文:	3000 cartridge to your life
+178原文:	能量炮弹夹
+178译文:	Energy shots clip
+179原文:	激光炮弹夹
+179译文:	Laser cannon clip
+180原文:	僵尸虐杀者弹夹
+180译文:	The zombie torture-murderers cartridge
+181原文:	超神虐杀者弹夹
+181译文:	Super god torture-murderers cartridge

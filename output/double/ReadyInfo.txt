@@ -1,0 +1,52 @@
+3 宝箱	The treasure chest
+4 手雷	Hand grenades
+5 医疗包	Medical kits
+6 大技	Great skill
+7 修复防弹衣	Repair body armor
+8 手枪威力小	Small pistol power
+9 手枪威力中	Pistol in the power
+10 手枪威力大	Pistol very powerful
+11 机枪威力小	Machine gun power of small
+12 机枪威力中	In the machine power
+13 机枪威力大	Machine gun very powerful
+14 近战威力小	Melee power of small
+15 近战威力中	In the melee power
+16 近战威力大	Melee power of large
+17 怪物弱化小	Small monster weakening
+18 怪物弱化中	Weakening of the monster
+19 怪物弱化大	The monster weakening big
+20 怪物减血小	The monster blood small reduction
+21 怪物减血中	The monster blood reduction
+22 怪物减血大	The monster blood big reduction
+23 暴击伤害小	The critical strike damage
+24 暴击伤害中	In the critical strike damage
+25 暴击伤害大	Big critical strike damage
+26 燃烧强化	Burning strengthening
+27 冰冻强化	Freezing reinforcement
+28 幸运强化	Lucky to strengthen
+29 获得一个神秘奖励	Get a mysterious awards
+30 购买10个手雷	Buy 10 grenades
+31 购买10个医疗包	Buy 10 medical kits
+32 购买5个空中支援	Buy 5 air support
+33 修复防弹衣	Repair body armor
+34 手枪威力提高10%	(null)
+35 手枪威力提高20%	(null)
+36 手枪威力提高40%	(null)
+37 机枪威力提高10%	(null)
+38 机枪威力提高20%	(null)
+39 机枪威力提高40%	(null)
+40 近战威力提高25%	(null)
+41 近战威力提高50%	(null)
+42 近战威力提高100%	(null)
+43 敌人攻击降低10%	(null)
+44 敌人攻击降低20%	(null)
+45 敌人攻击降低40%	(null)
+46 敌人生命降低10%	(null)
+47 敌人生命降低20%	(null)
+48 敌人生命降低40%	(null)
+49 暴击伤害提高100%	(null)
+50 暴击伤害提高200%	(null)
+51 暴击伤害提高400%	(null)
+52 燃烧伤害增加100%	(null)
+53 冰冻时间增加100%	(null)
+54 幸运提高100%	(null)

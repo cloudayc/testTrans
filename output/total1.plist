@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AchievementInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>使用近身武器消灭10个僵尸</string>
+			<key>translate</key>
+			<string>Using a melee weapon to eliminate 10 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>使用近身武器消灭100个僵尸</string>
+			<key>translate</key>
+			<string>Using a melee weapon to eliminate 100 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>使用近身武器消灭1000个僵尸</string>
+			<key>translate</key>
+			<string>Using a melee weapon to eliminate 1000 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>使用近身武器消灭10000个僵尸</string>
+			<key>translate</key>
+			<string>Using a melee weapon to eliminate 10000 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>使用手枪消灭50个僵尸</string>
+			<key>translate</key>
+			<string>Use guns kill 50 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>使用手枪消灭500个僵尸</string>
+			<key>translate</key>
+			<string>Use gun kill 500 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>使用手枪消灭5000个僵尸</string>
+			<key>translate</key>
+			<string>Use gun kill 5000 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>使用手枪消灭50000个僵尸</string>
+			<key>translate</key>
+			<string>Use gun kill 50000 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>使用机枪消灭100个僵尸</string>
+			<key>translate</key>
+			<string>Use machine guns kill 100 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>使用机枪消灭1000个僵尸</string>
+			<key>translate</key>
+			<string>Use machine guns kill 1000 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>使用机枪消灭10000个僵尸</string>
+			<key>translate</key>
+			<string>Use machine guns kill 10000 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>使用机枪消灭100000个僵尸</string>
+			<key>translate</key>
+			<string>Use machine guns kill 100000 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>使用手雷10次</string>
+			<key>translate</key>
+			<string>Use grenades 10 times</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>使用手雷50次</string>
+			<key>translate</key>
+			<string>Using grenade 50 times</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>使用手雷200次</string>
+			<key>translate</key>
+			<string>Use grenades 200 times</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>使用手雷500次</string>
+			<key>translate</key>
+			<string>Use grenades 500 times</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>成功通过普通模式废弃都市</string>
+			<key>translate</key>
+			<string>Success through normal mode abandoned city</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>成功通过普通模式迷失丛林</string>
+			<key>translate</key>
+			<string>Success through normal mode lost in the jungle</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>成功通过普通模式幽暗仓库</string>
+			<key>translate</key>
+			<string>Success through normal mode dim warehouse</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>成功通过普通模式破旧车站</string>
+			<key>translate</key>
+			<string>Success through normal mode old station</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>成功通过普通模式化学工厂</string>
+			<key>translate</key>
+			<string>Success through the normal mode of chemical factory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>24</integer>
+			<key>origin</key>
+			<string>成功通过普通模式丧尸森林</string>
+			<key>translate</key>
+			<string>Success through normal mode zombie forest</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>25</integer>
+			<key>origin</key>
+			<string>成功通过普通模式死亡城市</string>
+			<key>translate</key>
+			<string>Success through the normal mode of death</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>26</integer>
+			<key>origin</key>
+			<string>成功通过普通模式实验地堡</string>
+			<key>translate</key>
+			<string>Success through the normal mode experiment bunker</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>27</integer>
+			<key>origin</key>
+			<string>5个关卡达到S评级</string>
+			<key>translate</key>
+			<string>Five levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>28</integer>
+			<key>origin</key>
+			<string>10个关卡达到S评级</string>
+			<key>translate</key>
+			<string>10 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>29</integer>
+			<key>origin</key>
+			<string>15个关卡达到S评级</string>
+			<key>translate</key>
+			<string>15 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>30</integer>
+			<key>origin</key>
+			<string>20个关卡达到S评级</string>
+			<key>translate</key>
+			<string>20 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>31</integer>
+			<key>origin</key>
+			<string>25个关卡达到S评级</string>
+			<key>translate</key>
+			<string>25 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>32</integer>
+			<key>origin</key>
+			<string>30个关卡达到S评级</string>
+			<key>translate</key>
+			<string>30 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>33</integer>
+			<key>origin</key>
+			<string>35个关卡达到S评级</string>
+			<key>translate</key>
+			<string>35 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>34</integer>
+			<key>origin</key>
+			<string>40个关卡达到S评级</string>
+			<key>translate</key>
+			<string>40 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>35</integer>
+			<key>origin</key>
+			<string>45个关卡达到S评级</string>
+			<key>translate</key>
+			<string>45 reach S rating level</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>36</integer>
+			<key>origin</key>
+			<string>50个关卡达到S评级</string>
+			<key>translate</key>
+			<string>50 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>37</integer>
+			<key>origin</key>
+			<string>55个关卡达到S评级</string>
+			<key>translate</key>
+			<string>55 reach S rating level</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>38</integer>
+			<key>origin</key>
+			<string>60个关卡达到S评级</string>
+			<key>translate</key>
+			<string>60 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>39</integer>
+			<key>origin</key>
+			<string>65个关卡达到S评级</string>
+			<key>translate</key>
+			<string>65 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>40</integer>
+			<key>origin</key>
+			<string>70个关卡达到S评级</string>
+			<key>translate</key>
+			<string>70 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>41</integer>
+			<key>origin</key>
+			<string>75个关卡达到S评级</string>
+			<key>translate</key>
+			<string>75 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>42</integer>
+			<key>origin</key>
+			<string>80个关卡达到S评级</string>
+			<key>translate</key>
+			<string>80 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>43</integer>
+			<key>origin</key>
+			<string>85个关卡达到S评级</string>
+			<key>translate</key>
+			<string>85 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>44</integer>
+			<key>origin</key>
+			<string>90个关卡达到S评级</string>
+			<key>translate</key>
+			<string>90 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>45</integer>
+			<key>origin</key>
+			<string>95个关卡达到S评级</string>
+			<key>translate</key>
+			<string>95 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>46</integer>
+			<key>origin</key>
+			<string>100个关卡达到S评级</string>
+			<key>translate</key>
+			<string>100 levels reach S rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>47</integer>
+			<key>origin</key>
+			<string>成功通过普通模式恐怖密林</string>
+			<key>translate</key>
+			<string>Success through normal mode terrorist jungle</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>48</integer>
+			<key>origin</key>
+			<string>成功通过普通模式南部城市</string>
+			<key>translate</key>
+			<string>Through the normal mode in the southern city of success</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>49</integer>
+			<key>origin</key>
+			<string>成功通过地狱模式废弃都市</string>
+			<key>translate</key>
+			<string>Success through hell mode abandoned city</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>50</integer>
+			<key>origin</key>
+			<string>成功通过地狱模式迷失丛林</string>
+			<key>translate</key>
+			<string>Success through hell mode lost in the jungle</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>51</integer>
+			<key>origin</key>
+			<string>成功通过地狱模式幽暗仓库</string>
+			<key>translate</key>
+			<string>Success through hell mode dim warehouse</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>52</integer>
+			<key>origin</key>
+			<string>成功通过地狱模式破旧车站</string>
+			<key>translate</key>
+			<string>Success through hell mode old station</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>53</integer>
+			<key>origin</key>
+			<string>成功通过地狱模式化学工厂</string>
+			<key>translate</key>
+			<string>Success through hell mode chemical plant</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>54</integer>
+			<key>origin</key>
+			<string>成功通过地狱模式丧尸森林</string>
+			<key>translate</key>
+			<string>Success through hell mode zombie forest</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>55</integer>
+			<key>origin</key>
+			<string>成功通过地狱模式死亡城市</string>
+			<key>translate</key>
+			<string>Patterns of success through hell death</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>56</integer>
+			<key>origin</key>
+			<string>成功通过地狱模式实验地堡</string>
+			<key>translate</key>
+			<string>Success through the hell mode experiment bunker</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>57</integer>
+			<key>origin</key>
+			<string>成功通过地狱模式恐怖密林</string>
+			<key>translate</key>
+			<string>Success through hell mode terrorist jungle</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>58</integer>
+			<key>origin</key>
+			<string>成功通过地狱模式南部城市</string>
+			<key>translate</key>
+			<string>Through hell mode in the southern city of success</string>
+		</dict>
+	</array>
+</dict>
+</plist>

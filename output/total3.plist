@@ -1,0 +1,3203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TalkInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>Tomas，你已经被困在了被感染的51实验室，赶紧逃离这里！</string>
+			<key>translate</key>
+			<string>Tomas, you have been trapped in the infected 51 laboratory, hurriedly escape from here!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>我会指引你离开这个危险的地方，按照我说的做！</string>
+			<key>translate</key>
+			<string>I will show you to leave the dangerous place, do as I say!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>滑动这里就可以实现左右移动！走到指定位置吧！</string>
+			<key>translate</key>
+			<string>Sliding around here can realize mobile! Go to the designated position!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>点击这里就会攻击僵尸，试着消灭前面的僵尸吧！</string>
+			<key>translate</key>
+			<string>Click here will attack zombies, try to eliminate the previous zombies!!!!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>点击这里就能跳跃，试着跳到前面的高台吧！</string>
+			<key>translate</key>
+			<string>Click here to jump, try to jump in front of the tower!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>连续点击可以实现二连跳，试着跳到更高的高台上吧！</string>
+			<key>translate</key>
+			<string>Continuous click can achieve another jump, try to jump to a higher platform!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>小心，当你附近出现僵尸时，击退它们！</string>
+			<key>translate</key>
+			<string>Be careful, when you are near a zombie, beat them!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>受伤了吧，点击这里可以补充生命！</string>
+			<key>translate</key>
+			<string>Injured, click here to add life!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>又一群僵尸来袭，试试手雷，点击这里就可投掷！</string>
+			<key>translate</key>
+			<string>A group of zombies coming again, try grenades, click here to throw!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>通过前面这里，距离实验室出口已经不远了。</string>
+			<key>translate</key>
+			<string>Laboratory export through here, in front of the distance is not far off.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>点击这里就可以进入到地图页面！</string>
+			<key>translate</key>
+			<string>Click here to get into to the map page!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>点击这里就可以进入到武器库页面！</string>
+			<key>translate</key>
+			<string>Click here to get into the armory page!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>这里就是武器库的页面，所有的武器道具都在这里展示。</string>
+			<key>translate</key>
+			<string>This is Arsenal's page, all of the weapons props are shown here.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>上下滑动这里就可以看到更多的武器！</string>
+			<key>translate</key>
+			<string>You can see more weapons slide up and down here!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>点击上方不同的按键就可以切换到其他的类别，试着选择枪械吧！</string>
+			<key>translate</key>
+			<string>Click on the above different buttons you can switch to other categories, try to choose gun!!!!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>试着购买一把新的武器。</string>
+			<key>translate</key>
+			<string>Try to buy a new weapon.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>不错，战斗力上升了很多。</string>
+			<key>translate</key>
+			<string>Good, fighting capacity increased a lot.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>好了，可以装备这把新的武器了。</string>
+			<key>translate</key>
+			<string>Ok, can be equipped with this new weapon.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>多准备点弹药，有备无患啊。</string>
+			<key>translate</key>
+			<string>Prepare more ammunition, readiness is all.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>点击这里就可以回到地图页面了。</string>
+			<key>translate</key>
+			<string>Click here to return to the map page.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>这里就是地图页面，可以通过这里进到游戏中。</string>
+			<key>translate</key>
+			<string>Here is the map page, can pass into the game here.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>24</integer>
+			<key>origin</key>
+			<string>点击这里就可以选择你想进入的关卡。</string>
+			<key>translate</key>
+			<string>Here you can choose you want to enter the gate.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>25</integer>
+			<key>origin</key>
+			<string>战斗前可以获得一些加成的道具，试着购买一个吧。</string>
+			<key>translate</key>
+			<string>Before the battle can get some bonus items, try to buy one.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>26</integer>
+			<key>origin</key>
+			<string>运气很不错哦，那么我们开始游戏吧。</string>
+			<key>translate</key>
+			<string>Luck is very good oh, so let's start the game.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>27</integer>
+			<key>origin</key>
+			<string>这里显示的就是关卡目标哦，要时刻注意。</string>
+			<key>translate</key>
+			<string>Shown here is the mission objectives oh, always pay attention to.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>28</integer>
+			<key>origin</key>
+			<string>点击这里就可以切换武器。</string>
+			<key>translate</key>
+			<string>Click here to switch weapons.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>29</integer>
+			<key>origin</key>
+			<string>生存关，你会持续的被毒气攻击掉血，注意自己的血量。</string>
+			<key>translate</key>
+			<string>Survival level, you will continue to poison gas attacks off the blood, pay attention to your health.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>30</integer>
+			<key>origin</key>
+			<string>消灭头上带有血瓶的怪物会补充生命。</string>
+			<key>translate</key>
+			<string>Kill the monster head with a bottle of blood will make up life.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>31</integer>
+			<key>origin</key>
+			<string>坚持一定的时间你就会胜利。</string>
+			<key>translate</key>
+			<string>Keep a certain amount of time you will win.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>32</integer>
+			<key>origin</key>
+			<string>突防关，躲过或者消灭挡住去路的僵尸。</string>
+			<key>translate</key>
+			<string>Penetration, avoid or eliminate the obstacle of zombies.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>33</integer>
+			<key>origin</key>
+			<string>规定时间内到达终点就会胜利。</string>
+			<key>translate</key>
+			<string>Victory will reach the destination within the prescribed time.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>34</integer>
+			<key>origin</key>
+			<string>寻宝关，找到指示所标记的宝箱。</string>
+			<key>translate</key>
+			<string>Treasure, the treasure chest that find instructions marked.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>35</integer>
+			<key>origin</key>
+			<string>找到全部标记的宝箱，就可以胜利通过关卡。</string>
+			<key>translate</key>
+			<string>Find a treasure chest of all tags, you can win through checkpoints.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>36</integer>
+			<key>origin</key>
+			<string>通缉关，跟着指示找到头上标示“通缉”的僵尸并将其消灭。</string>
+			<key>translate</key>
+			<string>Wanted to close, follow the instructions to find the head of "most wanted" zombie and destroy it.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>37</integer>
+			<key>origin</key>
+			<string>消灭全部通缉僵尸，就可以胜利通过关卡。</string>
+			<key>translate</key>
+			<string>Eliminating all wanted a zombie, you can win through checkpoints.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>38</integer>
+			<key>origin</key>
+			<string>在线奖励，在线到达一定时间就会获得对应的奖励。</string>
+			<key>translate</key>
+			<string>Online rewards, online at some time you will get the corresponding reward.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>39</integer>
+			<key>origin</key>
+			<string>活跃奖励，活跃值到达100点就可以免费抽取1次奖励。</string>
+			<key>translate</key>
+			<string>Active, active value reached 100 points can extract 1 time for free.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>40</integer>
+			<key>origin</key>
+			<string>奖励里面没有自己想要的，点击这里就可以刷新奖励。</string>
+			<key>translate</key>
+			<string>Reward does not have what you want, click here to refresh the reward.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>41</integer>
+			<key>origin</key>
+			<string>点击这里就可以抽奖了。</string>
+			<key>translate</key>
+			<string>Click here to draw.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>42</integer>
+			<key>origin</key>
+			<string>手气不错哦，点击这里可以看到哪些内容可以增加活力值。</string>
+			<key>translate</key>
+			<string>I'm feeling lucky oh, click here to see what can increase the energy values.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>43</integer>
+			<key>origin</key>
+			<string>好了，你已经清楚了怎么抽奖了，赶快去获得活力吧。</string>
+			<key>translate</key>
+			<string>Well, you already know how to draw, hurry to get energy.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>44</integer>
+			<key>origin</key>
+			<string>每日任务，完成单个任务获得金币，完成全部任务获得钻石。</string>
+			<key>translate</key>
+			<string>Daily tasks, a single task for gold, to complete all tasks for diamonds.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>45</integer>
+			<key>origin</key>
+			<string>成就奖励，完成成就会获得钻石奖励，完成越多奖励越多。</string>
+			<key>translate</key>
+			<string>Achievement award, complete achievement will get diamond awards, completed the more the more rewarding.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>46</integer>
+			<key>origin</key>
+			<string>欢迎再次来到武器库，下面给你介绍另外一种获得武器的方式。</string>
+			<key>translate</key>
+			<string>Welcome once again to Arsenal, here introduce to you the other one way to get weapons.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>47</integer>
+			<key>origin</key>
+			<string>请拖动找到散弹枪。</string>
+			<key>translate</key>
+			<string>Please find shotguns drag.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>48</integer>
+			<key>origin</key>
+			<string>找到这把新的武器，并选择它。</string>
+			<key>translate</key>
+			<string>Find this new weapons, and select it.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>49</integer>
+			<key>origin</key>
+			<string>这里显示的是该武器的部件获得情况。</string>
+			<key>translate</key>
+			<string>Shown here is the parts for the weapon.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>50</integer>
+			<key>origin</key>
+			<string>获得该武器的全部部件就可以获得这把武器，点击获得。</string>
+			<key>translate</key>
+			<string>Get all the parts of the weapon you can gain this weapon, click.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>51</integer>
+			<key>origin</key>
+			<string>恭喜你获得了新的武器，继续虐杀僵尸吧！</string>
+			<key>translate</key>
+			<string>Congratulations you won the new weapons, and continue to kill zombies!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>52</integer>
+			<key>origin</key>
+			<string>快跑Tomas，他们就要追过来了！</string>
+			<key>translate</key>
+			<string>Run Tomas, they will follow!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>53</integer>
+			<key>origin</key>
+			<string>谢谢你救了我。</string>
+			<key>translate</key>
+			<string>Thank you for saving me.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>54</integer>
+			<key>origin</key>
+			<string>快跑，别说那么多了。</string>
+			<key>translate</key>
+			<string>Run fast, don't say so much.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>55</integer>
+			<key>origin</key>
+			<string>快点穿过这街道，我们得快点逃离这里。</string>
+			<key>translate</key>
+			<string>Hurry up through the streets, we have to move out of here.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>56</integer>
+			<key>origin</key>
+			<string>放心吧，有我在呢。</string>
+			<key>translate</key>
+			<string>Don't worry, have me in?</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>57</integer>
+			<key>origin</key>
+			<string>这里就是高墙了，穿越它我们就能抵达城市中心了。</string>
+			<key>translate</key>
+			<string>Here it is the high walls, through which we could have arrived in the city center.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>59</integer>
+			<key>origin</key>
+			<string>我们在这里休息一下吧。</string>
+			<key>translate</key>
+			<string>We are here to have a rest.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>60</integer>
+			<key>origin</key>
+			<string>嗯，我去找找补给。</string>
+			<key>translate</key>
+			<string>Well, I look for supplies.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>61</integer>
+			<key>origin</key>
+			<string>不好他们追来了。</string>
+			<key>translate</key>
+			<string>Bad they chase.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>62</integer>
+			<key>origin</key>
+			<string>.........</string>
+			<key>translate</key>
+			<string>.........</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>63</integer>
+			<key>origin</key>
+			<string>终于到了快速通道，我们马上就能离开这城市了。</string>
+			<key>translate</key>
+			<string>Finally to fast-track, we'll be able to leave this city.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>64</integer>
+			<key>origin</key>
+			<string>别开心得太早。我有一股不详的预感。</string>
+			<key>translate</key>
+			<string>Don't happy too early. I have a premonition of unknown.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>65</integer>
+			<key>origin</key>
+			<string>吼~~吼~~吼~~吼~~嗷！</string>
+			<key>translate</key>
+			<string>Shout ~ ~ roar ~ ~ shout ~ ~ roar ~ ~ ao!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>66</integer>
+			<key>origin</key>
+			<string>听到什么声音了吗。我好害怕。</string>
+			<key>translate</key>
+			<string>Hear what sound? I'm afraid.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>67</integer>
+			<key>origin</key>
+			<string>没事有我在呢。</string>
+			<key>translate</key>
+			<string>Ok I have here.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>68</integer>
+			<key>origin</key>
+			<string>去死吧！！！！！！</string>
+			<key>translate</key>
+			<string>Go to hell!!!!!!!!!!!!!!!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>69</integer>
+			<key>origin</key>
+			<string>刚才真是一场恶战啊，你没受伤吧。</string>
+			<key>translate</key>
+			<string>It was a battle, you didn't hurt.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>70</integer>
+			<key>origin</key>
+			<string>小事一桩。</string>
+			<key>translate</key>
+			<string>A piece of cake.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>71</integer>
+			<key>origin</key>
+			<string>好像有什么动静。</string>
+			<key>translate</key>
+			<string>If have any.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>72</integer>
+			<key>origin</key>
+			<string>不好他们追来了，快进森林。</string>
+			<key>translate</key>
+			<string>Bad they chased come, quickly into the forest.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>73</integer>
+			<key>origin</key>
+			<string>快进丛林深处躲躲。</string>
+			<key>translate</key>
+			<string>Quickly hid hide deep into the jungle.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>74</integer>
+			<key>origin</key>
+			<string>嗯，跟紧我，别走散了。</string>
+			<key>translate</key>
+			<string>Well, with me tight, don't lost.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>75</integer>
+			<key>origin</key>
+			<string>这里应该安全了吧。</string>
+			<key>translate</key>
+			<string>Here should be safe.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>76</integer>
+			<key>origin</key>
+			<string>不能掉以轻心，我们去灌木丛看看。</string>
+			<key>translate</key>
+			<string>Cannot treat STH lightly, we go to brush.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>77</integer>
+			<key>origin</key>
+			<string>嗯，我会保护你。</string>
+			<key>translate</key>
+			<string>Well, I will protect you.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>78</integer>
+			<key>origin</key>
+			<string>哇，这里好漂亮。</string>
+			<key>translate</key>
+			<string>Wow, what a beautiful here.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>79</integer>
+			<key>origin</key>
+			<string>现在还有心情欣赏风景，快点走吧。</string>
+			<key>translate</key>
+			<string>And enjoy the scenery mood now, hurry up go.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>80</integer>
+			<key>origin</key>
+			<string>真没情趣。</string>
+			<key>translate</key>
+			<string>Really no interest.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>81</integer>
+			<key>origin</key>
+			<string>终于到了丛林深处了。应该安全了。</string>
+			<key>translate</key>
+			<string>Finally to the deep forest. Should be safe.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>82</integer>
+			<key>origin</key>
+			<string>那里好像有什么，我们过去看看。</string>
+			<key>translate</key>
+			<string>There seems to have what, we used to have a look.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>83</integer>
+			<key>origin</key>
+			<string>这是什么怪物？</string>
+			<key>translate</key>
+			<string>What is this monster?</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>84</integer>
+			<key>origin</key>
+			<string>不管是什么在我面前都是浮云。</string>
+			<key>translate</key>
+			<string>No matter what is floating clouds in front of me.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>85</integer>
+			<key>origin</key>
+			<string>嚎~嚎!!!</string>
+			<key>translate</key>
+			<string>Cry ~ cry!!!!!!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>86</integer>
+			<key>origin</key>
+			<string>啊~~！！！</string>
+			<key>translate</key>
+			<string>Ah ~ ~!!!!!!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>87</integer>
+			<key>origin</key>
+			<string>你没事吧，要不要抱抱。</string>
+			<key>translate</key>
+			<string>Are you ok, do you want to hug.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>88</integer>
+			<key>origin</key>
+			<string>去死。快看，前面有个仓库，我们进去休息一下。</string>
+			<key>translate</key>
+			<string>Go to hell. Look, the front have a warehouse, we go to have a rest.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>89</integer>
+			<key>origin</key>
+			<string>好，我来开路。</string>
+			<key>translate</key>
+			<string>Well, let me open.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>90</integer>
+			<key>origin</key>
+			<string>这仓库外墙真高。</string>
+			<key>translate</key>
+			<string>It's a high wall outside warehouse.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>91</integer>
+			<key>origin</key>
+			<string>里面应该很安全，我们去看看。</string>
+			<key>translate</key>
+			<string>It should be very safe, let's go and see.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>92</integer>
+			<key>origin</key>
+			<string>没想到里面的僵尸更凶猛。</string>
+			<key>translate</key>
+			<string>Didn't think the inside of the zombie is more fierce.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>93</integer>
+			<key>origin</key>
+			<string>是啊，现在进退两难了。</string>
+			<key>translate</key>
+			<string>Yes, now in a dilemma.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>94</integer>
+			<key>origin</key>
+			<string>继续前进吧。</string>
+			<key>translate</key>
+			<string>Move on.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>95</integer>
+			<key>origin</key>
+			<string>看那边好像是出口了。</string>
+			<key>translate</key>
+			<string>Look over there seems to be exported.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>96</integer>
+			<key>origin</key>
+			<string>嗯，一口气冲过去。</string>
+			<key>translate</key>
+			<string>Well, a sigh of relief rushed past.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>97</integer>
+			<key>origin</key>
+			<string>终于出来了呢。</string>
+			<key>translate</key>
+			<string>Finally come out?</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>98</integer>
+			<key>origin</key>
+			<string>是啊，前面有个废弃车站。我们过去瞧瞧。</string>
+			<key>translate</key>
+			<string>Yes, in front of a station. We used to look at.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>99</integer>
+			<key>origin</key>
+			<string>怎么突然烟雾缭绕。</string>
+			<key>translate</key>
+			<string>How suddenly of cigarette smoke.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>100</integer>
+			<key>origin</key>
+			<string>快看，又有一个奇葩的怪物。</string>
+			<key>translate</key>
+			<string>Look, there is a wonderful work of the monster.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>101</integer>
+			<key>origin</key>
+			<string>肉新鲜的肉！！！</string>
+			<key>translate</key>
+			<string>Fresh meat!!!!!!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>102</integer>
+			<key>origin</key>
+			<string>我们什么仇，什么怨啊？</string>
+			<key>translate</key>
+			<string>What our enemies, hatred?</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>103</integer>
+			<key>origin</key>
+			<string>刚才真是惊险呢，不过我们还是顺利逃脱了。</string>
+			<key>translate</key>
+			<string>It was thrilling, but we still got away.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>104</integer>
+			<key>origin</key>
+			<string>我去前面看看。。。</string>
+			<key>translate</key>
+			<string>Let me check the front...</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>105</integer>
+			<key>origin</key>
+			<string>这里僵尸也不少啊。</string>
+			<key>translate</key>
+			<string>Zombies are here.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>106</integer>
+			<key>origin</key>
+			<string>是啊，我们不能大意。</string>
+			<key>translate</key>
+			<string>Yes, we can't careless.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>107</integer>
+			<key>origin</key>
+			<string>前面那辆车好像可以用。</string>
+			<key>translate</key>
+			<string>If can use the car in front.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>108</integer>
+			<key>origin</key>
+			<string>嗯，我们过去看看。</string>
+			<key>translate</key>
+			<string>Well, we look at the past.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>109</integer>
+			<key>origin</key>
+			<string>可恶，僵尸太多了，车被包围了。</string>
+			<key>translate</key>
+			<string>Damn, there are too many zombies, car was surrounded.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>110</integer>
+			<key>origin</key>
+			<string>看，那边有条路口我们一口气冲过去吧。</string>
+			<key>translate</key>
+			<string>Look, there are roads, let's relief rushed over.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>111</integer>
+			<key>origin</key>
+			<string>嗯，那里看上去很安全。</string>
+			<key>translate</key>
+			<string>Well, look very safe there.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>112</integer>
+			<key>origin</key>
+			<string>终于摆脱他们了。</string>
+			<key>translate</key>
+			<string>Finally get rid of them.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>113</integer>
+			<key>origin</key>
+			<string>是啊，我们去周围看看。</string>
+			<key>translate</key>
+			<string>Yes, we went to look around.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>114</integer>
+			<key>origin</key>
+			<string>你是谁？让我们过去。</string>
+			<key>translate</key>
+			<string>Who are you? Let us in the past.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>115</integer>
+			<key>origin</key>
+			<string>你的血肉正在绽放。放弃抵抗吧。</string>
+			<key>translate</key>
+			<string>Your flesh is bursting. Give up resistance.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>116</integer>
+			<key>origin</key>
+			<string>就凭你？</string>
+			<key>translate</key>
+			<string>With you?</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>117</integer>
+			<key>origin</key>
+			<string>前面有座工厂，我们过去看看。</string>
+			<key>translate</key>
+			<string>In front of factories, we used to have a look.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>118</integer>
+			<key>origin</key>
+			<string>嗯，前面还不知道有多少危险。</string>
+			<key>translate</key>
+			<string>Well, also don't know how many danger ahead.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>119</integer>
+			<key>origin</key>
+			<string>这工厂的僵尸比之前更厉害了。</string>
+			<key>translate</key>
+			<string>This factory zombie is worse than before.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>120</integer>
+			<key>origin</key>
+			<string>看我来虐杀他们。</string>
+			<key>translate</key>
+			<string>Look at me to kill them.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>121</integer>
+			<key>origin</key>
+			<string>我厉害吧，嘿嘿。</string>
+			<key>translate</key>
+			<string>Me, hey hey.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>122</integer>
+			<key>origin</key>
+			<string>别大意，看前面还有好多僵尸。</string>
+			<key>translate</key>
+			<string>Don't be careless, there are a lot of zombie before.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>123</integer>
+			<key>origin</key>
+			<string>这味道真难闻。</string>
+			<key>translate</key>
+			<string>It tastes so bad.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>124</integer>
+			<key>origin</key>
+			<string>是啊，我都想要吐了。</string>
+			<key>translate</key>
+			<string>Yes, I want to throw up.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>125</integer>
+			<key>origin</key>
+			<string>我们快点出去吧。</string>
+			<key>translate</key>
+			<string>Let's hurry up go out.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>126</integer>
+			<key>origin</key>
+			<string>嗯！</string>
+			<key>translate</key>
+			<string>Well!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>127</integer>
+			<key>origin</key>
+			<string>看到大门了。</string>
+			<key>translate</key>
+			<string>See the door.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>128</integer>
+			<key>origin</key>
+			<string>嗯，马上就能逃离这了。</string>
+			<key>translate</key>
+			<string>Well, can escape from this in a minute.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>129</integer>
+			<key>origin</key>
+			<string>前面好像有毒气。</string>
+			<key>translate</key>
+			<string>The front there seems to be a deadly poison.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>130</integer>
+			<key>origin</key>
+			<string>放开你旁边的妹子，就饶你不死。</string>
+			<key>translate</key>
+			<string>Let go of next to your sister, will let you die.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>131</integer>
+			<key>origin</key>
+			<string>听腻了，你不累吗？</string>
+			<key>translate</key>
+			<string>Don't get tired, you tired?</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>132</integer>
+			<key>origin</key>
+			<string>小心啊！</string>
+			<key>translate</key>
+			<string>Be careful!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>133</integer>
+			<key>origin</key>
+			<string>相比那恶臭的工厂我更喜欢这森林。</string>
+			<key>translate</key>
+			<string>The stench of factory I prefer this forest.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>134</integer>
+			<key>origin</key>
+			<string>你看看前面，你还喜欢吗？</string>
+			<key>translate</key>
+			<string>You look at the front, you also like it?</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>136</integer>
+			<key>origin</key>
+			<string>到处都是这些恶心的生物。</string>
+			<key>translate</key>
+			<string>These disgusting creatures are everywhere.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>137</integer>
+			<key>origin</key>
+			<string>我已经见惯不怪了。</string>
+			<key>translate</key>
+			<string>I have been accustomed.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>138</integer>
+			<key>origin</key>
+			<string>先往北边走。我们一定要找到并摧毁这组织。</string>
+			<key>translate</key>
+			<string>Go north on first. We must find and destroy the group.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>139</integer>
+			<key>origin</key>
+			<string>那还用说。</string>
+			<key>translate</key>
+			<string>You bet.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>140</integer>
+			<key>origin</key>
+			<string>这里僵尸越来越多了。</string>
+			<key>translate</key>
+			<string>There are a lot more zombies.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>141</integer>
+			<key>origin</key>
+			<string>也越来越厉害了。</string>
+			<key>translate</key>
+			<string>Also more and more severe.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>142</integer>
+			<key>origin</key>
+			<string>再坚持一下，我们就要到了。</string>
+			<key>translate</key>
+			<string>Hold on a minute, we is coming.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>143</integer>
+			<key>origin</key>
+			<string>包在我身上。</string>
+			<key>translate</key>
+			<string>Package to me.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>144</integer>
+			<key>origin</key>
+			<string>怎么感觉我们进了僵尸窝了。</string>
+			<key>translate</key>
+			<string>How to feel we went into the zombie nest.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>145</integer>
+			<key>origin</key>
+			<string>是啊，我有一种不详的预感。</string>
+			<key>translate</key>
+			<string>Yes, I have a premonition of unknown.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>146</integer>
+			<key>origin</key>
+			<string>啊~~</string>
+			<key>translate</key>
+			<string>Ah ~ ~</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>147</integer>
+			<key>origin</key>
+			<string>Lucy?你在哪？发生什么了？</string>
+			<key>translate</key>
+			<string>Lucy? Where are you? What happened?</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>148</integer>
+			<key>origin</key>
+			<string>救我!我~~~我~~啊~~！</string>
+			<key>translate</key>
+			<string>Save me! I ~ ~ ~ I ~ ~ ~ ~!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>149</integer>
+			<key>origin</key>
+			<string>Lucy！！！不！！！！！！！！</string>
+			<key>translate</key>
+			<string>Lucy!!!!!! No!!!!!!!!!!!!!!!!!!!!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>150</integer>
+			<key>origin</key>
+			<string>嗷！嗷！</string>
+			<key>translate</key>
+			<string>Ouch! Ouch!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>151</integer>
+			<key>origin</key>
+			<string>嗷你妹，快滚。</string>
+			<key>translate</key>
+			<string>Ao you younger sister, get out.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>152</integer>
+			<key>origin</key>
+			<string>等着我，我马上就来救你。</string>
+			<key>translate</key>
+			<string>Wait for me, I'll be right there to save you.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>153</integer>
+			<key>origin</key>
+			<string>你们这些怪物，别挡我路。</string>
+			<key>translate</key>
+			<string>You monster, get out my way.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>154</integer>
+			<key>origin</key>
+			<string>这是Lucy的手帕，看来我没有走错路。</string>
+			<key>translate</key>
+			<string>This is Lucy's handkerchief, it seems that I didn't go wrong.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>155</integer>
+			<key>origin</key>
+			<string>是我不好，我没能保护好你。</string>
+			<key>translate</key>
+			<string>Is my bad, I can't protect you.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>156</integer>
+			<key>origin</key>
+			<string>来吧，你们这群废物。</string>
+			<key>translate</key>
+			<string>Come on, you this group of waste.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>157</integer>
+			<key>origin</key>
+			<string>看似很着急呢，呵呵！</string>
+			<key>translate</key>
+			<string>Seemingly very worry about it, hehe!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>158</integer>
+			<key>origin</key>
+			<string>居然呵呵我，快说Lucy在哪！</string>
+			<key>translate</key>
+			<string>Ha ha, I, quick say where is Lucy!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>159</integer>
+			<key>origin</key>
+			<string>你猜^.^？</string>
+			<key>translate</key>
+			<string>You guess ^. ^?</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>160</integer>
+			<key>origin</key>
+			<string>！！！！！找死！</string>
+			<key>translate</key>
+			<string>!!!!!!!!!!!!!! Curry!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>161</integer>
+			<key>origin</key>
+			<string>看来这里就是他们的基地了。</string>
+			<key>translate</key>
+			<string>It seems that here is their base.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>162</integer>
+			<key>origin</key>
+			<string>这里的僵尸比之前的更厉害了，我一定要小心。</string>
+			<key>translate</key>
+			<string>The zombie is greater than before, I must be careful.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>163</integer>
+			<key>origin</key>
+			<string>Lucy，我一定会救你出来，你不会有事的。</string>
+			<key>translate</key>
+			<string>Lucy, I will surely save you out, you will be fine.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>164</integer>
+			<key>origin</key>
+			<string>你们阻止不了我的愤怒，你们这群白痴。</string>
+			<key>translate</key>
+			<string>You will not stop me from anger, you this group of an idiot.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>165</integer>
+			<key>origin</key>
+			<string>终于，最终的决战。Lucy我来了。</string>
+			<key>translate</key>
+			<string>Finally, the final decisive battle. Lucy I'm coming.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>166</integer>
+			<key>origin</key>
+			<string>Lucy！</string>
+			<key>translate</key>
+			<string>Lucy !</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>167</integer>
+			<key>origin</key>
+			<string>哎哟，不错噢，居然能到这里。</string>
+			<key>translate</key>
+			<string>Oh, good oh, can I get to here.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>168</integer>
+			<key>origin</key>
+			<string>废话少说我这就要取你狗命。</string>
+			<key>translate</key>
+			<string>Cut the crap that I will take you there.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>169</integer>
+			<key>origin</key>
+			<string>我好怕噢。真的好怕，吓死我了。</string>
+			<key>translate</key>
+			<string>I'm afraid of oh. Really good afraid of, scared me to death.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>170</integer>
+			<key>origin</key>
+			<string>我的愤怒早已饥渴难耐！</string>
+			<key>translate</key>
+			<string>My anger had ravenous!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>171</integer>
+			<key>origin</key>
+			<string>你没事吧，没有受伤吧。</string>
+			<key>translate</key>
+			<string>Are you ok, not injured.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>172</integer>
+			<key>origin</key>
+			<string>没事，还好你来的及时。</string>
+			<key>translate</key>
+			<string>That's ok, I'm glad you in a timely manner.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>173</integer>
+			<key>origin</key>
+			<string>走吧，我会照顾你一辈子，不会再让你受伤。</string>
+			<key>translate</key>
+			<string>Let's go, I will take care of you for a lifetime, won't let you get hurt again.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>174</integer>
+			<key>origin</key>
+			<string>。。。我会跟着你。</string>
+			<key>translate</key>
+			<string>... I will follow you.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>175</integer>
+			<key>origin</key>
+			<string>前面有一把武器，争取过来，对你闯过实验室有帮助</string>
+			<key>translate</key>
+			<string>In front of a pair of arms,, help you through the lab</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>176</integer>
+			<key>origin</key>
+			<string>顿时高大上了，快试试它的火力吧！</string>
+			<key>translate</key>
+			<string>Immediately on the tall, quick fire try it!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>177</integer>
+			<key>origin</key>
+			<string>终于到这里了，前面就可以闯过实验室了，这是对你的奖励！</string>
+			<key>translate</key>
+			<string>Finally here, in front of the can through laboratory, this is your reward!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>178</integer>
+			<key>origin</key>
+			<string>还不错，继续往前走吧！</string>
+			<key>translate</key>
+			<string>Well, continue to go forward!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>179</integer>
+			<key>origin</key>
+			<string>看到刚刚买到的武器了，试着换一下。</string>
+			<key>translate</key>
+			<string>See just to buy weapons, and try to change.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>180</integer>
+			<key>origin</key>
+			<string>确定之后就会获得这把新武器。</string>
+			<key>translate</key>
+			<string>Sure after you will get the new weapon.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>181</integer>
+			<key>origin</key>
+			<string>我们去那片森林里面玩一下吧。</string>
+			<key>translate</key>
+			<string>Let's go and play in the forest.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>182</integer>
+			<key>origin</key>
+			<string>好啊，看你能不能抓住我。</string>
+			<key>translate</key>
+			<string>Ok, see if you can catch me.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>183</integer>
+			<key>origin</key>
+			<string>跑慢点，我感觉有点不对劲。</string>
+			<key>translate</key>
+			<string>Run slowly, I feel something is wrong.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>184</integer>
+			<key>origin</key>
+			<string>Lucy！你在哪？快出来！</string>
+			<key>translate</key>
+			<string>Lucy! Where are you? Get out!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>185</integer>
+			<key>origin</key>
+			<string>快救我，这里又出现了好多僵尸啊！</string>
+			<key>translate</key>
+			<string>Save me quickly, there appeared a lot of zombie!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>186</integer>
+			<key>origin</key>
+			<string>没事吧，跟紧我！</string>
+			<key>translate</key>
+			<string>Ok, follow me tight!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>187</integer>
+			<key>origin</key>
+			<string>嗯！这里感觉好阴森啊！</string>
+			<key>translate</key>
+			<string>Well! This feeling is very dark!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>188</integer>
+			<key>origin</key>
+			<string>这里的僵尸越来越厉害了，我们一起冲出去！</string>
+			<key>translate</key>
+			<string>Here the zombie is becoming more and more severe, we rush out together!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>189</integer>
+			<key>origin</key>
+			<string>我好像看到了什么东西！</string>
+			<key>translate</key>
+			<string>I think I saw something!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>190</integer>
+			<key>origin</key>
+			<string>什么都不用怕，别担心了。</string>
+			<key>translate</key>
+			<string>What all need not be afraid, don't worry about it.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>191</integer>
+			<key>origin</key>
+			<string>这里有股好强的腐肉味。</string>
+			<key>translate</key>
+			<string>Here's to outdo others rotten meat.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>192</integer>
+			<key>origin</key>
+			<string>新鲜的肉，呜哇~~哈哈哈哈哈！好~~饿！</string>
+			<key>translate</key>
+			<string>Fresh meat, whoa ~ ~ ha ha ha ha ha! Good ~ ~ hungry!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>193</integer>
+			<key>origin</key>
+			<string>好恶心的臭胖子，你该洗澡了！</string>
+			<key>translate</key>
+			<string>Good disgusting odor fatty, you should take a shower!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>194</integer>
+			<key>origin</key>
+			<string>我的心肝脾肺肾都要吐出来了~</string>
+			<key>translate</key>
+			<string>My heart and spleen kidney all want to vomit ~</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>195</integer>
+			<key>origin</key>
+			<string>.。。。。。快走吧，别说了。</string>
+			<key>translate</key>
+			<string>.... Go, don't say.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>196</integer>
+			<key>origin</key>
+			<string>这里感觉也不怎么安全啊。</string>
+			<key>translate</key>
+			<string>Feeling is not very safe here.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>197</integer>
+			<key>origin</key>
+			<string>嗯，我们过去看看。</string>
+			<key>translate</key>
+			<string>Well, we look at the past.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>198</integer>
+			<key>origin</key>
+			<string>小心！</string>
+			<key>translate</key>
+			<string>Be careful!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>199</integer>
+			<key>origin</key>
+			<string>没受伤吧？</string>
+			<key>translate</key>
+			<string>Didn't it hurt?</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>200</integer>
+			<key>origin</key>
+			<string>嗯，我感觉有个怪物一直在跟着我们。</string>
+			<key>translate</key>
+			<string>Well, I feel there is a monster has been with us.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>201</integer>
+			<key>origin</key>
+			<string>别疑神疑鬼了，有我在呢！</string>
+			<key>translate</key>
+			<string>Don't paranoia, have me in!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>202</integer>
+			<key>origin</key>
+			<string>这感觉越来越强烈了。</string>
+			<key>translate</key>
+			<string>This feeling more and more strong.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>203</integer>
+			<key>origin</key>
+			<string>我也感觉到了，好强大的气息！</string>
+			<key>translate</key>
+			<string>I also feel, good strong smell!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>204</integer>
+			<key>origin</key>
+			<string>他就在我们前方，该怎么办？</string>
+			<key>translate</key>
+			<string>He is ahead of us, what should I do?</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>205</integer>
+			<key>origin</key>
+			<string>那还用说，当然是把他打飞啊！</string>
+			<key>translate</key>
+			<string>You bet, of course, is to beat him fly!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>206</integer>
+			<key>origin</key>
+			<string>..........</string>
+			<key>translate</key>
+			<string>..........</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>207</integer>
+			<key>origin</key>
+			<string>试问，绞肉机哪家强？</string>
+			<key>translate</key>
+			<string>Try to ask, which is strong meat grinder?</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>208</integer>
+			<key>origin</key>
+			<string>你猜^.^？</string>
+			<key>translate</key>
+			<string>You guess ^. ^?</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>209</integer>
+			<key>origin</key>
+			<string>呵呵！找死！</string>
+			<key>translate</key>
+			<string>Ha ha! Curry!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>210</integer>
+			<key>origin</key>
+			<string>我觉得这里还有很深的阴谋！</string>
+			<key>translate</key>
+			<string>I think there is deep conspiracy!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>211</integer>
+			<key>origin</key>
+			<string>嗯，这不是结束，而是刚刚开始！</string>
+			<key>translate</key>
+			<string>Well, this is not the end, but just beginning!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>212</integer>
+			<key>origin</key>
+			<string>点击僚机抽取，会有大大的惊喜噢！</string>
+			<key>translate</key>
+			<string>Click the wingman extraction, there will be a big surprise!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>213</integer>
+			<key>origin</key>
+			<string>点击僚机经验卡（小）,以获得僚机小伙伴!</string>
+			<key>translate</key>
+			<string>Click the wingman experience card (small), to obtain a wingman friend!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>214</integer>
+			<key>origin</key>
+			<string>恭喜您获得了僚机，请点击确定领取。</string>
+			<key>translate</key>
+			<string>Congratulations you won the wingman, please click ok to receive.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>215</integer>
+			<key>origin</key>
+			<string>点击退出，返回僚机装备界面。</string>
+			<key>translate</key>
+			<string>Click the exit and return to the interface of wingman equipment.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>216</integer>
+			<key>origin</key>
+			<string>点击僚机，进入僚机界面。</string>
+			<key>translate</key>
+			<string>Click the wingman, wingman into the interface.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>217</integer>
+			<key>origin</key>
+			<string>点击装备，带上僚机一起战斗！</string>
+			<key>translate</key>
+			<string>Click on the equipment, take wingman with fight!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>218</integer>
+			<key>origin</key>
+			<string>点击僚机抽取，可再次进行僚机抽取噢！</string>
+			<key>translate</key>
+			<string>Click the wingman extract, can undertake the wingman extraction again oh!</string>
+		</dict>
+	</array>
+	<key>TaskInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>近战武器消灭100僵尸</string>
+			<key>translate</key>
+			<string>A melee weapon to eliminate 100 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>近战武器消灭300僵尸</string>
+			<key>translate</key>
+			<string>A melee weapon to eliminate 300 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>使用手枪消灭150僵尸</string>
+			<key>translate</key>
+			<string>Use gun kill 150 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>使用手枪消灭350僵尸</string>
+			<key>translate</key>
+			<string>Use gun kill 350 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>使用机枪消灭300僵尸</string>
+			<key>translate</key>
+			<string>Use machine guns kill 300 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>使用机枪消灭500僵尸</string>
+			<key>translate</key>
+			<string>Use machine guns kill 500 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>累计消灭600僵尸</string>
+			<key>translate</key>
+			<string>Eliminate 600 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>累计消灭1000僵尸</string>
+			<key>translate</key>
+			<string>Eliminate 1000 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>3个关卡获得S级评级</string>
+			<key>translate</key>
+			<string>Three levels for the s-class rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>5个关卡获得S级评级</string>
+			<key>translate</key>
+			<string>Five levels for the s-class rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>8个关卡获A以上评级</string>
+			<key>translate</key>
+			<string>Eight levels of the above A rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>10个关卡获A以上评级</string>
+			<key>translate</key>
+			<string>10 levels of the above A rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>武器升级3次</string>
+			<key>translate</key>
+			<string>Weapon upgrades 3 times</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>武器升级4次</string>
+			<key>translate</key>
+			<string>Weapon upgrades for four</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>武器升级5次</string>
+			<key>translate</key>
+			<string>Weapon upgrades to 5 times</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>活跃抽奖抽取3次</string>
+			<key>translate</key>
+			<string>Active lottery draw 3 times</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>活跃抽奖抽取4次</string>
+			<key>translate</key>
+			<string>Active lottery draw four times</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>活跃抽奖抽取5次</string>
+			<key>translate</key>
+			<string>Active lottery draw 5 times</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>活跃抽奖抽取3次</string>
+			<key>translate</key>
+			<string>Active lottery draw 3 times</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>活跃抽奖抽取4次</string>
+			<key>translate</key>
+			<string>Active lottery draw four times</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>武器升级3次</string>
+			<key>translate</key>
+			<string>Weapon upgrades 3 times</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>24</integer>
+			<key>origin</key>
+			<string>使用手枪消灭50僵尸</string>
+			<key>translate</key>
+			<string>Use gun kill 50 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>25</integer>
+			<key>origin</key>
+			<string>使用机枪消灭50僵尸</string>
+			<key>translate</key>
+			<string>Use machine guns kill 50 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>26</integer>
+			<key>origin</key>
+			<string>3个关卡获得S级评级</string>
+			<key>translate</key>
+			<string>Three levels for the s-class rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>27</integer>
+			<key>origin</key>
+			<string>4个关卡获得S级评级</string>
+			<key>translate</key>
+			<string>Four levels for the s-class rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>28</integer>
+			<key>origin</key>
+			<string>5个关卡获得A级评级</string>
+			<key>translate</key>
+			<string>Five levels for A grade rating</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>29</integer>
+			<key>origin</key>
+			<string>累计消灭300僵尸</string>
+			<key>translate</key>
+			<string>Eliminate 300 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>30</integer>
+			<key>origin</key>
+			<string>累计消灭500僵尸</string>
+			<key>translate</key>
+			<string>Eliminate 500 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>31</integer>
+			<key>origin</key>
+			<string>使用近战消灭300僵尸</string>
+			<key>translate</key>
+			<string>Use melee kill 300 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>32</integer>
+			<key>origin</key>
+			<string>携带僚机消灭600僵尸</string>
+			<key>translate</key>
+			<string>Carry a wingman to eliminate 600 zombies</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>33</integer>
+			<key>origin</key>
+			<string>无尽模式到达30层</string>
+			<key>translate</key>
+			<string>Endless mode to reach 30</string>
+		</dict>
+	</array>
+	<key>TipsInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>提升武器星数可以大大提高战力噢！</string>
+			<key>translate</key>
+			<string>Upgrade weapons star number can greatly improve the power oh!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>从高台掉落要小心受伤噢！</string>
+			<key>translate</key>
+			<string>From the tower of be careful fall injury oh!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>击碎箱子会掉落各种道具噢！</string>
+			<key>translate</key>
+			<string>Smash box will drop props oh!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>注意躲避不同的障碍物！</string>
+			<key>translate</key>
+			<string>Pay attention to avoid different obstacles!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>战前装备能让您大幅提高战力噢！</string>
+			<key>translate</key>
+			<string>Before the war equipment enables you to greatly improve power oh!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>手雷可以造成巨大伤害，谁用谁知道！</string>
+			<key>translate</key>
+			<string>Grenades can cause great harm, who used who knows!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>超神器，魂之刃杀怪以后会回血噢！</string>
+			<key>translate</key>
+			<string>Super artifact, the soul of monsters will h. oh!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>升满5星的武器子弹无限！</string>
+			<key>translate</key>
+			<string>L full 5 star weapons bullet infinite!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>获得S级评价可以进行抽牌！</string>
+			<key>translate</key>
+			<string>Get the s-class evaluation can draw!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>无尽杀戮闯过的关卡越多获得奖励越多！</string>
+			<key>translate</key>
+			<string>Endless killing through the more levels more rewarded!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>冰属性武器会让僵尸迟缓！</string>
+			<key>translate</key>
+			<string>Ice attribute weapons will make slow zombies!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>终极武器对小兵有必杀特效噢！</string>
+			<key>translate</key>
+			<string>Ultimate weapon to batman have slay effects oh!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>火属性武器会让僵尸灼烧！</string>
+			<key>translate</key>
+			<string>Fire weapons will let zombie burning!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>VIP等级越高，获得的战斗BUFF越高</string>
+			<key>translate</key>
+			<string>VIP level is higher, the higher the gain combat BUFF</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>强化过的武器有更强的战斗力！</string>
+			<key>translate</key>
+			<string>Strengthen the weapons have stronger fighting!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>武器强化一定的等级会带有特殊的效果！</string>
+			<key>translate</key>
+			<string>Weapons to strengthen certain level will have a special effect!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>地狱模式需要你有超强的战斗力！</string>
+			<key>translate</key>
+			<string>Hell mode need you have a strong combat effectiveness.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>小心路上遇到的精英僵尸！</string>
+			<key>translate</key>
+			<string>Be careful on the road of elite zombie! Zombie! Zombie!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>突击队长近战还是很给力！</string>
+			<key>translate</key>
+			<string>Captain assault melee or very awesome!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>钢铁巨人等待您来下达命令！</string>
+			<key>translate</key>
+			<string>Iron giant waiting for you to order!</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>不同的僚机会有不同的效果！</string>
+			<key>translate</key>
+			<string>The effects different current opportunities!</string>
+		</dict>
+	</array>
+	<key>UserSkinCharacterInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>无</string>
+			<key>translate</key>
+			<string>There is no</string>
+		</dict>
+	</array>
+	<key>UserSkinImageInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>僵尸猎人</string>
+			<key>translate</key>
+			<string>The zombie hunter</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>突击队长</string>
+			<key>translate</key>
+			<string>Commando captain</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>钢铁巨人</string>
+			<key>translate</key>
+			<string>Iron giant</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>猎杀僵尸，舍我其谁？</string>
+			<key>translate</key>
+			<string>Kill zombies, who give me it?</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>突击队长，随时待命。</string>
+			<key>translate</key>
+			<string>The captain of the assault, on standby.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>钢铁战士，霸气登场！</string>
+			<key>translate</key>
+			<string>Iron soldiers, domineering appearance!</string>
+		</dict>
+	</array>
+	<key>VipInfo</key>
+	<array/>
+	<key>WeaponInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>钢之刃</string>
+			<key>translate</key>
+			<string>The blade of steel</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>冰之刃</string>
+			<key>translate</key>
+			<string>The blade of ice</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>火之刃</string>
+			<key>translate</key>
+			<string>The blade of the fire</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>影之刃</string>
+			<key>translate</key>
+			<string>The blade of the shadow</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>魂之刃</string>
+			<key>translate</key>
+			<string>The blade of the soul</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>V烈焰刀</string>
+			<key>translate</key>
+			<string>V flame cutter</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>V狂战斧</string>
+			<key>translate</key>
+			<string>V battle fury</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>击退</string>
+			<key>translate</key>
+			<string>To fend off</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>击退 冻结</string>
+			<key>translate</key>
+			<string>Repel the freeze</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>击退 燃烧</string>
+			<key>translate</key>
+			<string>Repel the combustion</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>击退 必杀</string>
+			<key>translate</key>
+			<string>Repel the kill</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>击退 必杀 噬魂</string>
+			<key>translate</key>
+			<string>Repel slay eats the soul</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>击退 燃烧</string>
+			<key>translate</key>
+			<string>Repel the combustion</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>击退 必杀</string>
+			<key>translate</key>
+			<string>Repel the kill</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>精钢锻造的刀刃，挥击时将敌人击退。</string>
+			<key>translate</key>
+			<string>Stainless steel forging of the blade, swing will repel the enemy.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>寒冰工艺制造，冰霜之力将冻结敌人。</string>
+			<key>translate</key>
+			<string>Ice manufacture process, the force of frost would freeze the enemy.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>火红的刀刃会使所有敌人熊熊燃烧。</string>
+			<key>translate</key>
+			<string>Blazing red blade will make all the enemy.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>暗影水晶制成的刀刃，可以一击必杀。</string>
+			<key>translate</key>
+			<string>Shadow blade made of crystal, can blow slay.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>神秘的刀刃，可以吸取死去敌人的灵魂。</string>
+			<key>translate</key>
+			<string>The mystery of the blade, can absorb the soul of the dead enemy.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>烈焰武器，强力击退效果，附带燃烧。</string>
+			<key>translate</key>
+			<string>Flame weapons, strongly repel effect, the supplementary burning.</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>大斧一挥，僵尸分分钟全部被击碎。</string>
+			<key>translate</key>
+			<string>A wave of his axe zombies are all break points minutes.</string>
+		</dict>
+	</array>
+	<key>WingmanDescribeInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>尔等生来既是罪恶</string>
+			<key>translate</key>
+			<string>Your is born evil</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>引力无处不在</string>
+			<key>translate</key>
+			<string>Gravity is everywhere</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>提供方舟级的保护</string>
+			<key>translate</key>
+			<string>Provide the ark level of protection</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>让你无惧毒雾和伤害</string>
+			<key>translate</key>
+			<string>Let you fear smog and damage</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>接受来自萨克的怒火</string>
+			<key>translate</key>
+			<string>From Isaac's anger</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>内置外太空的极寒陨石</string>
+			<key>translate</key>
+			<string>The extremely cold meteorites built-in outer space</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>私人医疗终端机</string>
+			<key>translate</key>
+			<string>Private medical terminal</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>高温将撕碎一切防御</string>
+			<key>translate</key>
+			<string>High temperature will be tore up all the defense</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>造成激光伤害</string>
+			<key>translate</key>
+			<string>Laser damage</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>造成机枪伤害</string>
+			<key>translate</key>
+			<string>Machine gun fire damage</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>造成碾碎伤害</string>
+			<key>translate</key>
+			<string>Crushing damage</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>具有治疗能力</string>
+			<key>translate</key>
+			<string>With treatment ability</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>造成散弹伤害</string>
+			<key>translate</key>
+			<string>Shotgun damage</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>造成闪电伤害</string>
+			<key>translate</key>
+			<string>Lightning damage</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>具有治疗能力</string>
+			<key>translate</key>
+			<string>With treatment ability</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>造成火焰伤害</string>
+			<key>translate</key>
+			<string>Fire damage</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>27</integer>
+			<key>origin</key>
+			<string>附带减速效果</string>
+			<key>translate</key>
+			<string>Along with the slow effect</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>28</integer>
+			<key>origin</key>
+			<string>减缓掉落伤害</string>
+			<key>translate</key>
+			<string>Slow falling damage</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>29</integer>
+			<key>origin</key>
+			<string>来自诺亚的护盾</string>
+			<key>translate</key>
+			<string>Shield from Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>30</integer>
+			<key>origin</key>
+			<string>自动净化周围的毒雾</string>
+			<key>translate</key>
+			<string>Purify poisonous fog around automatically</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>31</integer>
+			<key>origin</key>
+			<string>自动收集掉落的物质</string>
+			<key>translate</key>
+			<string>Automatically collect a fall of material</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>32</integer>
+			<key>origin</key>
+			<string>强化闪电的麻痹作用</string>
+			<key>translate</key>
+			<string>To strengthen the lightning paralysis</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>33</integer>
+			<key>origin</key>
+			<string>诺亚级护盾生成器</string>
+			<key>translate</key>
+			<string>Noah grade shield generator</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>34</integer>
+			<key>origin</key>
+			<string>无惧僵尸减速</string>
+			<key>translate</key>
+			<string>Fearless zombies to slow down</string>
+		</dict>
+	</array>
+	<key>WingmanInfo</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>审判</string>
+			<key>translate</key>
+			<string>The trial</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>审判</string>
+			<key>translate</key>
+			<string>The trial</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>审判</string>
+			<key>translate</key>
+			<string>The trial</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>审判</string>
+			<key>translate</key>
+			<string>The trial</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>24</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>25</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>26</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>27</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>28</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>29</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>30</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>31</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>32</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>33</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>34</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>35</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>36</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>37</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>38</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>39</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>40</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>41</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+	</array>
+	<key>WingmanInfo_copy</key>
+	<array>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>origin</key>
+			<string>审判</string>
+			<key>translate</key>
+			<string>The trial</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>origin</key>
+			<string>审判</string>
+			<key>translate</key>
+			<string>The trial</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>origin</key>
+			<string>审判</string>
+			<key>translate</key>
+			<string>The trial</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>origin</key>
+			<string>审判</string>
+			<key>translate</key>
+			<string>The trial</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>9</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>10</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>11</integer>
+			<key>origin</key>
+			<string>引力</string>
+			<key>translate</key>
+			<string>gravity</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>12</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>13</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>14</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>15</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>16</integer>
+			<key>origin</key>
+			<string>诺亚</string>
+			<key>translate</key>
+			<string>Noah</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>17</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>18</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>19</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>20</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>21</integer>
+			<key>origin</key>
+			<string>涤罪</string>
+			<key>translate</key>
+			<string>purgatory</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>22</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>23</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>24</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>25</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>26</integer>
+			<key>origin</key>
+			<string>迷你萨克</string>
+			<key>translate</key>
+			<string>Mini Isaac</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>27</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>28</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>29</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>30</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>31</integer>
+			<key>origin</key>
+			<string>星陨</string>
+			<key>translate</key>
+			<string>Star meteor</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>32</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>33</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>34</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>35</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>36</integer>
+			<key>origin</key>
+			<string>智能护卫</string>
+			<key>translate</key>
+			<string>Smart guard</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>37</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>38</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>39</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>40</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+		<dict>
+			<key>index</key>
+			<integer>41</integer>
+			<key>origin</key>
+			<string>破军</string>
+			<key>translate</key>
+			<string>To break the</string>
+		</dict>
+	</array>
+</dict>
+</plist>

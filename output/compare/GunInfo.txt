@@ -1,0 +1,136 @@
+3原文:	左轮
+3译文:	revolver
+4原文:	黄金沙鹰
+4译文:	The yellow sands eagle
+5原文:	双持MP5
+5译文:	Dual wield't a MP5
+6原文:	毁灭者
+6译文:	The destroyer
+7原文:	M1散弹
+7译文:	M1 shotgun
+8原文:	火神
+8译文:	vulcan
+9原文:	V-吸血鬼
+9译文:	V - the vampire
+10原文:	摇霸
+10译文:	Shake bully
+11原文:	追杀者
+11译文:	After the
+12原文:	要你命3000
+12译文:	Kill you 3000
+13原文:	能量炮
+13译文:	Energy cannon
+14原文:	激光炮
+14译文:	The laser gun
+15原文:	僵尸虐杀者
+15译文:	The zombie torture-murderers
+16原文:	超神虐杀者
+16译文:	Torture-murderers super god
+17原文:	中
+17译文:	In the
+18原文:	中
+18译文:	In the
+19原文:	中
+19译文:	In the
+20原文:	极快
+20译文:	Very fast
+21原文:	慢
+21译文:	slow
+22原文:	快
+22译文:	fast
+23原文:	极快
+23译文:	Very fast
+24原文:	极慢
+24译文:	Extremely slow
+25原文:	快
+25译文:	fast
+26原文:	中
+26译文:	In the
+27原文:	极快
+27译文:	Very fast
+28原文:	慢
+28译文:	slow
+29原文:	极慢
+29译文:	Extremely slow
+30原文:	极快
+30译文:	Very fast
+31原文:	极慢
+31译文:	Extremely slow
+32原文:	中
+32译文:	In the
+33原文:	中
+33译文:	In the
+34原文:	快
+34译文:	fast
+35原文:	无限子弹
+35译文:	The bullet infinite
+36原文:	穿透
+36译文:	through
+37原文:	爆炸
+37译文:	The explosion
+38原文:	连击
+38译文:	combo
+39原文:	连击 穿透
+39译文:	Combo to penetrate
+40原文:	速射
+40译文:	Rapid fire
+41原文:	速射
+41译文:	Rapid fire
+42原文:	散弹 暴击
+42译文:	Shotgun crit
+43原文:	燃烧 穿透
+43译文:	Burning through
+44原文:	噬魂
+44译文:	Eats the soul
+45原文:	速射
+45译文:	Rapid fire
+46原文:	追踪 散弹
+46译文:	Track the shotgun
+47原文:	暴击 爆炸 冻结
+47译文:	Crit blast freezing
+48原文:	速射
+48译文:	Rapid fire
+49原文:	蓄力 穿透
+49译文:	Xu li through
+50原文:	分裂 追踪 必杀
+50译文:	Split track kill
+51原文:	分裂 追踪 必杀
+51译文:	Split track kill
+52原文:	穿透 必杀
+52译文:	Through the kill
+53原文:	CT专用手枪，新人上手必备武器。
+53译文:	CT dedicated pistol, newcomer fit for weapons.
+54原文:	传说中的银色左轮，能轻松击穿僵尸。
+54译文:	The legendary silver revolver, can easily breakdown zombies.
+55原文:	黄金沙鹰，至尊品质，身份象征。
+55译文:	Yellow sands eagle, supreme quality, status symbol.
+56原文:	德国制造双持MP5，拥有极高射速。
+56译文:	Made in Germany dual wield't a MP5, has the extremely high speed.
+57原文:	以闪电毁灭之力连发三枪并穿透敌人。
+57译文:	By sending 3 guns and penetrate the enemy to destroy the power of lightning.
+58原文:	柯尔特公司研制的M4步枪的子变体。
+58译文:	Developed colt M4 rifle variants.
+59原文:	没用过AK47的人生是不完整的。
+59译文:	Used ak47s life is incomplete.
+60原文:	一次七发的毁灭性武器，高概率暴击。
+60译文:	A seven devastating weapons, high probability crit.
+61原文:	以神之名把敌人烧的渣渣都不剩。
+61译文:	In the name of god burn of the Tony left the enemy.
+62原文:	吸血效果惊人，无尽杀戮必备。
+62译文:	Vampire effect, endless killing necessary.
+63原文:	摇出节奏摇出霸气，摇的僵尸哭爹喊娘。
+63译文:	The domineering, wave the rhythm of the zombie cry dad shouted niang.
+64原文:	发出三道自动追踪敌人的动感杀人波。
+64译文:	Send three automatic tracking dynamic wave to kill the enemy.
+65原文:	达文西精心推荐，把僵尸一发入魂。
+65译文:	Leonardo carefully recommended, the zombie round into the soul.
+66原文:	采用能量技术，连发威力强大的能量弹。
+66译文:	By adopting the technology of energy, repeating powerful energy to play.
+67原文:	按住攻击进行蓄力，发射粗又硬的激光。
+67译文:	Hold the attack to xu li, laser emission thick and hard.
+68原文:	一枪四弹，追踪必杀，狂虐僵尸。
+68译文:	Four play a gun, tracking slay, far the zombies.
+69原文:	虐杀者超神版，八心八弹，天下无敌。
+69译文:	Torture-murderers super god edition, eight, eight heart world-beater.
+70原文:	超神穿透散射，秒杀一切僵尸。
+70译文:	Super god through scattering, seconds kill all zombies.

@@ -1,0 +1,42 @@
+3原文:	提升武器星数可以大大提高战力噢！
+3译文:	Upgrade weapons star number can greatly improve the power oh!
+4原文:	从高台掉落要小心受伤噢！
+4译文:	From the tower of be careful fall injury oh!
+5原文:	击碎箱子会掉落各种道具噢！
+5译文:	Smash box will drop props oh!
+6原文:	注意躲避不同的障碍物！
+6译文:	Pay attention to avoid different obstacles!
+7原文:	战前装备能让您大幅提高战力噢！
+7译文:	Before the war equipment enables you to greatly improve power oh!
+8原文:	手雷可以造成巨大伤害，谁用谁知道！
+8译文:	Grenades can cause great harm, who used who knows!
+9原文:	超神器，魂之刃杀怪以后会回血噢！
+9译文:	Super artifact, the soul of monsters will h. oh!
+10原文:	升满5星的武器子弹无限！
+10译文:	L full 5 star weapons bullet infinite!
+11原文:	获得S级评价可以进行抽牌！
+11译文:	Get the s-class evaluation can draw!
+12原文:	无尽杀戮闯过的关卡越多获得奖励越多！
+12译文:	Endless killing through the more levels more rewarded!
+13原文:	冰属性武器会让僵尸迟缓！
+13译文:	Ice attribute weapons will make slow zombies!
+14原文:	终极武器对小兵有必杀特效噢！
+14译文:	Ultimate weapon to batman have slay effects oh!
+15原文:	火属性武器会让僵尸灼烧！
+15译文:	Fire weapons will let zombie burning!
+16原文:	VIP等级越高，获得的战斗BUFF越高
+16译文:	VIP level is higher, the higher the gain combat BUFF
+17原文:	强化过的武器有更强的战斗力！
+17译文:	Strengthen the weapons have stronger fighting!
+18原文:	武器强化一定的等级会带有特殊的效果！
+18译文:	Weapons to strengthen certain level will have a special effect!
+19原文:	地狱模式需要你有超强的战斗力！
+19译文:	Hell mode need you have a strong combat effectiveness.
+20原文:	小心路上遇到的精英僵尸！
+20译文:	Be careful on the road of elite zombie! Zombie! Zombie!
+21原文:	突击队长近战还是很给力！
+21译文:	Captain assault melee or very awesome!
+22原文:	钢铁巨人等待您来下达命令！
+22译文:	Iron giant waiting for you to order!
+23原文:	不同的僚机会有不同的效果！
+23译文:	The effects different current opportunities!

@@ -1,0 +1,6 @@
+3 僵尸猎人	The zombie hunter
+4 突击队长	Commando captain
+5 钢铁巨人	Iron giant
+6 猎杀僵尸，舍我其谁？	Kill zombies, who give me it?
+7 突击队长，随时待命。	The captain of the assault, on standby.
+8 钢铁战士，霸气登场！	Iron soldiers, domineering appearance!

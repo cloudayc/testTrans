@@ -1,0 +1,112 @@
+3原文:	使用近身武器消灭10个僵尸
+3译文:	Using a melee weapon to eliminate 10 zombies
+4原文:	使用近身武器消灭100个僵尸
+4译文:	Using a melee weapon to eliminate 100 zombies
+5原文:	使用近身武器消灭1000个僵尸
+5译文:	Using a melee weapon to eliminate 1000 zombies
+6原文:	使用近身武器消灭10000个僵尸
+6译文:	Using a melee weapon to eliminate 10000 zombies
+7原文:	使用手枪消灭50个僵尸
+7译文:	Use guns kill 50 zombies
+8原文:	使用手枪消灭500个僵尸
+8译文:	Use gun kill 500 zombies
+9原文:	使用手枪消灭5000个僵尸
+9译文:	Use gun kill 5000 zombies
+10原文:	使用手枪消灭50000个僵尸
+10译文:	Use gun kill 50000 zombies
+11原文:	使用机枪消灭100个僵尸
+11译文:	Use machine guns kill 100 zombies
+12原文:	使用机枪消灭1000个僵尸
+12译文:	Use machine guns kill 1000 zombies
+13原文:	使用机枪消灭10000个僵尸
+13译文:	Use machine guns kill 10000 zombies
+14原文:	使用机枪消灭100000个僵尸
+14译文:	Use machine guns kill 100000 zombies
+15原文:	使用手雷10次
+15译文:	Use grenades 10 times
+16原文:	使用手雷50次
+16译文:	Using grenade 50 times
+17原文:	使用手雷200次
+17译文:	Use grenades 200 times
+18原文:	使用手雷500次
+18译文:	Use grenades 500 times
+19原文:	成功通过普通模式废弃都市
+19译文:	Success through normal mode abandoned city
+20原文:	成功通过普通模式迷失丛林
+20译文:	Success through normal mode lost in the jungle
+21原文:	成功通过普通模式幽暗仓库
+21译文:	Success through normal mode dim warehouse
+22原文:	成功通过普通模式破旧车站
+22译文:	Success through normal mode old station
+23原文:	成功通过普通模式化学工厂
+23译文:	Success through the normal mode of chemical factory
+24原文:	成功通过普通模式丧尸森林
+24译文:	Success through normal mode zombie forest
+25原文:	成功通过普通模式死亡城市
+25译文:	Success through the normal mode of death
+26原文:	成功通过普通模式实验地堡
+26译文:	Success through the normal mode experiment bunker
+27原文:	5个关卡达到S评级
+27译文:	Five levels reach S rating
+28原文:	10个关卡达到S评级
+28译文:	10 levels reach S rating
+29原文:	15个关卡达到S评级
+29译文:	15 levels reach S rating
+30原文:	20个关卡达到S评级
+30译文:	20 levels reach S rating
+31原文:	25个关卡达到S评级
+31译文:	25 levels reach S rating
+32原文:	30个关卡达到S评级
+32译文:	30 levels reach S rating
+33原文:	35个关卡达到S评级
+33译文:	35 levels reach S rating
+34原文:	40个关卡达到S评级
+34译文:	40 levels reach S rating
+35原文:	45个关卡达到S评级
+35译文:	45 reach S rating level
+36原文:	50个关卡达到S评级
+36译文:	50 levels reach S rating
+37原文:	55个关卡达到S评级
+37译文:	55 reach S rating level
+38原文:	60个关卡达到S评级
+38译文:	60 levels reach S rating
+39原文:	65个关卡达到S评级
+39译文:	65 levels reach S rating
+40原文:	70个关卡达到S评级
+40译文:	70 levels reach S rating
+41原文:	75个关卡达到S评级
+41译文:	75 levels reach S rating
+42原文:	80个关卡达到S评级
+42译文:	80 levels reach S rating
+43原文:	85个关卡达到S评级
+43译文:	85 levels reach S rating
+44原文:	90个关卡达到S评级
+44译文:	90 levels reach S rating
+45原文:	95个关卡达到S评级
+45译文:	95 levels reach S rating
+46原文:	100个关卡达到S评级
+46译文:	100 levels reach S rating
+47原文:	成功通过普通模式恐怖密林
+47译文:	Success through normal mode terrorist jungle
+48原文:	成功通过普通模式南部城市
+48译文:	Through the normal mode in the southern city of success
+49原文:	成功通过地狱模式废弃都市
+49译文:	Success through hell mode abandoned city
+50原文:	成功通过地狱模式迷失丛林
+50译文:	Success through hell mode lost in the jungle
+51原文:	成功通过地狱模式幽暗仓库
+51译文:	Success through hell mode dim warehouse
+52原文:	成功通过地狱模式破旧车站
+52译文:	Success through hell mode old station
+53原文:	成功通过地狱模式化学工厂
+53译文:	Success through hell mode chemical plant
+54原文:	成功通过地狱模式丧尸森林
+54译文:	Success through hell mode zombie forest
+55原文:	成功通过地狱模式死亡城市
+55译文:	Patterns of success through hell death
+56原文:	成功通过地狱模式实验地堡
+56译文:	Success through the hell mode experiment bunker
+57原文:	成功通过地狱模式恐怖密林
+57译文:	Success through hell mode terrorist jungle
+58原文:	成功通过地狱模式南部城市
+58译文:	Through hell mode in the southern city of success

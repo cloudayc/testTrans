@@ -1,0 +1,62 @@
+3原文:	近战武器消灭100僵尸
+3译文:	A melee weapon to eliminate 100 zombies
+4原文:	近战武器消灭300僵尸
+4译文:	A melee weapon to eliminate 300 zombies
+5原文:	使用手枪消灭150僵尸
+5译文:	Use gun kill 150 zombies
+6原文:	使用手枪消灭350僵尸
+6译文:	Use gun kill 350 zombies
+7原文:	使用机枪消灭300僵尸
+7译文:	Use machine guns kill 300 zombies
+8原文:	使用机枪消灭500僵尸
+8译文:	Use machine guns kill 500 zombies
+9原文:	累计消灭600僵尸
+9译文:	Eliminate 600 zombies
+10原文:	累计消灭1000僵尸
+10译文:	Eliminate 1000 zombies
+11原文:	3个关卡获得S级评级
+11译文:	Three levels for the s-class rating
+12原文:	5个关卡获得S级评级
+12译文:	Five levels for the s-class rating
+13原文:	8个关卡获A以上评级
+13译文:	Eight levels of the above A rating
+14原文:	10个关卡获A以上评级
+14译文:	10 levels of the above A rating
+15原文:	武器升级3次
+15译文:	Weapon upgrades 3 times
+16原文:	武器升级4次
+16译文:	Weapon upgrades for four
+17原文:	武器升级5次
+17译文:	Weapon upgrades to 5 times
+18原文:	活跃抽奖抽取3次
+18译文:	Active lottery draw 3 times
+19原文:	活跃抽奖抽取4次
+19译文:	Active lottery draw four times
+20原文:	活跃抽奖抽取5次
+20译文:	Active lottery draw 5 times
+21原文:	活跃抽奖抽取3次
+21译文:	Active lottery draw 3 times
+22原文:	活跃抽奖抽取4次
+22译文:	Active lottery draw four times
+23原文:	武器升级3次
+23译文:	Weapon upgrades 3 times
+24原文:	使用手枪消灭50僵尸
+24译文:	Use gun kill 50 zombies
+25原文:	使用机枪消灭50僵尸
+25译文:	Use machine guns kill 50 zombies
+26原文:	3个关卡获得S级评级
+26译文:	Three levels for the s-class rating
+27原文:	4个关卡获得S级评级
+27译文:	Four levels for the s-class rating
+28原文:	5个关卡获得A级评级
+28译文:	Five levels for A grade rating
+29原文:	累计消灭300僵尸
+29译文:	Eliminate 300 zombies
+30原文:	累计消灭500僵尸
+30译文:	Eliminate 500 zombies
+31原文:	使用近战消灭300僵尸
+31译文:	Use melee kill 300 zombies
+32原文:	携带僚机消灭600僵尸
+32译文:	Carry a wingman to eliminate 600 zombies
+33原文:	无尽模式到达30层
+33译文:	Endless mode to reach 30

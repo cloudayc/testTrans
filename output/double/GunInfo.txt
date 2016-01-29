@@ -1,0 +1,68 @@
+3 左轮	revolver
+4 黄金沙鹰	The yellow sands eagle
+5 双持MP5	Dual wield't a MP5
+6 毁灭者	The destroyer
+7 M1散弹	M1 shotgun
+8 火神	vulcan
+9 V-吸血鬼	V - the vampire
+10 摇霸	Shake bully
+11 追杀者	After the
+12 要你命3000	Kill you 3000
+13 能量炮	Energy cannon
+14 激光炮	The laser gun
+15 僵尸虐杀者	The zombie torture-murderers
+16 超神虐杀者	Torture-murderers super god
+17 中	In the
+18 中	In the
+19 中	In the
+20 极快	Very fast
+21 慢	slow
+22 快	fast
+23 极快	Very fast
+24 极慢	Extremely slow
+25 快	fast
+26 中	In the
+27 极快	Very fast
+28 慢	slow
+29 极慢	Extremely slow
+30 极快	Very fast
+31 极慢	Extremely slow
+32 中	In the
+33 中	In the
+34 快	fast
+35 无限子弹	The bullet infinite
+36 穿透	through
+37 爆炸	The explosion
+38 连击	combo
+39 连击 穿透	Combo to penetrate
+40 速射	Rapid fire
+41 速射	Rapid fire
+42 散弹 暴击	Shotgun crit
+43 燃烧 穿透	Burning through
+44 噬魂	Eats the soul
+45 速射	Rapid fire
+46 追踪 散弹	Track the shotgun
+47 暴击 爆炸 冻结	Crit blast freezing
+48 速射	Rapid fire
+49 蓄力 穿透	Xu li through
+50 分裂 追踪 必杀	Split track kill
+51 分裂 追踪 必杀	Split track kill
+52 穿透 必杀	Through the kill
+53 CT专用手枪，新人上手必备武器。	CT dedicated pistol, newcomer fit for weapons.
+54 传说中的银色左轮，能轻松击穿僵尸。	The legendary silver revolver, can easily breakdown zombies.
+55 黄金沙鹰，至尊品质，身份象征。	Yellow sands eagle, supreme quality, status symbol.
+56 德国制造双持MP5，拥有极高射速。	Made in Germany dual wield't a MP5, has the extremely high speed.
+57 以闪电毁灭之力连发三枪并穿透敌人。	By sending 3 guns and penetrate the enemy to destroy the power of lightning.
+58 柯尔特公司研制的M4步枪的子变体。	Developed colt M4 rifle variants.
+59 没用过AK47的人生是不完整的。	Used ak47s life is incomplete.
+60 一次七发的毁灭性武器，高概率暴击。	A seven devastating weapons, high probability crit.
+61 以神之名把敌人烧的渣渣都不剩。	In the name of god burn of the Tony left the enemy.
+62 吸血效果惊人，无尽杀戮必备。	Vampire effect, endless killing necessary.
+63 摇出节奏摇出霸气，摇的僵尸哭爹喊娘。	The domineering, wave the rhythm of the zombie cry dad shouted niang.
+64 发出三道自动追踪敌人的动感杀人波。	Send three automatic tracking dynamic wave to kill the enemy.
+65 达文西精心推荐，把僵尸一发入魂。	Leonardo carefully recommended, the zombie round into the soul.
+66 采用能量技术，连发威力强大的能量弹。	By adopting the technology of energy, repeating powerful energy to play.
+67 按住攻击进行蓄力，发射粗又硬的激光。	Hold the attack to xu li, laser emission thick and hard.
+68 一枪四弹，追踪必杀，狂虐僵尸。	Four play a gun, tracking slay, far the zombies.
+69 虐杀者超神版，八心八弹，天下无敌。	Torture-murderers super god edition, eight, eight heart world-beater.
+70 超神穿透散射，秒杀一切僵尸。	Super god through scattering, seconds kill all zombies.

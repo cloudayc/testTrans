@@ -1,0 +1,21 @@
+3 提升武器星数可以大大提高战力噢！	Upgrade weapons star number can greatly improve the power oh!
+4 从高台掉落要小心受伤噢！	From the tower of be careful fall injury oh!
+5 击碎箱子会掉落各种道具噢！	Smash box will drop props oh!
+6 注意躲避不同的障碍物！	Pay attention to avoid different obstacles!
+7 战前装备能让您大幅提高战力噢！	Before the war equipment enables you to greatly improve power oh!
+8 手雷可以造成巨大伤害，谁用谁知道！	Grenades can cause great harm, who used who knows!
+9 超神器，魂之刃杀怪以后会回血噢！	Super artifact, the soul of monsters will h. oh!
+10 升满5星的武器子弹无限！	L full 5 star weapons bullet infinite!
+11 获得S级评价可以进行抽牌！	Get the s-class evaluation can draw!
+12 无尽杀戮闯过的关卡越多获得奖励越多！	Endless killing through the more levels more rewarded!
+13 冰属性武器会让僵尸迟缓！	Ice attribute weapons will make slow zombies!
+14 终极武器对小兵有必杀特效噢！	Ultimate weapon to batman have slay effects oh!
+15 火属性武器会让僵尸灼烧！	Fire weapons will let zombie burning!
+16 VIP等级越高，获得的战斗BUFF越高	VIP level is higher, the higher the gain combat BUFF
+17 强化过的武器有更强的战斗力！	Strengthen the weapons have stronger fighting!
+18 武器强化一定的等级会带有特殊的效果！	Weapons to strengthen certain level will have a special effect!
+19 地狱模式需要你有超强的战斗力！	Hell mode need you have a strong combat effectiveness.
+20 小心路上遇到的精英僵尸！	Be careful on the road of elite zombie! Zombie! Zombie!
+21 突击队长近战还是很给力！	Captain assault melee or very awesome!
+22 钢铁巨人等待您来下达命令！	Iron giant waiting for you to order!
+23 不同的僚机会有不同的效果！	The effects different current opportunities!

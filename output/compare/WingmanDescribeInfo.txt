@@ -1,0 +1,64 @@
+3原文:	尔等生来既是罪恶
+3译文:	Your is born evil
+4原文:	引力无处不在
+4译文:	Gravity is everywhere
+5原文:	提供方舟级的保护
+5译文:	Provide the ark level of protection
+6原文:	让你无惧毒雾和伤害
+6译文:	Let you fear smog and damage
+7原文:	接受来自萨克的怒火
+7译文:	From Isaac's anger
+8原文:	内置外太空的极寒陨石
+8译文:	The extremely cold meteorites built-in outer space
+9原文:	私人医疗终端机
+9译文:	Private medical terminal
+10原文:	高温将撕碎一切防御
+10译文:	High temperature will be tore up all the defense
+11原文:	造成激光伤害
+11译文:	Laser damage
+12原文:	造成机枪伤害
+12译文:	Machine gun fire damage
+13原文:	造成碾碎伤害
+13译文:	Crushing damage
+14原文:	具有治疗能力
+14译文:	With treatment ability
+15原文:	造成散弹伤害
+15译文:	Shotgun damage
+16原文:	造成闪电伤害
+16译文:	Lightning damage
+17原文:	具有治疗能力
+17译文:	With treatment ability
+18原文:	造成火焰伤害
+18译文:	Fire damage
+19原文:	提升手枪伤害20%
+19译文:	(null)
+20原文:	提升机枪伤害20%
+20译文:	(null)
+21原文:	提升近战伤害20%
+21译文:	(null)
+22原文:	金币获得量提升20%
+22译文:	(null)
+23原文:	提升手枪伤害20%
+23译文:	(null)
+24原文:	提升幸运度20%
+24译文:	(null)
+25原文:	减少受到的伤害20%
+25译文:	(null)
+26原文:	提升机枪伤害20%
+26译文:	(null)
+27原文:	附带减速效果
+27译文:	Along with the slow effect
+28原文:	减缓掉落伤害
+28译文:	Slow falling damage
+29原文:	来自诺亚的护盾
+29译文:	Shield from Noah
+30原文:	自动净化周围的毒雾
+30译文:	Purify poisonous fog around automatically
+31原文:	自动收集掉落的物质
+31译文:	Automatically collect a fall of material
+32原文:	强化闪电的麻痹作用
+32译文:	To strengthen the lightning paralysis
+33原文:	诺亚级护盾生成器
+33译文:	Noah grade shield generator
+34原文:	无惧僵尸减速
+34译文:	Fearless zombies to slow down

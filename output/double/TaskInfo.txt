@@ -1,0 +1,31 @@
+3 近战武器消灭100僵尸	A melee weapon to eliminate 100 zombies
+4 近战武器消灭300僵尸	A melee weapon to eliminate 300 zombies
+5 使用手枪消灭150僵尸	Use gun kill 150 zombies
+6 使用手枪消灭350僵尸	Use gun kill 350 zombies
+7 使用机枪消灭300僵尸	Use machine guns kill 300 zombies
+8 使用机枪消灭500僵尸	Use machine guns kill 500 zombies
+9 累计消灭600僵尸	Eliminate 600 zombies
+10 累计消灭1000僵尸	Eliminate 1000 zombies
+11 3个关卡获得S级评级	Three levels for the s-class rating
+12 5个关卡获得S级评级	Five levels for the s-class rating
+13 8个关卡获A以上评级	Eight levels of the above A rating
+14 10个关卡获A以上评级	10 levels of the above A rating
+15 武器升级3次	Weapon upgrades 3 times
+16 武器升级4次	Weapon upgrades for four
+17 武器升级5次	Weapon upgrades to 5 times
+18 活跃抽奖抽取3次	Active lottery draw 3 times
+19 活跃抽奖抽取4次	Active lottery draw four times
+20 活跃抽奖抽取5次	Active lottery draw 5 times
+21 活跃抽奖抽取3次	Active lottery draw 3 times
+22 活跃抽奖抽取4次	Active lottery draw four times
+23 武器升级3次	Weapon upgrades 3 times
+24 使用手枪消灭50僵尸	Use gun kill 50 zombies
+25 使用机枪消灭50僵尸	Use machine guns kill 50 zombies
+26 3个关卡获得S级评级	Three levels for the s-class rating
+27 4个关卡获得S级评级	Four levels for the s-class rating
+28 5个关卡获得A级评级	Five levels for A grade rating
+29 累计消灭300僵尸	Eliminate 300 zombies
+30 累计消灭500僵尸	Eliminate 500 zombies
+31 使用近战消灭300僵尸	Use melee kill 300 zombies
+32 携带僚机消灭600僵尸	Carry a wingman to eliminate 600 zombies
+33 无尽模式到达30层	Endless mode to reach 30

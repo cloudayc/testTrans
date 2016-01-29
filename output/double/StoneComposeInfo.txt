@@ -1,0 +1,6 @@
+3 强化石碎片	Strong fossil fragments
+4 普通强化石	Normal fossil
+5 优良强化石	Good strong fossil
+6 精品强化石	High-quality goods strong fossil
+7 超凡强化石	Strong extraordinary fossil
+8 传说强化石	Legend has it that strong fossil

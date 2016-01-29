@@ -1,0 +1,39 @@
+3 审判	The trial
+4 审判	The trial
+5 审判	The trial
+6 审判	The trial
+7 引力	gravity
+8 引力	gravity
+9 引力	gravity
+10 引力	gravity
+11 引力	gravity
+12 诺亚	Noah
+13 诺亚	Noah
+14 诺亚	Noah
+15 诺亚	Noah
+16 诺亚	Noah
+17 涤罪	purgatory
+18 涤罪	purgatory
+19 涤罪	purgatory
+20 涤罪	purgatory
+21 涤罪	purgatory
+22 迷你萨克	Mini Isaac
+23 迷你萨克	Mini Isaac
+24 迷你萨克	Mini Isaac
+25 迷你萨克	Mini Isaac
+26 迷你萨克	Mini Isaac
+27 星陨	Star meteor
+28 星陨	Star meteor
+29 星陨	Star meteor
+30 星陨	Star meteor
+31 星陨	Star meteor
+32 智能护卫	Smart guard
+33 智能护卫	Smart guard
+34 智能护卫	Smart guard
+35 智能护卫	Smart guard
+36 智能护卫	Smart guard
+37 破军	To break the
+38 破军	To break the
+39 破军	To break the
+40 破军	To break the
+41 破军	To break the

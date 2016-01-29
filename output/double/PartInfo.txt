@@ -1,0 +1,84 @@
+3 USP部件1	USP part 1
+4 USP部件2	USP part 2
+5 USP部件3	USP part 3
+6 USP部件4	USP unit 4
+7 左轮部件1	Left part 1
+8 左轮部件2	Left part 2
+9 左轮部件3	Left part 3
+10 左轮部件4	Left part 4
+11 黄金沙鹰部件1	1 yellow sands eagle parts
+12 黄金沙鹰部件2	2 yellow sands eagle parts
+13 黄金沙鹰部件3	3 yellow sands eagle parts
+14 黄金沙鹰部件4	4 yellow sands eagle parts
+15 双持MP5部件1	Dual wield't a MP5 part 1
+16 双持MP5部件2	Dual wield't a MP5 part 2
+17 双持MP5部件3	Dual wield't a MP5 part 3
+18 双持MP5部件4	Dual wield't a MP5 part 4
+19 毁灭者部件1	The destroyer part 1
+20 毁灭者部件2	The destroyer part 2
+21 毁灭者部件3	The destroyer part 3
+22 毁灭者部件4	The destroyer part 4
+23 M4A1部件1	M4A1 part 1
+24 M4A1部件2	M4A1 part 2
+25 M4A1部件3	M4A1 part 3
+26 M4A1部件4	M4A1 part 4
+27 AK47部件1	AK47 part 1
+28 AK47部件2	AK47 part 2
+29 AK47部件3	AK47 part 3
+30 AK47部件4	AK47 part 4
+31 M1散弹部件1	M1 shotgun part 1
+32 M1散弹部件2	M1 shotgun part 2
+33 M1散弹部件3	3 M1 shotgun components
+34 M1散弹部件4	M1 shotgun part 4
+35 火神部件1	Vulcan part 1
+36 火神部件2	Vulcan part 2
+37 火神部件3	Vulcan part 3
+38 火神部件4	Vulcan part 4
+39 摇霸部件1	Shake the components on the 1
+40 摇霸部件2	Shake the parts on the 2
+41 摇霸部件3	Shake the components on the 3
+42 摇霸部件4	Shake the components on the 4
+43 追杀者部件1	After the part 1
+44 追杀者部件2	After part 2
+45 追杀者部件3	After the part 3
+46 追杀者部件4	After part 4
+47 要你命3000部件1	3000 parts 1 to your life
+48 要你命3000部件2	3000 parts 2 to your life
+49 要你命3000部件3	3000 parts 3 to your life
+50 要你命3000部件4	3000 part 4 to your life
+51 能量炮部件1	Energy gun parts 1
+52 能量炮部件2	2 energy gun parts
+53 能量炮部件3	Energy gun parts 3
+54 能量炮部件4	Energy gun parts 4
+55 激光炮部件1	The laser gun part 1
+56 激光炮部件2	The laser gun part 2
+57 激光炮部件3	The laser gun parts 3
+58 激光炮部件4	Laser cannons part 4
+59 僵尸虐杀者部件1	1 the zombie torture-murderers parts
+60 僵尸虐杀者部件2	The zombie torture-murderers part 2
+61 僵尸虐杀者部件3	3 the zombie torture-murderers parts
+62 僵尸虐杀者部件4	4 the zombie torture-murderers parts
+63 超神虐杀者部件1	Super god torture-murderers part 1
+64 超神虐杀者部件2	Super god torture-murderers part 2
+65 超神虐杀者部件3	Super god torture-murderers part 3
+66 超神虐杀者部件4	Super god torture-murderers part 4
+67 钢之刃部件1	The blade of steel parts 1
+68 钢之刃部件2	The blade of steel parts 2
+69 钢之刃部件3	The blade of steel parts 3
+70 钢之刃部件4	The blade of steel parts 4
+71 冰之刃部件1	The blade of ice part 1
+72 冰之刃部件2	The blade of ice part 2
+73 冰之刃部件3	The blade of ice part 3
+74 冰之刃部件4	The blade of ice part 4
+75 火之刃部件1	The blade of fire unit 1
+76 火之刃部件2	The blade of fire unit 2
+77 火之刃部件3	The blade of fire unit 3
+78 火之刃部件4	The blade of fire unit 4
+79 影之刃部件1	The blade of the shadow part 1
+80 影之刃部件2	The blade of the shadow part 2
+81 影之刃部件3	The blade of the shadow part 3
+82 影之刃部件4	The blade of the shadow part 4
+83 魂之刃部件1	The soul of the blade part 1
+84 魂之刃部件2	The soul of the blade part 2
+85 魂之刃部件3	The soul of the blade part 3
+86 魂之刃部件4	The soul of the blade part 4

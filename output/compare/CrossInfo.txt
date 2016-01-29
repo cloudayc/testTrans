@@ -1,0 +1,204 @@
+3原文:	都市近郊  关卡目标：消灭40个僵尸
+3译文:	Urban suburban mission objectives: 40 zombies
+4原文:	都市高墙  关卡目标：坚持40秒钟不死亡
+4译文:	City wall gate goal: stick to 40 seconds don't die
+5原文:	都市街道  关卡目标：消灭45个僵尸
+5译文:	Urban street mission objectives: 45 zombies
+6原文:	都市中心  关卡目标：找到3个指定宝物
+6译文:	City center mission objectives: find three designated treasures
+7原文:	都市快速通道  关卡目标：消灭BOSS
+7译文:	Urban rapid channel Mission objectives: eliminate the BOSS
+8原文:	丛林边缘  关卡目标：消灭40个僵尸
+8译文:	Jungle edge mission objectives: 40 zombies
+9原文:	丛林深处  关卡目标：消灭45个僵尸
+9译文:	Deep in the jungle Mission objectives: 45 zombies
+10原文:	灌木地带  关卡目标：90秒到达指定地点
+10译文:	jungle Mission objectives: 90 seconds to arrive at the designated place
+11原文:	黄金海岸  关卡目标：消灭40个僵尸
+11译文:	Gold coast mission objectives: 40 zombies
+12原文:	迷失丛林深处  关卡目标：消灭BOSS
+12译文:	Lost in the depths of the jungle Mission objectives: eliminate the BOSS
+13原文:	西部街道  关卡目标：消灭40个僵尸
+13译文:	West street mission objectives: 40 zombies
+14原文:	仓库外墙  关卡目标：消灭40个僵尸
+14译文:	The warehouse wall Mission objectives: 40 zombies
+15原文:	仓库内部  关卡目标：找到3个指定宝物
+15译文:	Mission objectives within the warehouse: find three designated treasures
+16原文:	仓库中心  关卡目标：消灭30个僵尸
+16译文:	Warehouse center Mission objectives: 30 zombies
+17原文:	仓库外围广场  关卡目标：消灭BOSS
+17译文:	Warehouse outside the square Mission objectives: eliminate the BOSS
+18原文:	车站广场  关卡目标：消灭35个僵尸
+18译文:	The square Mission objectives: 35 zombies
+19原文:	断裂轨道  关卡目标：消灭60个僵尸
+19译文:	Fracture of orbital mission objectives: 60 zombies
+20原文:	列车沿线  关卡目标：消灭3个通缉僵尸
+20译文:	Train along the mission objectives: kill 3 wanted by zombies
+21原文:	破旧站台  关卡目标：消灭70个僵尸
+21译文:	Old platform Mission objectives: 70 zombies
+22原文:	车站周边荒野  关卡目标：消灭BOSS
+22译文:	The station surrounding wilderness Mission objectives: eliminate the BOSS
+23原文:	工厂大门  关卡目标：消灭40个僵尸
+23译文:	The factory gates Mission objectives: 40 zombies
+24原文:	蒸汽泵站  关卡目标：消灭40个僵尸
+24译文:	40 steam pump station mission objectives: kill zombies
+25原文:	破旧厂房  关卡目标：坚持50秒钟不死亡
+25译文:	Old factory Mission objectives: insist on not death 50 seconds
+26原文:	工厂高墙  关卡目标：消灭50个僵尸
+26译文:	Factory walls mission objectives: kill 50 zombies
+27原文:	化学燃料货柜  关卡目标：消灭BOSS
+27译文:	Chemical fuel container Mission objectives: eliminate the BOSS
+28原文:	森林外围  关卡目标：消灭40个僵尸
+28译文:	Forest peripheral mission objectives: 40 zombies
+29原文:	森林深处  关卡目标：消灭40个僵尸
+29译文:	The depths of the forest Mission objectives: 40 zombies
+30原文:	林中古冢  关卡目标：100秒到达指定地点
+30译文:	Forest tumulus checkpoint target: 100 seconds to arrive at the designated place
+31原文:	森林枯树  关卡目标：消灭40个僵尸
+31译文:	The forest trees Mission objectives: 40 zombies
+32原文:	森林丧尸据点  关卡目标：消灭BOSS
+32译文:	Forest zombie stronghold Mission objectives: eliminate the BOSS
+33原文:	城市边缘  关卡目标：消灭80个僵尸
+33译文:	The edge of the city level goal: to destroy 80 zombies
+34原文:	倒塌大楼  关卡目标：消灭85个僵尸
+34译文:	The collapsed building Mission objectives: 85 zombies
+35原文:	城市断桥  关卡目标：找到4个指定宝物
+35译文:	Broken bridge city mission objectives: find four treasures specified
+36原文:	中心广场  关卡目标：消灭85个僵尸
+36译文:	The central plaza, Mission objectives: 85 zombies
+37原文:	死亡城市中心  关卡目标：消灭BOSS
+37译文:	Death city center Mission objectives: eliminate the BOSS
+38原文:	地堡入口  关卡目标：消灭70个僵尸
+38译文:	The bunker entrance Mission objectives: 70 zombies
+39原文:	大储物间  关卡目标：消灭60个僵尸
+39译文:	Big store between content mission objectives: elimination of 60 zombies
+40原文:	地堡中心  关卡目标：消灭4个通缉僵尸
+40译文:	Bunker center mission objectives: eliminate four wanted zombies
+41原文:	病毒科室  关卡目标：消灭80个僵尸
+41译文:	Virus department Mission objectives: 80 zombies
+42原文:	实验室控制台  关卡目标：消灭BOSS
+42译文:	Laboratory console Mission objectives: eliminate the BOSS
+43原文:	密林之战  关卡目标：消灭70个僵尸
+43译文:	The battle of the forest Mission objectives: 70 zombies
+44原文:	血肉密林  关卡目标：消灭60个僵尸
+44译文:	Flesh thick forest Mission objectives: 60 zombies
+45原文:	危机四伏  关卡目标：100秒到达指定地点
+45译文:	crisis Mission objectives: 100 seconds to arrive at the designated place
+46原文:	血腥之木  关卡目标：消灭80个僵尸
+46译文:	Bloody wood Mission objectives: 80 zombies
+47原文:	屠宰场  关卡目标：消灭BOSS
+47译文:	The slaughterhouse Mission objectives: eliminate the BOSS
+48原文:	机关重重  关卡目标：消灭70个僵尸
+48译文:	In mission objectives: 70 zombies
+49原文:	火焰废墟  关卡目标：消灭60个僵尸
+49译文:	The ruins of the flame Mission objectives: 60 zombies
+50原文:	毒气之城  关卡目标：坚持50秒钟不死亡
+50译文:	The city of gas Mission objectives: insist on not death 50 seconds
+51原文:	实验体  关卡目标：消灭80个僵尸
+51译文:	Experimental mission objectives: 80 zombies
+52原文:	科学怪人  关卡目标：消灭BOSS
+52译文:	frankenstein Mission objectives: eliminate the BOSS
+53原文:	VIP专属BOSS（普通难度）
+53译文:	VIP exclusive BOSS (normal difficulty)
+54原文:	VIP专属BOSS（地狱难度）
+54译文:	VIP exclusive BOSS (hell difficulty)
+55原文:	都市近郊  关卡目标：消灭40个僵尸
+55译文:	Urban suburban mission objectives: 40 zombies
+56原文:	都市高墙  关卡目标：坚持40秒钟不死亡
+56译文:	City wall gate goal: stick to 40 seconds don't die
+57原文:	都市街道  关卡目标：消灭45个僵尸
+57译文:	Urban street mission objectives: 45 zombies
+58原文:	都市中心  关卡目标：找到3个指定宝物
+58译文:	City center mission objectives: find three designated treasures
+59原文:	都市快速通道  关卡目标：消灭BOSS
+59译文:	Urban rapid channel Mission objectives: eliminate the BOSS
+60原文:	丛林边缘  关卡目标：消灭40个僵尸
+60译文:	Jungle edge mission objectives: 40 zombies
+61原文:	丛林深处  关卡目标：消灭45个僵尸
+61译文:	Deep in the jungle Mission objectives: 45 zombies
+62原文:	灌木地带  关卡目标：90秒到达指定地点
+62译文:	jungle Mission objectives: 90 seconds to arrive at the designated place
+63原文:	黄金海岸  关卡目标：消灭40个僵尸
+63译文:	Gold coast mission objectives: 40 zombies
+64原文:	迷失丛林深处  关卡目标：消灭BOSS
+64译文:	Lost in the depths of the jungle Mission objectives: eliminate the BOSS
+65原文:	西部街道  关卡目标：消灭40个僵尸
+65译文:	West street mission objectives: 40 zombies
+66原文:	仓库外墙  关卡目标：消灭40个僵尸
+66译文:	The warehouse wall Mission objectives: 40 zombies
+67原文:	仓库内部  关卡目标：找到3个指定宝物
+67译文:	Mission objectives within the warehouse: find three designated treasures
+68原文:	仓库中心  关卡目标：消灭30个僵尸
+68译文:	Warehouse center Mission objectives: 30 zombies
+69原文:	仓库外围广场  关卡目标：消灭BOSS
+69译文:	Warehouse outside the square Mission objectives: eliminate the BOSS
+70原文:	车站广场  关卡目标：消灭35个僵尸
+70译文:	The square Mission objectives: 35 zombies
+71原文:	断裂轨道  关卡目标：消灭60个僵尸
+71译文:	Fracture of orbital mission objectives: 60 zombies
+72原文:	列车沿线  关卡目标：消灭3个通缉僵尸
+72译文:	Train along the mission objectives: kill 3 wanted by zombies
+73原文:	破旧站台  关卡目标：消灭70个僵尸
+73译文:	Old platform Mission objectives: 70 zombies
+74原文:	车站周边荒野  关卡目标：消灭BOSS
+74译文:	The station surrounding wilderness Mission objectives: eliminate the BOSS
+75原文:	工厂大门  关卡目标：消灭40个僵尸
+75译文:	The factory gates Mission objectives: 40 zombies
+76原文:	蒸汽泵站  关卡目标：消灭40个僵尸
+76译文:	40 steam pump station mission objectives: kill zombies
+77原文:	破旧厂房  关卡目标：坚持50秒钟不死亡
+77译文:	Old factory Mission objectives: insist on not death 50 seconds
+78原文:	工厂高墙  关卡目标：消灭50个僵尸
+78译文:	Factory walls mission objectives: kill 50 zombies
+79原文:	化学燃料货柜  关卡目标：消灭BOSS
+79译文:	Chemical fuel container Mission objectives: eliminate the BOSS
+80原文:	森林外围  关卡目标：消灭40个僵尸
+80译文:	Forest peripheral mission objectives: 40 zombies
+81原文:	森林深处  关卡目标：消灭40个僵尸
+81译文:	The depths of the forest Mission objectives: 40 zombies
+82原文:	林中古冢  关卡目标：100秒到达指定地点
+82译文:	Forest tumulus checkpoint target: 100 seconds to arrive at the designated place
+83原文:	森林枯树  关卡目标：消灭40个僵尸
+83译文:	The forest trees Mission objectives: 40 zombies
+84原文:	森林丧尸据点  关卡目标：消灭BOSS
+84译文:	Forest zombie stronghold Mission objectives: eliminate the BOSS
+85原文:	城市边缘  关卡目标：消灭80个僵尸
+85译文:	The edge of the city level goal: to destroy 80 zombies
+86原文:	倒塌大楼  关卡目标：消灭85个僵尸
+86译文:	The collapsed building Mission objectives: 85 zombies
+87原文:	城市断桥  关卡目标：找到4个指定宝物
+87译文:	Broken bridge city mission objectives: find four treasures specified
+88原文:	中心广场  关卡目标：消灭85个僵尸
+88译文:	The central plaza, Mission objectives: 85 zombies
+89原文:	死亡城市中心  关卡目标：消灭BOSS
+89译文:	Death city center Mission objectives: eliminate the BOSS
+90原文:	地堡入口  关卡目标：消灭70个僵尸
+90译文:	The bunker entrance Mission objectives: 70 zombies
+91原文:	大储物间  关卡目标：消灭60个僵尸
+91译文:	Big store between content mission objectives: elimination of 60 zombies
+92原文:	地堡中心  关卡目标：消灭4个通缉僵尸
+92译文:	Bunker center mission objectives: eliminate four wanted zombies
+93原文:	病毒科室  关卡目标：消灭80个僵尸
+93译文:	Virus department Mission objectives: 80 zombies
+94原文:	实验室控制台  关卡目标：消灭BOSS
+94译文:	Laboratory console Mission objectives: eliminate the BOSS
+95原文:	密林之战  关卡目标：消灭70个僵尸
+95译文:	The battle of the forest Mission objectives: 70 zombies
+96原文:	血肉密林  关卡目标：消灭60个僵尸
+96译文:	Flesh thick forest Mission objectives: 60 zombies
+97原文:	危机四伏  关卡目标：100秒到达指定地点
+97译文:	crisis Mission objectives: 100 seconds to arrive at the designated place
+98原文:	血腥之木  关卡目标：消灭80个僵尸
+98译文:	Bloody wood Mission objectives: 80 zombies
+99原文:	屠宰场  关卡目标：消灭BOSS
+99译文:	The slaughterhouse Mission objectives: eliminate the BOSS
+100原文:	机关重重  关卡目标：消灭70个僵尸
+100译文:	In mission objectives: 70 zombies
+101原文:	火焰废墟  关卡目标：消灭60个僵尸
+101译文:	The ruins of the flame Mission objectives: 60 zombies
+102原文:	毒气之城  关卡目标：坚持50秒钟不死亡
+102译文:	The city of gas Mission objectives: insist on not death 50 seconds
+103原文:	实验体  关卡目标：消灭80个僵尸
+103译文:	Experimental mission objectives: 80 zombies
+104原文:	科学怪人  关卡目标：消灭BOSS
+104译文:	frankenstein Mission objectives: eliminate the BOSS
